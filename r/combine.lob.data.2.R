@@ -5,7 +5,10 @@
 # region, year, and data type, this time use the new average row
 # ====================================================================
 
-combined.lob.data <- function(dat = hom.dat, type = "lob.pred.climate", save.file.name = "hom.dat.combined"){
+combined.lob.data <- function(dat = hom.dat, type = "lob.pred.climate", save.file.name = "hom.dat.combined", equally.weight.indices = FALSE){
+
+# equally.weight.indices uses z scores to combine as suggested by
+# Peterman et al.
 
 require(plyr)
 require(reshape)
@@ -37,8 +40,17 @@ dat.to.average <- subset(dat, average.var.name != "")
 dat.no.average <- subset(dat, average.var.name == "")
 
 dat.averaged <- ddply(dat.to.average, c("region", "type", "year", "average.var.name"), function(x) data.frame(value = mean(x$value), category = unique(x$category)[1], data.type = unique(x$data.type)[1], units = unique(x$units)[1] ,variable = unique(x$average.var.name)[1]))
+
+
+
 dat <- merge(dat.no.average, dat.averaged, all = TRUE)
 dat$average.var.name <- NULL
+if(equally.weight.indices) { # scale data first with z scores
+  dat <- ddply(dat, c("variable", "type", "category", "region"), transform, value = scale.dat(value))
+}
+
+hom.dat2 <- dat
+save(hom.dat2, file = "hom.dat2.rda")
 
 if(type == "lob.pred.climate") {
 ## combine by variable:

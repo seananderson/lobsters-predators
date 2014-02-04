@@ -16,8 +16,11 @@ hom.dat.to.plot <- transform(hom.dat.to.plot, ordered.region = reorder(region, m
 hom.dat.to.plot <- hom.dat.to.plot[order(hom.dat.to.plot$ordered.type, hom.dat.to.plot$ordered.region, hom.dat.to.plot$year), ]
 
 n <- length(unique(hom.dat.to.plot$region))
+hom.dat.combined.effort <- subset(hom.dat.combined, type == "effort")[,c("region", "year", "combined.value")]
+names(hom.dat.combined.effort)[3] <- "effort.value"
+hom.dat.to.plot <- merge(hom.dat.to.plot, hom.dat.combined.effort, all.x = TRUE)
 
-pdf("../fig/hom-time-series.pdf", width = 7, height =10)
+pdf("../fig/hom-time-series-effort.pdf", width = 7, height =10.5)
 par(mfcol = c(n, 3))
 par(mar = c(0, 3, 0, 0))
 par(oma = c(4.5,1,2,3))
@@ -29,18 +32,32 @@ i <<- 1
 hom.dat.to.plot.1960 <- subset(hom.dat.to.plot, year >=1960)
 
 d_ply(hom.dat.to.plot.1960, c("ordered.type", "ordered.region"), function(x) {
+      #browser()
       par(xpd = NA)
 current.units <- unique(x$units)[1]
 if(current.units %in% c("deg C", "Deg C", "C | ", "mean C", "C")) current.units <- expression(degree*C)
-  with(x, plot(year, combined.value, xlim = c(1960, 2010), axes = FALSE, ylab= current.units, xlab = "", lwd = 0.9, type = "l"))
+if(unique(x$type) == "environment") 
+  ylim <- c(min(x$combined.value)*0.9, max(x$combined.value)*1.1) 
+else
+  ylim <- c(0, max(x$combined.value) * 1.1)
+  
+  with(x, plot(year, combined.value, xlim = c(1960, 2010), axes = FALSE, ylab= current.units, ylim = ylim, xlab = "", lwd = 0.9, type = "l", yaxs = "i"))
+if(unique(x$type == "prey")) {
+  par(new = TRUE)
+  with(x, plot(year, effort.value, xlim = c(1960, 2010), axes = FALSE, ylab= "", xlab = "", lwd = 0.9, type = "l", lty = 2, ylim = c(0, max(effort.value, na.rm = TRUE))))
+  max.traps <- subset(x, effort.value == max(effort.value, na.rm = TRUE))
+  max.traps <- max.traps[nrow(max.traps), ]
+  text(max.traps$year, max.traps$effort.value * 0.98,round(max.traps$effort.value/1000, 0), col = "grey40", pos = 4) 
+  par(new = FALSE)
+}
   box(col = "darkgrey")
   axis(2, col = "darkgrey", col.axis = "grey30")
   text(par("usr")[1], par("usr")[4] - 0.1 * (par("usr")[4] - par("usr")[3]), unique(x$data.type), col = "grey30", pos = 4)
-  if(i %in% c(n, n*2, n*3)) axis(1, col = "darkgrey", col.axis = "grey30", cex = 0.9)
-  if(i == n*2+1) mtext("Temperature", side = 3, line = .5, col = "grey30", cex = 0.9)
-  if(i == n+1) mtext("Predators", side = 3, line = .5, col = "grey30", cex = 0.9)
-  if(i == 1) mtext("Lobsters", side = 3, line = .5, col = "grey30", cex = 0.9)
-  if(i %in% seq(n*2+1, n*3, 1)) mtext(unique(x$region), side = 4, line = 1.2, col = "grey30", cex = 0.9)
+  if(i %in% c(n, n*2, n*3)) axis(1, col = "darkgrey", col.axis = "grey30", cex = 0.8)
+  if(i == n*2+1) mtext("Temperature", side = 3, line = .5, col = "grey30", cex = 0.8)
+  if(i == n+1) mtext("Predators", side = 3, line = .5, col = "grey30", cex = 0.8)
+  if(i == 1) mtext("Lobsters", side = 3, line = .5, col = "grey30", cex = 0.8)
+  if(i %in% seq(n*2+1, n*3, 1)) mtext(unique(x$region), side = 4, line = 1.2, col = "grey30", cex = 0.8)
   i <<- i + 1
 })
 mtext("Year", side = 1, outer = TRUE, line = 2.75, col = "grey30")

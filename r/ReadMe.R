@@ -11,6 +11,7 @@ library(plyr)
 library(metafor)
 #library(nlme)
 
+setwd("r")
 # regions to import; these names must match the names on the tabs in
 # the spreadsheet
 regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts", "Rhode Island", "Connecticut", "s Gulf St Lawrence", "Nova Scotia", "Newfoundland")

@@ -23,9 +23,17 @@
 
 
 import.hom.data <- function(sheet, include.row.name = "Lobster-predators"){
-d <- read.csv(paste("../data/", sheet, ".csv", sep = ""), skip = 5, stringsAsFactors = FALSE, strip.white = TRUE) 
+d <- read.csv(paste("../data/", sheet, ".csv", sep = ""), stringsAsFactors = FALSE, strip.white = TRUE) 
 
-# figure out what rows we need:
+starting.row <- (1:nrow(d))[d[,1] == "Long name"]
+d <- d[-c(1:starting.row), ]
+
+  if(!"Type" %in% d[,1]){    
+    stop(paste(sheet, "does not have the row Type after import."))
+  }
+    
+  
+  # figure out what rows we need:
 include.row <- (1:nrow(d))[d[,1] == include.row.name]
 #print(include.row)
 col.names.row <- (1:nrow(d))[d[,1] == "Short name"]  

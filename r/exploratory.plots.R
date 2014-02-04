@@ -47,10 +47,16 @@ names(cols) <- 0:8
 #p <- ggplot(curves, aes(temps, ri_pred, colour=lag)) + geom_line(aes(group = lag)) + facet_wrap(~variable) + geom_hline(yintercept = 0, lty = 2) + ylab("Correlation") + xlab("Mean temperature")
 #ggsave("../fig/curves_predicted_temp_temp_squared.pdf", width = 10, height = 6)
 
-curve_predictions <- ldply(d.rma.mods, function(x){
+if(class(d.rma.mods[[1]]$model) != "rrma") {
+  curve_predictions <- ldply(d.rma.mods, function(x){
   avg <- predict(x$model, newmods = cbind(temps, temps^2), transf = transf.ztor)
   data.frame(mean.temp = temps, pred = avg$pred, ci.lb = avg$ci.lb, ci.ub = avg$ci.ub)
 })
+} else {
+  curve_predictions <- ldply(d.rma.mods, function(x){
+        avg <- predict(x$model, newdata = data.frame(mean.temp = temps, mean.temp.sq = temps^2), interval = "confidence")
+    data.frame(mean.temp = temps, pred = transf.ztor(avg$fit), ci.lb = transf.ztor(avg$lwr), ci.ub = transf.ztor(avg$upr))
+})}
 
 x <- subset(curve_predictions, variable == "predator" & lag == 3)
 pt.dat <- subset(d.ri.cis, lag == 3 & variable == "predator")

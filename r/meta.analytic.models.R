@@ -89,10 +89,10 @@ region_group_df <- data.frame(region = c("Connecticut", "Georges Bank",
 d.ri$region.group <- NULL
 d.ri <- plyr::join(d.ri, region_group_df)
 
-if(!exists(rma.type)) rma.type <- "RE"
-if(!rma.type %in% c("RE", "FE", "MV")) {
-  warning("rma.type must be one of RE, FE, or MV. Defaulting to RE.")
-  rma.type <- "RE"
+if(!exists("rma.type")) rma.type <- "FE"
+if(!rma.type %in% c("RE", "FE", "MV", "RB")) {
+  warning("rma.type must be one of RE, FE, RB, or MV. Defaulting to FE.")
+  rma.type <- "FE"
 }
 
 d.rma.mods <- dlply(d.ri, c("variable", "lag"), function(x) {
@@ -114,21 +114,30 @@ d.rma.mods <- dlply(d.ri, c("variable", "lag"), function(x) {
     slab = x$region, mods = mods, random = ~ region | region.group,
     struct = "CS") # Compound symmetry variance structure with SNE grouped
   
+  require(robustmeta)
+  m.rb <- rrma(yi ~ mean.temp + mean.temp.sq, study_id = region.group,
+    var_eff_size = vi, rho = 0.3, data = temp)
+  m.rb$input_data <- merge(m.rb$knput_data, 
+    temp[,c("region", "yi")], by.x = "effect_size", by.y = "yi")
+  
   if(rma.type == "RE") return(list(model = m.re, variable = unique(x$variable)))
   if(rma.type == "FE") return(list(model = m.fe, variable = unique(x$variable)))
   if(rma.type == "MV") return(list(model = m.mv, variable = unique(x$variable)))
+  if(rma.type == "RB") return(list(model = m.rb, variable = unique(x$variable)))
 }) 
 
 out.mods <- ldply(d.rma.mods, function(x){
-  if(rma.type != "MV") {
+  if(rma.type %in% c("FE", "RE")) {
     blups <- blup.rma.uni(x$model, transf = transf.ztor)
     out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, 
       pi.ub = blups$pi.ub)
-  } else {
+  } 
+  if(rma.type %in% c("RE", "FE", "RB")) {
     # fake data... this doesn't get used anywhere that's important now:
     out.df <- data.frame(pred = rep(0, 9), pi.l = rep(-0.1, 9), 
       pi.ub = rep(0.1, 9))    
   }
+  if(rma.type != "RB") {
   avg <- predict(x$model, transf = transf.ztor)
   out.df$ma.pred <- avg$pred
   out.df$ma.pred.ci.lb <- avg$ci.lb
@@ -144,6 +153,25 @@ out.mods <- ldply(d.rma.mods, function(x){
   out.df$b.mean.temp.sq <- x$model$b[3]
   out.df$b.ci.l.mean.temp.sq <- x$model$ci.lb[3]
   out.df$b.ci.u.mean.temp.sq <- x$model$ci.ub[3]
+  }
+  if(rma.type == "RB") {
+  avg <- predict(x$model, se.fit = TRUE, interval = "confidence")
+  out.df$ma.pred <- transf.ztor(avg$fit)
+  out.df$ma.pred.ci.lb <- transf.ztor(avg$lwr)
+  out.df$ma.pred.ci.up <- transf.ztor(avg$upr)
+    
+  out.df$region <- x$model$input_data$region
+    out.df$variable <- x$variable
+    out.df$b.int <- x$model$est$estimate[1]
+    out.df$b.ci.l.int <- x$model$est$ci.lb[1]
+    out.df$b.ci.u.int <- x$model$est$ci.ub[1]
+    out.df$b.mean.temp <- x$model$est$estimate[2]
+    out.df$b.ci.l.mean.temp <- x$model$est$ci.lb[2]
+    out.df$b.ci.u.mean.temp <- x$model$est$ci.ub[2]
+    out.df$b.mean.temp.sq <- x$model$est$estimate[3]
+    out.df$b.ci.l.mean.temp.sq <- x$model$est$ci.lb[3]
+    out.df$b.ci.u.mean.temp.sq <- x$model$est$ci.ub[3]
+  }
   out.df
 })
 

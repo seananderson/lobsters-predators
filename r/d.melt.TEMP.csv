@@ -1,0 +1,3630 @@
+"region","year","variable","value"
+"Connecticut",1999,"prey",86.73
+"Connecticut",2000,"prey",56.34
+"Connecticut",2001,"prey",40.92
+"Connecticut",2002,"prey",20.59
+"Connecticut",2003,"prey",16.3
+"Connecticut",2004,"prey",10.77
+"Connecticut",2005,"prey",7.75
+"Connecticut",2006,"prey",5.38
+"Connecticut",2007,"prey",6.52
+"Georges Bank",1982,"prey",1719020
+"Georges Bank",1983,"prey",1706160
+"Georges Bank",1984,"prey",1776940
+"Georges Bank",1985,"prey",1590990
+"Georges Bank",1986,"prey",1448180
+"Georges Bank",1987,"prey",1586240
+"Georges Bank",1988,"prey",1938790
+"Georges Bank",1989,"prey",1739180
+"Georges Bank",1990,"prey",1968510
+"Georges Bank",1991,"prey",1893800
+"Georges Bank",1992,"prey",1654550
+"Georges Bank",1993,"prey",1677740
+"Georges Bank",1994,"prey",2146410
+"Georges Bank",1995,"prey",1930910
+"Georges Bank",1996,"prey",1801370
+"Georges Bank",1997,"prey",2444130
+"Georges Bank",1998,"prey",2436140
+"Georges Bank",1999,"prey",1962540
+"Georges Bank",2000,"prey",1977900
+"Georges Bank",2001,"prey",2909700
+"Georges Bank",2002,"prey",4087030
+"Georges Bank",2003,"prey",5304760
+"Georges Bank",2004,"prey",5636550
+"Georges Bank",2005,"prey",5380300
+"Georges Bank",2006,"prey",4803460
+"Georges Bank",2007,"prey",3912250
+"Gulf of Maine",1982,"prey",44836500
+"Gulf of Maine",1983,"prey",41517200
+"Gulf of Maine",1984,"prey",51399500
+"Gulf of Maine",1985,"prey",50179600
+"Gulf of Maine",1986,"prey",46114400
+"Gulf of Maine",1987,"prey",45294400
+"Gulf of Maine",1988,"prey",57193100
+"Gulf of Maine",1989,"prey",64260200
+"Gulf of Maine",1990,"prey",65107800
+"Gulf of Maine",1991,"prey",68263600
+"Gulf of Maine",1992,"prey",69596900
+"Gulf of Maine",1993,"prey",74464200
+"Gulf of Maine",1994,"prey",78991100
+"Gulf of Maine",1995,"prey",76635600
+"Gulf of Maine",1996,"prey",81057700
+"Gulf of Maine",1997,"prey",89494300
+"Gulf of Maine",1998,"prey",96286700
+"Gulf of Maine",1999,"prey",109212800
+"Gulf of Maine",2000,"prey",102545700
+"Gulf of Maine",2001,"prey",102345400
+"Gulf of Maine",2002,"prey",108770600
+"Gulf of Maine",2003,"prey",113596300
+"Gulf of Maine",2004,"prey",125266400
+"Gulf of Maine",2005,"prey",126312600
+"Gulf of Maine",2006,"prey",114620600
+"Gulf of Maine",2007,"prey",107296800
+"Massachusetts",1986,"prey",12.36
+"Massachusetts",1987,"prey",2.6
+"Massachusetts",1988,"prey",12.16
+"Massachusetts",1989,"prey",17.24
+"Massachusetts",1990,"prey",68.99
+"Massachusetts",1991,"prey",28.49
+"Massachusetts",1992,"prey",21.61
+"Massachusetts",1993,"prey",9.48
+"Massachusetts",1994,"prey",45.44
+"Massachusetts",1995,"prey",38.61
+"Massachusetts",1996,"prey",43.2
+"Massachusetts",1997,"prey",15.38
+"Massachusetts",1998,"prey",23.28
+"Massachusetts",1999,"prey",24.26
+"Massachusetts",2000,"prey",29.9
+"Massachusetts",2001,"prey",4.07
+"Massachusetts",2002,"prey",26.08
+"Massachusetts",2003,"prey",1.62
+"Massachusetts",2004,"prey",4.2
+"Massachusetts",2005,"prey",10.88
+"Massachusetts",2006,"prey",25.82
+"Massachusetts",2007,"prey",5.79
+"Newfoundland",1984,"prey",675.20068
+"Newfoundland",1985,"prey",710.25299
+"Newfoundland",1986,"prey",671.0752
+"Newfoundland",1987,"prey",597.93933
+"Newfoundland",1988,"prey",676.13629
+"Newfoundland",1989,"prey",721.29337
+"Newfoundland",1990,"prey",663.46341
+"Newfoundland",1991,"prey",845.94315
+"Newfoundland",1992,"prey",931.16901
+"Newfoundland",1993,"prey",823.95395
+"Newfoundland",1994,"prey",778.07169
+"Newfoundland",1995,"prey",770.74942
+"Nova Scotia",1978,"prey",4505
+"Nova Scotia",1979,"prey",5254
+"Nova Scotia",1980,"prey",5059
+"Nova Scotia",1981,"prey",5556
+"Nova Scotia",1982,"prey",6363
+"Nova Scotia",1983,"prey",7758
+"Nova Scotia",1984,"prey",8876
+"Nova Scotia",1985,"prey",10679
+"Nova Scotia",1986,"prey",13284
+"Nova Scotia",1987,"prey",15087
+"Nova Scotia",1988,"prey",15953
+"Nova Scotia",1989,"prey",15959
+"Nova Scotia",1990,"prey",17177
+"Nova Scotia",1991,"prey",19029.944
+"Nova Scotia",1992,"prey",15497.22
+"Nova Scotia",1993,"prey",14871.017
+"Nova Scotia",1994,"prey",16258.331
+"Nova Scotia",1995,"prey",15185.684
+"Nova Scotia",1996,"prey",15881
+"Nova Scotia",1997,"prey",16304
+"Nova Scotia",1998,"prey",18486
+"Nova Scotia",1999,"prey",19819
+"Nova Scotia",2000,"prey",20657
+"Nova Scotia",2001,"prey",24468
+"Nova Scotia",2002,"prey",27537
+"Nova Scotia",2003,"prey",25966
+"Rhode Island",1987,"prey",5.14
+"Rhode Island",1988,"prey",8.095
+"Rhode Island",1989,"prey",8.34
+"Rhode Island",1990,"prey",5.445
+"Rhode Island",1991,"prey",12.84
+"Rhode Island",1992,"prey",5.805
+"Rhode Island",1993,"prey",15.08
+"Rhode Island",1994,"prey",9.2
+"Rhode Island",1995,"prey",9.125
+"Rhode Island",1996,"prey",12.23
+"Rhode Island",1997,"prey",16.275
+"Rhode Island",1998,"prey",7.835
+"Rhode Island",1999,"prey",5.96
+"Rhode Island",2000,"prey",4.32
+"Rhode Island",2001,"prey",8.305
+"Rhode Island",2002,"prey",5.745
+"Rhode Island",2003,"prey",2.4
+"Rhode Island",2004,"prey",3.665
+"Rhode Island",2005,"prey",6.965
+"Rhode Island",2006,"prey",8.46
+"s Gulf St Lawrence",1984,"prey",13916.6
+"s Gulf St Lawrence",1985,"prey",15934.6
+"s Gulf St Lawrence",1986,"prey",18274.8
+"s Gulf St Lawrence",1987,"prey",19301.6
+"s Gulf St Lawrence",1988,"prey",20192.7
+"s Gulf St Lawrence",1989,"prey",21556
+"s Gulf St Lawrence",1990,"prey",22226.7
+"s Gulf St Lawrence",1991,"prey",21575.9
+"s Gulf St Lawrence",1992,"prey",19566.8
+"s Gulf St Lawrence",1993,"prey",19727.7
+"s Gulf St Lawrence",1994,"prey",18217.7
+"s Gulf St Lawrence",1995,"prey",18352
+"s Gulf St Lawrence",1996,"prey",17612.4
+"s Gulf St Lawrence",1997,"prey",16901.6
+"s Gulf St Lawrence",1998,"prey",18044.1
+"s Gulf St Lawrence",1999,"prey",17427.7
+"s Gulf St Lawrence",2000,"prey",17790.1
+"s Gulf St Lawrence",2001,"prey",17677.8
+"s Gulf St Lawrence",2002,"prey",17745.4
+"s Gulf St Lawrence",2003,"prey",17021.8
+"s Gulf St Lawrence",2004,"prey",16375.4
+"s Gulf St Lawrence",2005,"prey",15589.8
+"s Gulf St Lawrence",2006,"prey",17279.3
+"s Gulf St Lawrence",2007,"prey",16896.4
+"s New England",1982,"prey",11151510
+"s New England",1983,"prey",11301070
+"s New England",1984,"prey",14602030
+"s New England",1985,"prey",18295960
+"s New England",1986,"prey",18499450
+"s New England",1987,"prey",20602600
+"s New England",1988,"prey",22543040
+"s New England",1989,"prey",25224210
+"s New England",1990,"prey",27833300
+"s New England",1991,"prey",25521280
+"s New England",1992,"prey",23353590
+"s New England",1993,"prey",26307100
+"s New England",1994,"prey",31483100
+"s New England",1995,"prey",34811200
+"s New England",1996,"prey",36578200
+"s New England",1997,"prey",36713200
+"s New England",1998,"prey",35826500
+"s New England",1999,"prey",33378300
+"s New England",2000,"prey",27243130
+"s New England",2001,"prey",21005940
+"s New England",2002,"prey",16552630
+"s New England",2003,"prey",12832540
+"s New England",2004,"prey",13860130
+"s New England",2005,"prey",15315410
+"s New England",2006,"prey",14467660
+"s New England",2007,"prey",14247040
+"Connecticut",1999,"environment.lag00",14
+"Connecticut",2000,"environment.lag00",14.3
+"Connecticut",2001,"environment.lag00",14.815
+"Connecticut",2002,"environment.lag00",15.15
+"Connecticut",2003,"environment.lag00",14.09
+"Connecticut",2004,"environment.lag00",14.16
+"Connecticut",2005,"environment.lag00",14.215
+"Connecticut",2006,"environment.lag00",15.535
+"Connecticut",2007,"environment.lag00",14.525
+"Georges Bank",1982,"environment.lag00",10.836811
+"Georges Bank",1983,"environment.lag00",9.290978
+"Georges Bank",1984,"environment.lag00",10.490144
+"Georges Bank",1985,"environment.lag00",9.495144
+"Georges Bank",1986,"environment.lag00",9.381811
+"Georges Bank",1987,"environment.lag00",8.630144
+"Georges Bank",1988,"environment.lag00",10.423478
+"Georges Bank",1989,"environment.lag00",7.115144
+"Georges Bank",1990,"environment.lag00",8.407644
+"Georges Bank",1991,"environment.lag00",8.746809
+"Georges Bank",1992,"environment.lag00",8.967644
+"Georges Bank",1993,"environment.lag00",9.295978
+"Georges Bank",1994,"environment.lag00",9.632638
+"Georges Bank",1995,"environment.lag00",9.626811
+"Georges Bank",1996,"environment.lag00",8.440144
+"Georges Bank",1997,"environment.lag00",9.433453
+"Georges Bank",1998,"environment.lag00",7.905978
+"Georges Bank",1999,"environment.lag00",10.317644
+"Georges Bank",2000,"environment.lag00",9.707089
+"Georges Bank",2001,"environment.lag00",9.219816
+"Georges Bank",2002,"environment.lag00",10.446811
+"Georges Bank",2003,"environment.lag00",9.070978
+"Georges Bank",2004,"environment.lag00",8.853478
+"Georges Bank",2005,"environment.lag00",9.023478
+"Georges Bank",2006,"environment.lag00",9.819311
+"Georges Bank",2007,"environment.lag00",9.290978
+"Gulf of Maine",1982,"environment.lag00",8.482866
+"Gulf of Maine",1983,"environment.lag00",8.362033
+"Gulf of Maine",1984,"environment.lag00",8.527033
+"Gulf of Maine",1985,"environment.lag00",8.737033
+"Gulf of Maine",1986,"environment.lag00",8.773922
+"Gulf of Maine",1987,"environment.lag00",7.602033
+"Gulf of Maine",1988,"environment.lag00",7.667033
+"Gulf of Maine",1989,"environment.lag00",8.185366
+"Gulf of Maine",1990,"environment.lag00",8.174533
+"Gulf of Maine",1991,"environment.lag00",8.672033
+"Gulf of Maine",1992,"environment.lag00",7.2337
+"Gulf of Maine",1993,"environment.lag00",7.649533
+"Gulf of Maine",1994,"environment.lag00",8.395366
+"Gulf of Maine",1995,"environment.lag00",8.194533
+"Gulf of Maine",1996,"environment.lag00",7.4112
+"Gulf of Maine",1997,"environment.lag00",7.789577
+"Gulf of Maine",1998,"environment.lag00",7.602866
+"Gulf of Maine",1999,"environment.lag00",8.3937
+"Gulf of Maine",2000,"environment.lag00",9.326541
+"Gulf of Maine",2001,"environment.lag00",8.3337
+"Gulf of Maine",2002,"environment.lag00",8.811842
+"Gulf of Maine",2003,"environment.lag00",7.908668
+"Gulf of Maine",2004,"environment.lag00",7.359533
+"Gulf of Maine",2005,"environment.lag00",7.445366
+"Gulf of Maine",2006,"environment.lag00",8.622033
+"Gulf of Maine",2007,"environment.lag00",7.8687
+"Massachusetts",1986,"environment.lag00",12.181402
+"Massachusetts",1987,"environment.lag00",10.7552505
+"Massachusetts",1988,"environment.lag00",11.275286
+"Massachusetts",1989,"environment.lag00",12.0072485
+"Massachusetts",1990,"environment.lag00",11.9066305
+"Massachusetts",1991,"environment.lag00",12.3728215
+"Massachusetts",1992,"environment.lag00",10.913906
+"Massachusetts",1993,"environment.lag00",11.383308
+"Massachusetts",1994,"environment.lag00",11.6318325
+"Massachusetts",1995,"environment.lag00",12.235662
+"Massachusetts",1996,"environment.lag00",10.3761845
+"Massachusetts",1997,"environment.lag00",11.754993
+"Massachusetts",1998,"environment.lag00",11.2965185
+"Massachusetts",1999,"environment.lag00",12.4864145
+"Massachusetts",2000,"environment.lag00",12.32468
+"Massachusetts",2001,"environment.lag00",12.278352
+"Massachusetts",2002,"environment.lag00",12.2686755
+"Massachusetts",2003,"environment.lag00",11.2515165
+"Massachusetts",2004,"environment.lag00",10.379969
+"Massachusetts",2005,"environment.lag00",10.576734
+"Massachusetts",2006,"environment.lag00",11.78361
+"Massachusetts",2007,"environment.lag00",11.2779555
+"Newfoundland",1984,"environment.lag00",5.555592
+"Newfoundland",1985,"environment.lag00",4.731395
+"Newfoundland",1986,"environment.lag00",4.985387
+"Newfoundland",1987,"environment.lag00",5.046112
+"Newfoundland",1988,"environment.lag00",5.035768
+"Newfoundland",1989,"environment.lag00",3.759256
+"Newfoundland",1990,"environment.lag00",3.589135
+"Newfoundland",1991,"environment.lag00",4.085074
+"Newfoundland",1992,"environment.lag00",5.228659
+"Newfoundland",1993,"environment.lag00",4.314457
+"Newfoundland",1994,"environment.lag00",4.878987
+"Newfoundland",1995,"environment.lag00",4.791494
+"Nova Scotia",1978,"environment.lag00",6.391447
+"Nova Scotia",1979,"environment.lag00",6.967084
+"Nova Scotia",1980,"environment.lag00",6.537208
+"Nova Scotia",1981,"environment.lag00",7.274185
+"Nova Scotia",1982,"environment.lag00",7.10381
+"Nova Scotia",1983,"environment.lag00",7.659046
+"Nova Scotia",1984,"environment.lag00",7.045913
+"Nova Scotia",1985,"environment.lag00",5.947796
+"Nova Scotia",1986,"environment.lag00",6.609073
+"Nova Scotia",1987,"environment.lag00",6.4315
+"Nova Scotia",1988,"environment.lag00",6.523669
+"Nova Scotia",1989,"environment.lag00",6.526049
+"Nova Scotia",1990,"environment.lag00",6.811836
+"Nova Scotia",1991,"environment.lag00",6.471909
+"Nova Scotia",1992,"environment.lag00",5.825668
+"Nova Scotia",1993,"environment.lag00",5.954566
+"Nova Scotia",1994,"environment.lag00",6.328824
+"Nova Scotia",1995,"environment.lag00",6.260352
+"Nova Scotia",1996,"environment.lag00",6.230361
+"Nova Scotia",1997,"environment.lag00",6.13007
+"Nova Scotia",1998,"environment.lag00",6.046732
+"Nova Scotia",1999,"environment.lag00",7.055261
+"Nova Scotia",2000,"environment.lag00",7.156196
+"Nova Scotia",2001,"environment.lag00",6.250929
+"Nova Scotia",2002,"environment.lag00",6.774675
+"Nova Scotia",2003,"environment.lag00",5.721484
+"Rhode Island",1987,"environment.lag00",12.257245
+"Rhode Island",1988,"environment.lag00",13.7465495
+"Rhode Island",1989,"environment.lag00",11.7203565
+"Rhode Island",1990,"environment.lag00",12.7785485
+"Rhode Island",1991,"environment.lag00",13.710896
+"Rhode Island",1992,"environment.lag00",12.25371
+"Rhode Island",1993,"environment.lag00",18.816455
+"Rhode Island",1994,"environment.lag00",11.85857
+"Rhode Island",1995,"environment.lag00",13.0166655
+"Rhode Island",1996,"environment.lag00",11.588692
+"Rhode Island",1997,"environment.lag00",13.06643
+"Rhode Island",1998,"environment.lag00",13.303933
+"Rhode Island",1999,"environment.lag00",14.054196
+"Rhode Island",2000,"environment.lag00",13.446951
+"Rhode Island",2001,"environment.lag00",15.83522
+"Rhode Island",2002,"environment.lag00",14.743535
+"Rhode Island",2003,"environment.lag00",12.0201515
+"Rhode Island",2004,"environment.lag00",13.479412
+"Rhode Island",2005,"environment.lag00",12.4902975
+"Rhode Island",2006,"environment.lag00",14.37083
+"s Gulf St Lawrence",1984,"environment.lag00",8.336845
+"s Gulf St Lawrence",1985,"environment.lag00",8.106199
+"s Gulf St Lawrence",1986,"environment.lag00",8.84023
+"s Gulf St Lawrence",1987,"environment.lag00",7.465728
+"s Gulf St Lawrence",1988,"environment.lag00",8.515455
+"s Gulf St Lawrence",1989,"environment.lag00",8.900337
+"s Gulf St Lawrence",1990,"environment.lag00",8.124107
+"s Gulf St Lawrence",1991,"environment.lag00",9.175531
+"s Gulf St Lawrence",1992,"environment.lag00",6.909842
+"s Gulf St Lawrence",1993,"environment.lag00",7.209249
+"s Gulf St Lawrence",1994,"environment.lag00",7.742686
+"s Gulf St Lawrence",1995,"environment.lag00",7.895619
+"s Gulf St Lawrence",1996,"environment.lag00",8.376033
+"s Gulf St Lawrence",1997,"environment.lag00",6.121188
+"s Gulf St Lawrence",1998,"environment.lag00",8.471569
+"s Gulf St Lawrence",1999,"environment.lag00",7.523642
+"s Gulf St Lawrence",2000,"environment.lag00",8.434823
+"s Gulf St Lawrence",2001,"environment.lag00",8.127226
+"s Gulf St Lawrence",2002,"environment.lag00",7.197049
+"s Gulf St Lawrence",2003,"environment.lag00",6.498221
+"s Gulf St Lawrence",2004,"environment.lag00",6.033905
+"s Gulf St Lawrence",2005,"environment.lag00",5.946149
+"s Gulf St Lawrence",2006,"environment.lag00",7.000411
+"s Gulf St Lawrence",2007,"environment.lag00",8.245436
+"s New England",1982,"environment.lag00",14.535405
+"s New England",1983,"environment.lag00",15.119095
+"s New England",1984,"environment.lag00",14.805064
+"s New England",1985,"environment.lag00",15.880614
+"s New England",1986,"environment.lag00",15.588882
+"s New England",1987,"environment.lag00",13.908468
+"s New England",1988,"environment.lag00",14.883539
+"s New England",1989,"environment.lag00",15.829131
+"s New England",1990,"environment.lag00",15.638728
+"s New England",1991,"environment.lag00",16.07361
+"s New England",1992,"environment.lag00",14.594112
+"s New England",1993,"environment.lag00",15.117083
+"s New England",1994,"environment.lag00",14.868299
+"s New England",1995,"environment.lag00",16.276791
+"s New England",1996,"environment.lag00",13.341169
+"s New England",1997,"environment.lag00",15.720409
+"s New England",1998,"environment.lag00",14.990171
+"s New England",1999,"environment.lag00",16.579129
+"s New England",2000,"environment.lag00",15.322819
+"s New England",2001,"environment.lag00",16.223004
+"s New England",2002,"environment.lag00",15.725509
+"s New England",2003,"environment.lag00",14.594365
+"s New England",2004,"environment.lag00",13.400405
+"s New England",2005,"environment.lag00",13.708102
+"s New England",2006,"environment.lag00",14.945187
+"s New England",2007,"environment.lag00",14.687211
+"Connecticut",1999,"predator.lag00",2.44
+"Connecticut",2000,"predator.lag00",3.35
+"Connecticut",2001,"predator.lag00",3.02
+"Connecticut",2002,"predator.lag00",5.81
+"Connecticut",2003,"predator.lag00",4.5
+"Connecticut",2004,"predator.lag00",2.57
+"Connecticut",2005,"predator.lag00",3.15
+"Connecticut",2006,"predator.lag00",2.19
+"Connecticut",2007,"predator.lag00",3.79
+"Georges Bank",1982,"predator.lag00",13.5581
+"Georges Bank",1983,"predator.lag00",12.1441
+"Georges Bank",1984,"predator.lag00",11.611
+"Georges Bank",1985,"predator.lag00",9.311
+"Georges Bank",1986,"predator.lag00",22.4801
+"Georges Bank",1987,"predator.lag00",25.2334
+"Georges Bank",1988,"predator.lag00",16.5651
+"Georges Bank",1989,"predator.lag00",39.3308
+"Georges Bank",1990,"predator.lag00",34.655
+"Georges Bank",1991,"predator.lag00",17.5613
+"Georges Bank",1992,"predator.lag00",35.0175
+"Georges Bank",1993,"predator.lag00",20.1191
+"Georges Bank",1994,"predator.lag00",25.1198
+"Georges Bank",1995,"predator.lag00",30.4133
+"Georges Bank",1996,"predator.lag00",28.0619
+"Georges Bank",1997,"predator.lag00",32.8292
+"Georges Bank",1998,"predator.lag00",59.7722
+"Georges Bank",1999,"predator.lag00",20.6887
+"Georges Bank",2000,"predator.lag00",30.2473
+"Georges Bank",2001,"predator.lag00",27.1496
+"Georges Bank",2002,"predator.lag00",37.9489
+"Georges Bank",2003,"predator.lag00",17.061
+"Georges Bank",2004,"predator.lag00",19.7579
+"Georges Bank",2005,"predator.lag00",16.6395
+"Georges Bank",2006,"predator.lag00",17.6305
+"Georges Bank",2007,"predator.lag00",26.151
+"Gulf of Maine",1982,"predator.lag00",10.7307
+"Gulf of Maine",1983,"predator.lag00",10.827
+"Gulf of Maine",1984,"predator.lag00",10.5018
+"Gulf of Maine",1985,"predator.lag00",10.3804
+"Gulf of Maine",1986,"predator.lag00",7.3211
+"Gulf of Maine",1987,"predator.lag00",6.3766
+"Gulf of Maine",1988,"predator.lag00",10.7453
+"Gulf of Maine",1989,"predator.lag00",11.8778
+"Gulf of Maine",1990,"predator.lag00",9.3519
+"Gulf of Maine",1991,"predator.lag00",9.7547
+"Gulf of Maine",1992,"predator.lag00",10.2263
+"Gulf of Maine",1993,"predator.lag00",11.0249
+"Gulf of Maine",1994,"predator.lag00",10.2708
+"Gulf of Maine",1995,"predator.lag00",12.7775
+"Gulf of Maine",1996,"predator.lag00",11.2634
+"Gulf of Maine",1997,"predator.lag00",8.6199
+"Gulf of Maine",1998,"predator.lag00",6.1142
+"Gulf of Maine",1999,"predator.lag00",10.4616
+"Gulf of Maine",2000,"predator.lag00",11.6754
+"Gulf of Maine",2001,"predator.lag00",8.7853
+"Gulf of Maine",2002,"predator.lag00",10.3337
+"Gulf of Maine",2003,"predator.lag00",9.531
+"Gulf of Maine",2004,"predator.lag00",6.6438
+"Gulf of Maine",2005,"predator.lag00",4.1677
+"Gulf of Maine",2006,"predator.lag00",8.0722
+"Gulf of Maine",2007,"predator.lag00",5.2145
+"Massachusetts",1986,"predator.lag00",44.8586293
+"Massachusetts",1987,"predator.lag00",187.9539191
+"Massachusetts",1988,"predator.lag00",43.32072285
+"Massachusetts",1989,"predator.lag00",52.8431886
+"Massachusetts",1990,"predator.lag00",58.1374457
+"Massachusetts",1991,"predator.lag00",40.1957049
+"Massachusetts",1992,"predator.lag00",70.54648525
+"Massachusetts",1993,"predator.lag00",133.56071275
+"Massachusetts",1994,"predator.lag00",81.4810195
+"Massachusetts",1995,"predator.lag00",102.417707
+"Massachusetts",1996,"predator.lag00",65.48795065
+"Massachusetts",1997,"predator.lag00",51.30427265
+"Massachusetts",1998,"predator.lag00",64.2211719
+"Massachusetts",1999,"predator.lag00",130.37565885
+"Massachusetts",2000,"predator.lag00",103.95679125
+"Massachusetts",2001,"predator.lag00",128.576356
+"Massachusetts",2002,"predator.lag00",63.778828
+"Massachusetts",2003,"predator.lag00",674.9415424
+"Massachusetts",2004,"predator.lag00",156.9194188
+"Massachusetts",2005,"predator.lag00",158.4995676
+"Massachusetts",2006,"predator.lag00",586.58764195
+"Massachusetts",2007,"predator.lag00",63.8343411
+"Newfoundland",1984,"predator.lag00",39.769
+"Newfoundland",1985,"predator.lag00",87.318
+"Newfoundland",1986,"predator.lag00",34.239
+"Newfoundland",1987,"predator.lag00",53.42
+"Newfoundland",1988,"predator.lag00",29.767
+"Newfoundland",1989,"predator.lag00",29.244
+"Newfoundland",1990,"predator.lag00",33.445
+"Newfoundland",1991,"predator.lag00",39.876
+"Newfoundland",1992,"predator.lag00",25.493
+"Newfoundland",1993,"predator.lag00",13.083
+"Newfoundland",1994,"predator.lag00",15.099
+"Newfoundland",1995,"predator.lag00",16.481
+"Nova Scotia",1978,"predator.lag00",37.861166381
+"Nova Scotia",1979,"predator.lag00",41.05553565
+"Nova Scotia",1980,"predator.lag00",35.981734647
+"Nova Scotia",1981,"predator.lag00",52.304163335
+"Nova Scotia",1982,"predator.lag00",40.862787527
+"Nova Scotia",1983,"predator.lag00",42.595437487
+"Nova Scotia",1984,"predator.lag00",42.25914985
+"Nova Scotia",1985,"predator.lag00",45.422934613
+"Nova Scotia",1986,"predator.lag00",31.150374633
+"Nova Scotia",1987,"predator.lag00",32.788339516
+"Nova Scotia",1988,"predator.lag00",38.302713025
+"Nova Scotia",1989,"predator.lag00",28.326616448
+"Nova Scotia",1990,"predator.lag00",25.274136743
+"Nova Scotia",1991,"predator.lag00",22.341086836
+"Nova Scotia",1992,"predator.lag00",21.935841284
+"Nova Scotia",1993,"predator.lag00",15.209094736
+"Nova Scotia",1994,"predator.lag00",12.884499333
+"Nova Scotia",1995,"predator.lag00",14.163560859
+"Nova Scotia",1996,"predator.lag00",21.191709026
+"Nova Scotia",1997,"predator.lag00",12.496575956
+"Nova Scotia",1998,"predator.lag00",14.641077295
+"Nova Scotia",1999,"predator.lag00",9.997076896
+"Nova Scotia",2000,"predator.lag00",8.877114778
+"Nova Scotia",2001,"predator.lag00",10.078772118
+"Nova Scotia",2002,"predator.lag00",11.294634398
+"Nova Scotia",2003,"predator.lag00",8.482794673
+"Rhode Island",1987,"predator.lag00",1.736048266
+"Rhode Island",1988,"predator.lag00",1.1669435215
+"Rhode Island",1989,"predator.lag00",1.904761905
+"Rhode Island",1990,"predator.lag00",5.583333333
+"Rhode Island",1991,"predator.lag00",1.1815183365
+"Rhode Island",1992,"predator.lag00",0.754761905
+"Rhode Island",1993,"predator.lag00",0.7161890395
+"Rhode Island",1994,"predator.lag00",0.482142857
+"Rhode Island",1995,"predator.lag00",1.547619048
+"Rhode Island",1996,"predator.lag00",2.503246753
+"Rhode Island",1997,"predator.lag00",0.2976190475
+"Rhode Island",1998,"predator.lag00",1.486353078
+"Rhode Island",1999,"predator.lag00",0.5421675375
+"Rhode Island",2000,"predator.lag00",1.3798780485
+"Rhode Island",2001,"predator.lag00",1.395310489
+"Rhode Island",2002,"predator.lag00",0.6379065045
+"Rhode Island",2003,"predator.lag00",4.5808289785
+"Rhode Island",2004,"predator.lag00",1.4582126765
+"Rhode Island",2005,"predator.lag00",8.96011905
+"Rhode Island",2006,"predator.lag00",1.351190476
+"s Gulf St Lawrence",1984,"predator.lag00",6.309847403
+"s Gulf St Lawrence",1985,"predator.lag00",10.063247822
+"s Gulf St Lawrence",1986,"predator.lag00",13.49395748
+"s Gulf St Lawrence",1987,"predator.lag00",7.300118179
+"s Gulf St Lawrence",1988,"predator.lag00",10.328265489
+"s Gulf St Lawrence",1989,"predator.lag00",7.106372335
+"s Gulf St Lawrence",1990,"predator.lag00",7.591020886
+"s Gulf St Lawrence",1991,"predator.lag00",8.089962245
+"s Gulf St Lawrence",1992,"predator.lag00",5.60144151
+"s Gulf St Lawrence",1993,"predator.lag00",3.824391063
+"s Gulf St Lawrence",1994,"predator.lag00",3.716135338
+"s Gulf St Lawrence",1995,"predator.lag00",2.168474469
+"s Gulf St Lawrence",1996,"predator.lag00",2.979294051
+"s Gulf St Lawrence",1997,"predator.lag00",2.853908784
+"s Gulf St Lawrence",1998,"predator.lag00",3.426484005
+"s Gulf St Lawrence",1999,"predator.lag00",3.022792355
+"s Gulf St Lawrence",2000,"predator.lag00",4.647619618
+"s Gulf St Lawrence",2001,"predator.lag00",2.910907451
+"s Gulf St Lawrence",2002,"predator.lag00",2.861558849
+"s Gulf St Lawrence",2003,"predator.lag00",2.510759923
+"s Gulf St Lawrence",2004,"predator.lag00",1.943863458
+"s Gulf St Lawrence",2005,"predator.lag00",2.775925368
+"s Gulf St Lawrence",2006,"predator.lag00",2.129253788
+"s Gulf St Lawrence",2007,"predator.lag00",4.839560624
+"s New England",1982,"predator.lag00",7.777
+"s New England",1983,"predator.lag00",2.874
+"s New England",1984,"predator.lag00",3.764
+"s New England",1985,"predator.lag00",2.327
+"s New England",1986,"predator.lag00",1.56
+"s New England",1987,"predator.lag00",2.087
+"s New England",1988,"predator.lag00",1.632
+"s New England",1989,"predator.lag00",2.88
+"s New England",1990,"predator.lag00",4.533
+"s New England",1991,"predator.lag00",1.732
+"s New England",1992,"predator.lag00",1.704
+"s New England",1993,"predator.lag00",1.137
+"s New England",1994,"predator.lag00",4.551
+"s New England",1995,"predator.lag00",1.56
+"s New England",1996,"predator.lag00",2.125
+"s New England",1997,"predator.lag00",2.561
+"s New England",1998,"predator.lag00",2.937
+"s New England",1999,"predator.lag00",4.07
+"s New England",2000,"predator.lag00",1.63
+"s New England",2001,"predator.lag00",3.75
+"s New England",2002,"predator.lag00",2.93
+"s New England",2003,"predator.lag00",4.43
+"s New England",2004,"predator.lag00",3.43
+"s New England",2005,"predator.lag00",4.985
+"s New England",2006,"predator.lag00",2.867
+"s New England",2007,"predator.lag00",2.799
+"Connecticut",1999,"environment.lag01",15.1
+"Connecticut",2000,"environment.lag01",14
+"Connecticut",2001,"environment.lag01",14.3
+"Connecticut",2002,"environment.lag01",14.815
+"Connecticut",2003,"environment.lag01",15.15
+"Connecticut",2004,"environment.lag01",14.09
+"Connecticut",2005,"environment.lag01",14.16
+"Connecticut",2006,"environment.lag01",14.215
+"Connecticut",2007,"environment.lag01",15.535
+"Georges Bank",1982,"environment.lag01",10.329311
+"Georges Bank",1983,"environment.lag01",10.836811
+"Georges Bank",1984,"environment.lag01",9.290978
+"Georges Bank",1985,"environment.lag01",10.490144
+"Georges Bank",1986,"environment.lag01",9.495144
+"Georges Bank",1987,"environment.lag01",9.381811
+"Georges Bank",1988,"environment.lag01",8.630144
+"Georges Bank",1989,"environment.lag01",10.423478
+"Georges Bank",1990,"environment.lag01",7.115144
+"Georges Bank",1991,"environment.lag01",8.407644
+"Georges Bank",1992,"environment.lag01",8.746809
+"Georges Bank",1993,"environment.lag01",8.967644
+"Georges Bank",1994,"environment.lag01",9.295978
+"Georges Bank",1995,"environment.lag01",9.632638
+"Georges Bank",1996,"environment.lag01",9.626811
+"Georges Bank",1997,"environment.lag01",8.440144
+"Georges Bank",1998,"environment.lag01",9.433453
+"Georges Bank",1999,"environment.lag01",7.905978
+"Georges Bank",2000,"environment.lag01",10.317644
+"Georges Bank",2001,"environment.lag01",9.707089
+"Georges Bank",2002,"environment.lag01",9.219816
+"Georges Bank",2003,"environment.lag01",10.446811
+"Georges Bank",2004,"environment.lag01",9.070978
+"Georges Bank",2005,"environment.lag01",8.853478
+"Georges Bank",2006,"environment.lag01",9.023478
+"Georges Bank",2007,"environment.lag01",9.819311
+"Gulf of Maine",1982,"environment.lag01",8.2612
+"Gulf of Maine",1983,"environment.lag01",8.482866
+"Gulf of Maine",1984,"environment.lag01",8.362033
+"Gulf of Maine",1985,"environment.lag01",8.527033
+"Gulf of Maine",1986,"environment.lag01",8.737033
+"Gulf of Maine",1987,"environment.lag01",8.773922
+"Gulf of Maine",1988,"environment.lag01",7.602033
+"Gulf of Maine",1989,"environment.lag01",7.667033
+"Gulf of Maine",1990,"environment.lag01",8.185366
+"Gulf of Maine",1991,"environment.lag01",8.174533
+"Gulf of Maine",1992,"environment.lag01",8.672033
+"Gulf of Maine",1993,"environment.lag01",7.2337
+"Gulf of Maine",1994,"environment.lag01",7.649533
+"Gulf of Maine",1995,"environment.lag01",8.395366
+"Gulf of Maine",1996,"environment.lag01",8.194533
+"Gulf of Maine",1997,"environment.lag01",7.4112
+"Gulf of Maine",1998,"environment.lag01",7.789577
+"Gulf of Maine",1999,"environment.lag01",7.602866
+"Gulf of Maine",2000,"environment.lag01",8.3937
+"Gulf of Maine",2001,"environment.lag01",9.326541
+"Gulf of Maine",2002,"environment.lag01",8.3337
+"Gulf of Maine",2003,"environment.lag01",8.811842
+"Gulf of Maine",2004,"environment.lag01",7.908668
+"Gulf of Maine",2005,"environment.lag01",7.359533
+"Gulf of Maine",2006,"environment.lag01",7.445366
+"Gulf of Maine",2007,"environment.lag01",8.622033
+"Massachusetts",1986,"environment.lag01",12.3088235
+"Massachusetts",1987,"environment.lag01",12.181402
+"Massachusetts",1988,"environment.lag01",10.7552505
+"Massachusetts",1989,"environment.lag01",11.275286
+"Massachusetts",1990,"environment.lag01",12.0072485
+"Massachusetts",1991,"environment.lag01",11.9066305
+"Massachusetts",1992,"environment.lag01",12.3728215
+"Massachusetts",1993,"environment.lag01",10.913906
+"Massachusetts",1994,"environment.lag01",11.383308
+"Massachusetts",1995,"environment.lag01",11.6318325
+"Massachusetts",1996,"environment.lag01",12.235662
+"Massachusetts",1997,"environment.lag01",10.3761845
+"Massachusetts",1998,"environment.lag01",11.754993
+"Massachusetts",1999,"environment.lag01",11.2965185
+"Massachusetts",2000,"environment.lag01",12.4864145
+"Massachusetts",2001,"environment.lag01",12.32468
+"Massachusetts",2002,"environment.lag01",12.278352
+"Massachusetts",2003,"environment.lag01",12.2686755
+"Massachusetts",2004,"environment.lag01",11.2515165
+"Massachusetts",2005,"environment.lag01",10.379969
+"Massachusetts",2006,"environment.lag01",10.576734
+"Massachusetts",2007,"environment.lag01",11.78361
+"Newfoundland",1984,"environment.lag01",6.504437
+"Newfoundland",1985,"environment.lag01",5.555592
+"Newfoundland",1986,"environment.lag01",4.731395
+"Newfoundland",1987,"environment.lag01",4.985387
+"Newfoundland",1988,"environment.lag01",5.046112
+"Newfoundland",1989,"environment.lag01",5.035768
+"Newfoundland",1990,"environment.lag01",3.759256
+"Newfoundland",1991,"environment.lag01",3.589135
+"Newfoundland",1992,"environment.lag01",4.085074
+"Newfoundland",1993,"environment.lag01",5.228659
+"Newfoundland",1994,"environment.lag01",4.314457
+"Newfoundland",1995,"environment.lag01",4.878987
+"Nova Scotia",1978,"environment.lag01",6.955699
+"Nova Scotia",1979,"environment.lag01",6.391447
+"Nova Scotia",1980,"environment.lag01",6.967084
+"Nova Scotia",1981,"environment.lag01",6.537208
+"Nova Scotia",1982,"environment.lag01",7.274185
+"Nova Scotia",1983,"environment.lag01",7.10381
+"Nova Scotia",1984,"environment.lag01",7.659046
+"Nova Scotia",1985,"environment.lag01",7.045913
+"Nova Scotia",1986,"environment.lag01",5.947796
+"Nova Scotia",1987,"environment.lag01",6.609073
+"Nova Scotia",1988,"environment.lag01",6.4315
+"Nova Scotia",1989,"environment.lag01",6.523669
+"Nova Scotia",1990,"environment.lag01",6.526049
+"Nova Scotia",1991,"environment.lag01",6.811836
+"Nova Scotia",1992,"environment.lag01",6.471909
+"Nova Scotia",1993,"environment.lag01",5.825668
+"Nova Scotia",1994,"environment.lag01",5.954566
+"Nova Scotia",1995,"environment.lag01",6.328824
+"Nova Scotia",1996,"environment.lag01",6.260352
+"Nova Scotia",1997,"environment.lag01",6.230361
+"Nova Scotia",1998,"environment.lag01",6.13007
+"Nova Scotia",1999,"environment.lag01",6.046732
+"Nova Scotia",2000,"environment.lag01",7.055261
+"Nova Scotia",2001,"environment.lag01",7.156196
+"Nova Scotia",2002,"environment.lag01",6.250929
+"Nova Scotia",2003,"environment.lag01",6.774675
+"Rhode Island",1987,"environment.lag01",12.452229
+"Rhode Island",1988,"environment.lag01",12.257245
+"Rhode Island",1989,"environment.lag01",13.7465495
+"Rhode Island",1990,"environment.lag01",11.7203565
+"Rhode Island",1991,"environment.lag01",12.7785485
+"Rhode Island",1992,"environment.lag01",13.710896
+"Rhode Island",1993,"environment.lag01",12.25371
+"Rhode Island",1994,"environment.lag01",18.816455
+"Rhode Island",1995,"environment.lag01",11.85857
+"Rhode Island",1996,"environment.lag01",13.0166655
+"Rhode Island",1997,"environment.lag01",11.588692
+"Rhode Island",1998,"environment.lag01",13.06643
+"Rhode Island",1999,"environment.lag01",13.303933
+"Rhode Island",2000,"environment.lag01",14.054196
+"Rhode Island",2001,"environment.lag01",13.446951
+"Rhode Island",2002,"environment.lag01",15.83522
+"Rhode Island",2003,"environment.lag01",14.743535
+"Rhode Island",2004,"environment.lag01",12.0201515
+"Rhode Island",2005,"environment.lag01",13.479412
+"Rhode Island",2006,"environment.lag01",12.4902975
+"s Gulf St Lawrence",1984,"environment.lag01",8.503666
+"s Gulf St Lawrence",1985,"environment.lag01",8.336845
+"s Gulf St Lawrence",1986,"environment.lag01",8.106199
+"s Gulf St Lawrence",1987,"environment.lag01",8.84023
+"s Gulf St Lawrence",1988,"environment.lag01",7.465728
+"s Gulf St Lawrence",1989,"environment.lag01",8.515455
+"s Gulf St Lawrence",1990,"environment.lag01",8.900337
+"s Gulf St Lawrence",1991,"environment.lag01",8.124107
+"s Gulf St Lawrence",1992,"environment.lag01",9.175531
+"s Gulf St Lawrence",1993,"environment.lag01",6.909842
+"s Gulf St Lawrence",1994,"environment.lag01",7.209249
+"s Gulf St Lawrence",1995,"environment.lag01",7.742686
+"s Gulf St Lawrence",1996,"environment.lag01",7.895619
+"s Gulf St Lawrence",1997,"environment.lag01",8.376033
+"s Gulf St Lawrence",1998,"environment.lag01",6.121188
+"s Gulf St Lawrence",1999,"environment.lag01",8.471569
+"s Gulf St Lawrence",2000,"environment.lag01",7.523642
+"s Gulf St Lawrence",2001,"environment.lag01",8.434823
+"s Gulf St Lawrence",2002,"environment.lag01",8.127226
+"s Gulf St Lawrence",2003,"environment.lag01",7.197049
+"s Gulf St Lawrence",2004,"environment.lag01",6.498221
+"s Gulf St Lawrence",2005,"environment.lag01",6.033905
+"s Gulf St Lawrence",2006,"environment.lag01",5.946149
+"s Gulf St Lawrence",2007,"environment.lag01",7.000411
+"s New England",1982,"environment.lag01",14.059989
+"s New England",1983,"environment.lag01",14.535405
+"s New England",1984,"environment.lag01",15.119095
+"s New England",1985,"environment.lag01",14.805064
+"s New England",1986,"environment.lag01",15.880614
+"s New England",1987,"environment.lag01",15.588882
+"s New England",1988,"environment.lag01",13.908468
+"s New England",1989,"environment.lag01",14.883539
+"s New England",1990,"environment.lag01",15.829131
+"s New England",1991,"environment.lag01",15.638728
+"s New England",1992,"environment.lag01",16.07361
+"s New England",1993,"environment.lag01",14.594112
+"s New England",1994,"environment.lag01",15.117083
+"s New England",1995,"environment.lag01",14.868299
+"s New England",1996,"environment.lag01",16.276791
+"s New England",1997,"environment.lag01",13.341169
+"s New England",1998,"environment.lag01",15.720409
+"s New England",1999,"environment.lag01",14.990171
+"s New England",2000,"environment.lag01",16.579129
+"s New England",2001,"environment.lag01",15.322819
+"s New England",2002,"environment.lag01",16.223004
+"s New England",2003,"environment.lag01",15.725509
+"s New England",2004,"environment.lag01",14.594365
+"s New England",2005,"environment.lag01",13.400405
+"s New England",2006,"environment.lag01",13.708102
+"s New England",2007,"environment.lag01",14.945187
+"Connecticut",1999,"predator.lag01",2.12
+"Connecticut",2000,"predator.lag01",2.44
+"Connecticut",2001,"predator.lag01",3.35
+"Connecticut",2002,"predator.lag01",3.02
+"Connecticut",2003,"predator.lag01",5.81
+"Connecticut",2004,"predator.lag01",4.5
+"Connecticut",2005,"predator.lag01",2.57
+"Connecticut",2006,"predator.lag01",3.15
+"Connecticut",2007,"predator.lag01",2.19
+"Georges Bank",1982,"predator.lag01",25.0786
+"Georges Bank",1983,"predator.lag01",13.5581
+"Georges Bank",1984,"predator.lag01",12.1441
+"Georges Bank",1985,"predator.lag01",11.611
+"Georges Bank",1986,"predator.lag01",9.311
+"Georges Bank",1987,"predator.lag01",22.4801
+"Georges Bank",1988,"predator.lag01",25.2334
+"Georges Bank",1989,"predator.lag01",16.5651
+"Georges Bank",1990,"predator.lag01",39.3308
+"Georges Bank",1991,"predator.lag01",34.655
+"Georges Bank",1992,"predator.lag01",17.5613
+"Georges Bank",1993,"predator.lag01",35.0175
+"Georges Bank",1994,"predator.lag01",20.1191
+"Georges Bank",1995,"predator.lag01",25.1198
+"Georges Bank",1996,"predator.lag01",30.4133
+"Georges Bank",1997,"predator.lag01",28.0619
+"Georges Bank",1998,"predator.lag01",32.8292
+"Georges Bank",1999,"predator.lag01",59.7722
+"Georges Bank",2000,"predator.lag01",20.6887
+"Georges Bank",2001,"predator.lag01",30.2473
+"Georges Bank",2002,"predator.lag01",27.1496
+"Georges Bank",2003,"predator.lag01",37.9489
+"Georges Bank",2004,"predator.lag01",17.061
+"Georges Bank",2005,"predator.lag01",19.7579
+"Georges Bank",2006,"predator.lag01",16.6395
+"Georges Bank",2007,"predator.lag01",17.6305
+"Gulf of Maine",1982,"predator.lag01",11.137
+"Gulf of Maine",1983,"predator.lag01",10.7307
+"Gulf of Maine",1984,"predator.lag01",10.827
+"Gulf of Maine",1985,"predator.lag01",10.5018
+"Gulf of Maine",1986,"predator.lag01",10.3804
+"Gulf of Maine",1987,"predator.lag01",7.3211
+"Gulf of Maine",1988,"predator.lag01",6.3766
+"Gulf of Maine",1989,"predator.lag01",10.7453
+"Gulf of Maine",1990,"predator.lag01",11.8778
+"Gulf of Maine",1991,"predator.lag01",9.3519
+"Gulf of Maine",1992,"predator.lag01",9.7547
+"Gulf of Maine",1993,"predator.lag01",10.2263
+"Gulf of Maine",1994,"predator.lag01",11.0249
+"Gulf of Maine",1995,"predator.lag01",10.2708
+"Gulf of Maine",1996,"predator.lag01",12.7775
+"Gulf of Maine",1997,"predator.lag01",11.2634
+"Gulf of Maine",1998,"predator.lag01",8.6199
+"Gulf of Maine",1999,"predator.lag01",6.1142
+"Gulf of Maine",2000,"predator.lag01",10.4616
+"Gulf of Maine",2001,"predator.lag01",11.6754
+"Gulf of Maine",2002,"predator.lag01",8.7853
+"Gulf of Maine",2003,"predator.lag01",10.3337
+"Gulf of Maine",2004,"predator.lag01",9.531
+"Gulf of Maine",2005,"predator.lag01",6.6438
+"Gulf of Maine",2006,"predator.lag01",4.1677
+"Gulf of Maine",2007,"predator.lag01",8.0722
+"Massachusetts",1986,"predator.lag01",46.64070835
+"Massachusetts",1987,"predator.lag01",44.8586293
+"Massachusetts",1988,"predator.lag01",187.9539191
+"Massachusetts",1989,"predator.lag01",43.32072285
+"Massachusetts",1990,"predator.lag01",52.8431886
+"Massachusetts",1991,"predator.lag01",58.1374457
+"Massachusetts",1992,"predator.lag01",40.1957049
+"Massachusetts",1993,"predator.lag01",70.54648525
+"Massachusetts",1994,"predator.lag01",133.56071275
+"Massachusetts",1995,"predator.lag01",81.4810195
+"Massachusetts",1996,"predator.lag01",102.417707
+"Massachusetts",1997,"predator.lag01",65.48795065
+"Massachusetts",1998,"predator.lag01",51.30427265
+"Massachusetts",1999,"predator.lag01",64.2211719
+"Massachusetts",2000,"predator.lag01",130.37565885
+"Massachusetts",2001,"predator.lag01",103.95679125
+"Massachusetts",2002,"predator.lag01",128.576356
+"Massachusetts",2003,"predator.lag01",63.778828
+"Massachusetts",2004,"predator.lag01",674.9415424
+"Massachusetts",2005,"predator.lag01",156.9194188
+"Massachusetts",2006,"predator.lag01",158.4995676
+"Massachusetts",2007,"predator.lag01",586.58764195
+"Newfoundland",1984,"predator.lag01",115.128
+"Newfoundland",1985,"predator.lag01",39.769
+"Newfoundland",1986,"predator.lag01",87.318
+"Newfoundland",1987,"predator.lag01",34.239
+"Newfoundland",1988,"predator.lag01",53.42
+"Newfoundland",1989,"predator.lag01",29.767
+"Newfoundland",1990,"predator.lag01",29.244
+"Newfoundland",1991,"predator.lag01",33.445
+"Newfoundland",1992,"predator.lag01",39.876
+"Newfoundland",1993,"predator.lag01",25.493
+"Newfoundland",1994,"predator.lag01",13.083
+"Newfoundland",1995,"predator.lag01",15.099
+"Nova Scotia",1978,"predator.lag01",40.481227919
+"Nova Scotia",1979,"predator.lag01",37.861166381
+"Nova Scotia",1980,"predator.lag01",41.05553565
+"Nova Scotia",1981,"predator.lag01",35.981734647
+"Nova Scotia",1982,"predator.lag01",52.304163335
+"Nova Scotia",1983,"predator.lag01",40.862787527
+"Nova Scotia",1984,"predator.lag01",42.595437487
+"Nova Scotia",1985,"predator.lag01",42.25914985
+"Nova Scotia",1986,"predator.lag01",45.422934613
+"Nova Scotia",1987,"predator.lag01",31.150374633
+"Nova Scotia",1988,"predator.lag01",32.788339516
+"Nova Scotia",1989,"predator.lag01",38.302713025
+"Nova Scotia",1990,"predator.lag01",28.326616448
+"Nova Scotia",1991,"predator.lag01",25.274136743
+"Nova Scotia",1992,"predator.lag01",22.341086836
+"Nova Scotia",1993,"predator.lag01",21.935841284
+"Nova Scotia",1994,"predator.lag01",15.209094736
+"Nova Scotia",1995,"predator.lag01",12.884499333
+"Nova Scotia",1996,"predator.lag01",14.163560859
+"Nova Scotia",1997,"predator.lag01",21.191709026
+"Nova Scotia",1998,"predator.lag01",12.496575956
+"Nova Scotia",1999,"predator.lag01",14.641077295
+"Nova Scotia",2000,"predator.lag01",9.997076896
+"Nova Scotia",2001,"predator.lag01",8.877114778
+"Nova Scotia",2002,"predator.lag01",10.078772118
+"Nova Scotia",2003,"predator.lag01",11.294634398
+"Rhode Island",1987,"predator.lag01",3.008309292
+"Rhode Island",1988,"predator.lag01",1.736048266
+"Rhode Island",1989,"predator.lag01",1.1669435215
+"Rhode Island",1990,"predator.lag01",1.904761905
+"Rhode Island",1991,"predator.lag01",5.583333333
+"Rhode Island",1992,"predator.lag01",1.1815183365
+"Rhode Island",1993,"predator.lag01",0.754761905
+"Rhode Island",1994,"predator.lag01",0.7161890395
+"Rhode Island",1995,"predator.lag01",0.482142857
+"Rhode Island",1996,"predator.lag01",1.547619048
+"Rhode Island",1997,"predator.lag01",2.503246753
+"Rhode Island",1998,"predator.lag01",0.2976190475
+"Rhode Island",1999,"predator.lag01",1.486353078
+"Rhode Island",2000,"predator.lag01",0.5421675375
+"Rhode Island",2001,"predator.lag01",1.3798780485
+"Rhode Island",2002,"predator.lag01",1.395310489
+"Rhode Island",2003,"predator.lag01",0.6379065045
+"Rhode Island",2004,"predator.lag01",4.5808289785
+"Rhode Island",2005,"predator.lag01",1.4582126765
+"Rhode Island",2006,"predator.lag01",8.96011905
+"s Gulf St Lawrence",1984,"predator.lag01",4.725072811
+"s Gulf St Lawrence",1985,"predator.lag01",6.309847403
+"s Gulf St Lawrence",1986,"predator.lag01",10.063247822
+"s Gulf St Lawrence",1987,"predator.lag01",13.49395748
+"s Gulf St Lawrence",1988,"predator.lag01",7.300118179
+"s Gulf St Lawrence",1989,"predator.lag01",10.328265489
+"s Gulf St Lawrence",1990,"predator.lag01",7.106372335
+"s Gulf St Lawrence",1991,"predator.lag01",7.591020886
+"s Gulf St Lawrence",1992,"predator.lag01",8.089962245
+"s Gulf St Lawrence",1993,"predator.lag01",5.60144151
+"s Gulf St Lawrence",1994,"predator.lag01",3.824391063
+"s Gulf St Lawrence",1995,"predator.lag01",3.716135338
+"s Gulf St Lawrence",1996,"predator.lag01",2.168474469
+"s Gulf St Lawrence",1997,"predator.lag01",2.979294051
+"s Gulf St Lawrence",1998,"predator.lag01",2.853908784
+"s Gulf St Lawrence",1999,"predator.lag01",3.426484005
+"s Gulf St Lawrence",2000,"predator.lag01",3.022792355
+"s Gulf St Lawrence",2001,"predator.lag01",4.647619618
+"s Gulf St Lawrence",2002,"predator.lag01",2.910907451
+"s Gulf St Lawrence",2003,"predator.lag01",2.861558849
+"s Gulf St Lawrence",2004,"predator.lag01",2.510759923
+"s Gulf St Lawrence",2005,"predator.lag01",1.943863458
+"s Gulf St Lawrence",2006,"predator.lag01",2.775925368
+"s Gulf St Lawrence",2007,"predator.lag01",2.129253788
+"s New England",1982,"predator.lag01",4.221
+"s New England",1983,"predator.lag01",7.777
+"s New England",1984,"predator.lag01",2.874
+"s New England",1985,"predator.lag01",3.764
+"s New England",1986,"predator.lag01",2.327
+"s New England",1987,"predator.lag01",1.56
+"s New England",1988,"predator.lag01",2.087
+"s New England",1989,"predator.lag01",1.632
+"s New England",1990,"predator.lag01",2.88
+"s New England",1991,"predator.lag01",4.533
+"s New England",1992,"predator.lag01",1.732
+"s New England",1993,"predator.lag01",1.704
+"s New England",1994,"predator.lag01",1.137
+"s New England",1995,"predator.lag01",4.551
+"s New England",1996,"predator.lag01",1.56
+"s New England",1997,"predator.lag01",2.125
+"s New England",1998,"predator.lag01",2.561
+"s New England",1999,"predator.lag01",2.937
+"s New England",2000,"predator.lag01",4.07
+"s New England",2001,"predator.lag01",1.63
+"s New England",2002,"predator.lag01",3.75
+"s New England",2003,"predator.lag01",2.93
+"s New England",2004,"predator.lag01",4.43
+"s New England",2005,"predator.lag01",3.43
+"s New England",2006,"predator.lag01",4.985
+"s New England",2007,"predator.lag01",2.867
+"Connecticut",1999,"environment.lag02",13.84
+"Connecticut",2000,"environment.lag02",15.1
+"Connecticut",2001,"environment.lag02",14
+"Connecticut",2002,"environment.lag02",14.3
+"Connecticut",2003,"environment.lag02",14.815
+"Connecticut",2004,"environment.lag02",15.15
+"Connecticut",2005,"environment.lag02",14.09
+"Connecticut",2006,"environment.lag02",14.16
+"Connecticut",2007,"environment.lag02",14.215
+"Georges Bank",1982,"environment.lag02",10.155144
+"Georges Bank",1983,"environment.lag02",10.329311
+"Georges Bank",1984,"environment.lag02",10.836811
+"Georges Bank",1985,"environment.lag02",9.290978
+"Georges Bank",1986,"environment.lag02",10.490144
+"Georges Bank",1987,"environment.lag02",9.495144
+"Georges Bank",1988,"environment.lag02",9.381811
+"Georges Bank",1989,"environment.lag02",8.630144
+"Georges Bank",1990,"environment.lag02",10.423478
+"Georges Bank",1991,"environment.lag02",7.115144
+"Georges Bank",1992,"environment.lag02",8.407644
+"Georges Bank",1993,"environment.lag02",8.746809
+"Georges Bank",1994,"environment.lag02",8.967644
+"Georges Bank",1995,"environment.lag02",9.295978
+"Georges Bank",1996,"environment.lag02",9.632638
+"Georges Bank",1997,"environment.lag02",9.626811
+"Georges Bank",1998,"environment.lag02",8.440144
+"Georges Bank",1999,"environment.lag02",9.433453
+"Georges Bank",2000,"environment.lag02",7.905978
+"Georges Bank",2001,"environment.lag02",10.317644
+"Georges Bank",2002,"environment.lag02",9.707089
+"Georges Bank",2003,"environment.lag02",9.219816
+"Georges Bank",2004,"environment.lag02",10.446811
+"Georges Bank",2005,"environment.lag02",9.070978
+"Georges Bank",2006,"environment.lag02",8.853478
+"Georges Bank",2007,"environment.lag02",9.023478
+"Gulf of Maine",1982,"environment.lag02",8.6937
+"Gulf of Maine",1983,"environment.lag02",8.2612
+"Gulf of Maine",1984,"environment.lag02",8.482866
+"Gulf of Maine",1985,"environment.lag02",8.362033
+"Gulf of Maine",1986,"environment.lag02",8.527033
+"Gulf of Maine",1987,"environment.lag02",8.737033
+"Gulf of Maine",1988,"environment.lag02",8.773922
+"Gulf of Maine",1989,"environment.lag02",7.602033
+"Gulf of Maine",1990,"environment.lag02",7.667033
+"Gulf of Maine",1991,"environment.lag02",8.185366
+"Gulf of Maine",1992,"environment.lag02",8.174533
+"Gulf of Maine",1993,"environment.lag02",8.672033
+"Gulf of Maine",1994,"environment.lag02",7.2337
+"Gulf of Maine",1995,"environment.lag02",7.649533
+"Gulf of Maine",1996,"environment.lag02",8.395366
+"Gulf of Maine",1997,"environment.lag02",8.194533
+"Gulf of Maine",1998,"environment.lag02",7.4112
+"Gulf of Maine",1999,"environment.lag02",7.789577
+"Gulf of Maine",2000,"environment.lag02",7.602866
+"Gulf of Maine",2001,"environment.lag02",8.3937
+"Gulf of Maine",2002,"environment.lag02",9.326541
+"Gulf of Maine",2003,"environment.lag02",8.3337
+"Gulf of Maine",2004,"environment.lag02",8.811842
+"Gulf of Maine",2005,"environment.lag02",7.908668
+"Gulf of Maine",2006,"environment.lag02",7.359533
+"Gulf of Maine",2007,"environment.lag02",7.445366
+"Massachusetts",1986,"environment.lag02",11.6660485
+"Massachusetts",1987,"environment.lag02",12.3088235
+"Massachusetts",1988,"environment.lag02",12.181402
+"Massachusetts",1989,"environment.lag02",10.7552505
+"Massachusetts",1990,"environment.lag02",11.275286
+"Massachusetts",1991,"environment.lag02",12.0072485
+"Massachusetts",1992,"environment.lag02",11.9066305
+"Massachusetts",1993,"environment.lag02",12.3728215
+"Massachusetts",1994,"environment.lag02",10.913906
+"Massachusetts",1995,"environment.lag02",11.383308
+"Massachusetts",1996,"environment.lag02",11.6318325
+"Massachusetts",1997,"environment.lag02",12.235662
+"Massachusetts",1998,"environment.lag02",10.3761845
+"Massachusetts",1999,"environment.lag02",11.754993
+"Massachusetts",2000,"environment.lag02",11.2965185
+"Massachusetts",2001,"environment.lag02",12.4864145
+"Massachusetts",2002,"environment.lag02",12.32468
+"Massachusetts",2003,"environment.lag02",12.278352
+"Massachusetts",2004,"environment.lag02",12.2686755
+"Massachusetts",2005,"environment.lag02",11.2515165
+"Massachusetts",2006,"environment.lag02",10.379969
+"Massachusetts",2007,"environment.lag02",10.576734
+"Newfoundland",1984,"environment.lag02",5.239827
+"Newfoundland",1985,"environment.lag02",6.504437
+"Newfoundland",1986,"environment.lag02",5.555592
+"Newfoundland",1987,"environment.lag02",4.731395
+"Newfoundland",1988,"environment.lag02",4.985387
+"Newfoundland",1989,"environment.lag02",5.046112
+"Newfoundland",1990,"environment.lag02",5.035768
+"Newfoundland",1991,"environment.lag02",3.759256
+"Newfoundland",1992,"environment.lag02",3.589135
+"Newfoundland",1993,"environment.lag02",4.085074
+"Newfoundland",1994,"environment.lag02",5.228659
+"Newfoundland",1995,"environment.lag02",4.314457
+"Nova Scotia",1978,"environment.lag02",6.857277
+"Nova Scotia",1979,"environment.lag02",6.955699
+"Nova Scotia",1980,"environment.lag02",6.391447
+"Nova Scotia",1981,"environment.lag02",6.967084
+"Nova Scotia",1982,"environment.lag02",6.537208
+"Nova Scotia",1983,"environment.lag02",7.274185
+"Nova Scotia",1984,"environment.lag02",7.10381
+"Nova Scotia",1985,"environment.lag02",7.659046
+"Nova Scotia",1986,"environment.lag02",7.045913
+"Nova Scotia",1987,"environment.lag02",5.947796
+"Nova Scotia",1988,"environment.lag02",6.609073
+"Nova Scotia",1989,"environment.lag02",6.4315
+"Nova Scotia",1990,"environment.lag02",6.523669
+"Nova Scotia",1991,"environment.lag02",6.526049
+"Nova Scotia",1992,"environment.lag02",6.811836
+"Nova Scotia",1993,"environment.lag02",6.471909
+"Nova Scotia",1994,"environment.lag02",5.825668
+"Nova Scotia",1995,"environment.lag02",5.954566
+"Nova Scotia",1996,"environment.lag02",6.328824
+"Nova Scotia",1997,"environment.lag02",6.260352
+"Nova Scotia",1998,"environment.lag02",6.230361
+"Nova Scotia",1999,"environment.lag02",6.13007
+"Nova Scotia",2000,"environment.lag02",6.046732
+"Nova Scotia",2001,"environment.lag02",7.055261
+"Nova Scotia",2002,"environment.lag02",7.156196
+"Nova Scotia",2003,"environment.lag02",6.250929
+"Rhode Island",1987,"environment.lag02",12.6852455
+"Rhode Island",1988,"environment.lag02",12.452229
+"Rhode Island",1989,"environment.lag02",12.257245
+"Rhode Island",1990,"environment.lag02",13.7465495
+"Rhode Island",1991,"environment.lag02",11.7203565
+"Rhode Island",1992,"environment.lag02",12.7785485
+"Rhode Island",1993,"environment.lag02",13.710896
+"Rhode Island",1994,"environment.lag02",12.25371
+"Rhode Island",1995,"environment.lag02",18.816455
+"Rhode Island",1996,"environment.lag02",11.85857
+"Rhode Island",1997,"environment.lag02",13.0166655
+"Rhode Island",1998,"environment.lag02",11.588692
+"Rhode Island",1999,"environment.lag02",13.06643
+"Rhode Island",2000,"environment.lag02",13.303933
+"Rhode Island",2001,"environment.lag02",14.054196
+"Rhode Island",2002,"environment.lag02",13.446951
+"Rhode Island",2003,"environment.lag02",15.83522
+"Rhode Island",2004,"environment.lag02",14.743535
+"Rhode Island",2005,"environment.lag02",12.0201515
+"Rhode Island",2006,"environment.lag02",13.479412
+"s Gulf St Lawrence",1984,"environment.lag02",8.245982
+"s Gulf St Lawrence",1985,"environment.lag02",8.503666
+"s Gulf St Lawrence",1986,"environment.lag02",8.336845
+"s Gulf St Lawrence",1987,"environment.lag02",8.106199
+"s Gulf St Lawrence",1988,"environment.lag02",8.84023
+"s Gulf St Lawrence",1989,"environment.lag02",7.465728
+"s Gulf St Lawrence",1990,"environment.lag02",8.515455
+"s Gulf St Lawrence",1991,"environment.lag02",8.900337
+"s Gulf St Lawrence",1992,"environment.lag02",8.124107
+"s Gulf St Lawrence",1993,"environment.lag02",9.175531
+"s Gulf St Lawrence",1994,"environment.lag02",6.909842
+"s Gulf St Lawrence",1995,"environment.lag02",7.209249
+"s Gulf St Lawrence",1996,"environment.lag02",7.742686
+"s Gulf St Lawrence",1997,"environment.lag02",7.895619
+"s Gulf St Lawrence",1998,"environment.lag02",8.376033
+"s Gulf St Lawrence",1999,"environment.lag02",6.121188
+"s Gulf St Lawrence",2000,"environment.lag02",8.471569
+"s Gulf St Lawrence",2001,"environment.lag02",7.523642
+"s Gulf St Lawrence",2002,"environment.lag02",8.434823
+"s Gulf St Lawrence",2003,"environment.lag02",8.127226
+"s Gulf St Lawrence",2004,"environment.lag02",7.197049
+"s Gulf St Lawrence",2005,"environment.lag02",6.498221
+"s Gulf St Lawrence",2006,"environment.lag02",6.033905
+"s Gulf St Lawrence",2007,"environment.lag02",5.946149
+"s New England",1982,"environment.lag02",14.504131
+"s New England",1983,"environment.lag02",14.059989
+"s New England",1984,"environment.lag02",14.535405
+"s New England",1985,"environment.lag02",15.119095
+"s New England",1986,"environment.lag02",14.805064
+"s New England",1987,"environment.lag02",15.880614
+"s New England",1988,"environment.lag02",15.588882
+"s New England",1989,"environment.lag02",13.908468
+"s New England",1990,"environment.lag02",14.883539
+"s New England",1991,"environment.lag02",15.829131
+"s New England",1992,"environment.lag02",15.638728
+"s New England",1993,"environment.lag02",16.07361
+"s New England",1994,"environment.lag02",14.594112
+"s New England",1995,"environment.lag02",15.117083
+"s New England",1996,"environment.lag02",14.868299
+"s New England",1997,"environment.lag02",16.276791
+"s New England",1998,"environment.lag02",13.341169
+"s New England",1999,"environment.lag02",15.720409
+"s New England",2000,"environment.lag02",14.990171
+"s New England",2001,"environment.lag02",16.579129
+"s New England",2002,"environment.lag02",15.322819
+"s New England",2003,"environment.lag02",16.223004
+"s New England",2004,"environment.lag02",15.725509
+"s New England",2005,"environment.lag02",14.594365
+"s New England",2006,"environment.lag02",13.400405
+"s New England",2007,"environment.lag02",13.708102
+"Connecticut",1999,"predator.lag02",1.86
+"Connecticut",2000,"predator.lag02",2.12
+"Connecticut",2001,"predator.lag02",2.44
+"Connecticut",2002,"predator.lag02",3.35
+"Connecticut",2003,"predator.lag02",3.02
+"Connecticut",2004,"predator.lag02",5.81
+"Connecticut",2005,"predator.lag02",4.5
+"Connecticut",2006,"predator.lag02",2.57
+"Connecticut",2007,"predator.lag02",3.15
+"Georges Bank",1982,"predator.lag02",31.5494
+"Georges Bank",1983,"predator.lag02",25.0786
+"Georges Bank",1984,"predator.lag02",13.5581
+"Georges Bank",1985,"predator.lag02",12.1441
+"Georges Bank",1986,"predator.lag02",11.611
+"Georges Bank",1987,"predator.lag02",9.311
+"Georges Bank",1988,"predator.lag02",22.4801
+"Georges Bank",1989,"predator.lag02",25.2334
+"Georges Bank",1990,"predator.lag02",16.5651
+"Georges Bank",1991,"predator.lag02",39.3308
+"Georges Bank",1992,"predator.lag02",34.655
+"Georges Bank",1993,"predator.lag02",17.5613
+"Georges Bank",1994,"predator.lag02",35.0175
+"Georges Bank",1995,"predator.lag02",20.1191
+"Georges Bank",1996,"predator.lag02",25.1198
+"Georges Bank",1997,"predator.lag02",30.4133
+"Georges Bank",1998,"predator.lag02",28.0619
+"Georges Bank",1999,"predator.lag02",32.8292
+"Georges Bank",2000,"predator.lag02",59.7722
+"Georges Bank",2001,"predator.lag02",20.6887
+"Georges Bank",2002,"predator.lag02",30.2473
+"Georges Bank",2003,"predator.lag02",27.1496
+"Georges Bank",2004,"predator.lag02",37.9489
+"Georges Bank",2005,"predator.lag02",17.061
+"Georges Bank",2006,"predator.lag02",19.7579
+"Georges Bank",2007,"predator.lag02",16.6395
+"Gulf of Maine",1982,"predator.lag02",13.7137
+"Gulf of Maine",1983,"predator.lag02",11.137
+"Gulf of Maine",1984,"predator.lag02",10.7307
+"Gulf of Maine",1985,"predator.lag02",10.827
+"Gulf of Maine",1986,"predator.lag02",10.5018
+"Gulf of Maine",1987,"predator.lag02",10.3804
+"Gulf of Maine",1988,"predator.lag02",7.3211
+"Gulf of Maine",1989,"predator.lag02",6.3766
+"Gulf of Maine",1990,"predator.lag02",10.7453
+"Gulf of Maine",1991,"predator.lag02",11.8778
+"Gulf of Maine",1992,"predator.lag02",9.3519
+"Gulf of Maine",1993,"predator.lag02",9.7547
+"Gulf of Maine",1994,"predator.lag02",10.2263
+"Gulf of Maine",1995,"predator.lag02",11.0249
+"Gulf of Maine",1996,"predator.lag02",10.2708
+"Gulf of Maine",1997,"predator.lag02",12.7775
+"Gulf of Maine",1998,"predator.lag02",11.2634
+"Gulf of Maine",1999,"predator.lag02",8.6199
+"Gulf of Maine",2000,"predator.lag02",6.1142
+"Gulf of Maine",2001,"predator.lag02",10.4616
+"Gulf of Maine",2002,"predator.lag02",11.6754
+"Gulf of Maine",2003,"predator.lag02",8.7853
+"Gulf of Maine",2004,"predator.lag02",10.3337
+"Gulf of Maine",2005,"predator.lag02",9.531
+"Gulf of Maine",2006,"predator.lag02",6.6438
+"Gulf of Maine",2007,"predator.lag02",4.1677
+"Massachusetts",1986,"predator.lag02",66.7448305
+"Massachusetts",1987,"predator.lag02",46.64070835
+"Massachusetts",1988,"predator.lag02",44.8586293
+"Massachusetts",1989,"predator.lag02",187.9539191
+"Massachusetts",1990,"predator.lag02",43.32072285
+"Massachusetts",1991,"predator.lag02",52.8431886
+"Massachusetts",1992,"predator.lag02",58.1374457
+"Massachusetts",1993,"predator.lag02",40.1957049
+"Massachusetts",1994,"predator.lag02",70.54648525
+"Massachusetts",1995,"predator.lag02",133.56071275
+"Massachusetts",1996,"predator.lag02",81.4810195
+"Massachusetts",1997,"predator.lag02",102.417707
+"Massachusetts",1998,"predator.lag02",65.48795065
+"Massachusetts",1999,"predator.lag02",51.30427265
+"Massachusetts",2000,"predator.lag02",64.2211719
+"Massachusetts",2001,"predator.lag02",130.37565885
+"Massachusetts",2002,"predator.lag02",103.95679125
+"Massachusetts",2003,"predator.lag02",128.576356
+"Massachusetts",2004,"predator.lag02",63.778828
+"Massachusetts",2005,"predator.lag02",674.9415424
+"Massachusetts",2006,"predator.lag02",156.9194188
+"Massachusetts",2007,"predator.lag02",158.4995676
+"Newfoundland",1984,"predator.lag02",56.975
+"Newfoundland",1985,"predator.lag02",115.128
+"Newfoundland",1986,"predator.lag02",39.769
+"Newfoundland",1987,"predator.lag02",87.318
+"Newfoundland",1988,"predator.lag02",34.239
+"Newfoundland",1989,"predator.lag02",53.42
+"Newfoundland",1990,"predator.lag02",29.767
+"Newfoundland",1991,"predator.lag02",29.244
+"Newfoundland",1992,"predator.lag02",33.445
+"Newfoundland",1993,"predator.lag02",39.876
+"Newfoundland",1994,"predator.lag02",25.493
+"Newfoundland",1995,"predator.lag02",13.083
+"Nova Scotia",1978,"predator.lag02",31.148038587
+"Nova Scotia",1979,"predator.lag02",40.481227919
+"Nova Scotia",1980,"predator.lag02",37.861166381
+"Nova Scotia",1981,"predator.lag02",41.05553565
+"Nova Scotia",1982,"predator.lag02",35.981734647
+"Nova Scotia",1983,"predator.lag02",52.304163335
+"Nova Scotia",1984,"predator.lag02",40.862787527
+"Nova Scotia",1985,"predator.lag02",42.595437487
+"Nova Scotia",1986,"predator.lag02",42.25914985
+"Nova Scotia",1987,"predator.lag02",45.422934613
+"Nova Scotia",1988,"predator.lag02",31.150374633
+"Nova Scotia",1989,"predator.lag02",32.788339516
+"Nova Scotia",1990,"predator.lag02",38.302713025
+"Nova Scotia",1991,"predator.lag02",28.326616448
+"Nova Scotia",1992,"predator.lag02",25.274136743
+"Nova Scotia",1993,"predator.lag02",22.341086836
+"Nova Scotia",1994,"predator.lag02",21.935841284
+"Nova Scotia",1995,"predator.lag02",15.209094736
+"Nova Scotia",1996,"predator.lag02",12.884499333
+"Nova Scotia",1997,"predator.lag02",14.163560859
+"Nova Scotia",1998,"predator.lag02",21.191709026
+"Nova Scotia",1999,"predator.lag02",12.496575956
+"Nova Scotia",2000,"predator.lag02",14.641077295
+"Nova Scotia",2001,"predator.lag02",9.997076896
+"Nova Scotia",2002,"predator.lag02",8.877114778
+"Nova Scotia",2003,"predator.lag02",10.078772118
+"Rhode Island",1987,"predator.lag02",6.663040902
+"Rhode Island",1988,"predator.lag02",3.008309292
+"Rhode Island",1989,"predator.lag02",1.736048266
+"Rhode Island",1990,"predator.lag02",1.1669435215
+"Rhode Island",1991,"predator.lag02",1.904761905
+"Rhode Island",1992,"predator.lag02",5.583333333
+"Rhode Island",1993,"predator.lag02",1.1815183365
+"Rhode Island",1994,"predator.lag02",0.754761905
+"Rhode Island",1995,"predator.lag02",0.7161890395
+"Rhode Island",1996,"predator.lag02",0.482142857
+"Rhode Island",1997,"predator.lag02",1.547619048
+"Rhode Island",1998,"predator.lag02",2.503246753
+"Rhode Island",1999,"predator.lag02",0.2976190475
+"Rhode Island",2000,"predator.lag02",1.486353078
+"Rhode Island",2001,"predator.lag02",0.5421675375
+"Rhode Island",2002,"predator.lag02",1.3798780485
+"Rhode Island",2003,"predator.lag02",1.395310489
+"Rhode Island",2004,"predator.lag02",0.6379065045
+"Rhode Island",2005,"predator.lag02",4.5808289785
+"Rhode Island",2006,"predator.lag02",1.4582126765
+"s Gulf St Lawrence",1984,"predator.lag02",6.211165946
+"s Gulf St Lawrence",1985,"predator.lag02",4.725072811
+"s Gulf St Lawrence",1986,"predator.lag02",6.309847403
+"s Gulf St Lawrence",1987,"predator.lag02",10.063247822
+"s Gulf St Lawrence",1988,"predator.lag02",13.49395748
+"s Gulf St Lawrence",1989,"predator.lag02",7.300118179
+"s Gulf St Lawrence",1990,"predator.lag02",10.328265489
+"s Gulf St Lawrence",1991,"predator.lag02",7.106372335
+"s Gulf St Lawrence",1992,"predator.lag02",7.591020886
+"s Gulf St Lawrence",1993,"predator.lag02",8.089962245
+"s Gulf St Lawrence",1994,"predator.lag02",5.60144151
+"s Gulf St Lawrence",1995,"predator.lag02",3.824391063
+"s Gulf St Lawrence",1996,"predator.lag02",3.716135338
+"s Gulf St Lawrence",1997,"predator.lag02",2.168474469
+"s Gulf St Lawrence",1998,"predator.lag02",2.979294051
+"s Gulf St Lawrence",1999,"predator.lag02",2.853908784
+"s Gulf St Lawrence",2000,"predator.lag02",3.426484005
+"s Gulf St Lawrence",2001,"predator.lag02",3.022792355
+"s Gulf St Lawrence",2002,"predator.lag02",4.647619618
+"s Gulf St Lawrence",2003,"predator.lag02",2.910907451
+"s Gulf St Lawrence",2004,"predator.lag02",2.861558849
+"s Gulf St Lawrence",2005,"predator.lag02",2.510759923
+"s Gulf St Lawrence",2006,"predator.lag02",1.943863458
+"s Gulf St Lawrence",2007,"predator.lag02",2.775925368
+"s New England",1982,"predator.lag02",3.436
+"s New England",1983,"predator.lag02",4.221
+"s New England",1984,"predator.lag02",7.777
+"s New England",1985,"predator.lag02",2.874
+"s New England",1986,"predator.lag02",3.764
+"s New England",1987,"predator.lag02",2.327
+"s New England",1988,"predator.lag02",1.56
+"s New England",1989,"predator.lag02",2.087
+"s New England",1990,"predator.lag02",1.632
+"s New England",1991,"predator.lag02",2.88
+"s New England",1992,"predator.lag02",4.533
+"s New England",1993,"predator.lag02",1.732
+"s New England",1994,"predator.lag02",1.704
+"s New England",1995,"predator.lag02",1.137
+"s New England",1996,"predator.lag02",4.551
+"s New England",1997,"predator.lag02",1.56
+"s New England",1998,"predator.lag02",2.125
+"s New England",1999,"predator.lag02",2.561
+"s New England",2000,"predator.lag02",2.937
+"s New England",2001,"predator.lag02",4.07
+"s New England",2002,"predator.lag02",1.63
+"s New England",2003,"predator.lag02",3.75
+"s New England",2004,"predator.lag02",2.93
+"s New England",2005,"predator.lag02",4.43
+"s New England",2006,"predator.lag02",3.43
+"s New England",2007,"predator.lag02",4.985
+"Connecticut",1999,"environment.lag03",13.64
+"Connecticut",2000,"environment.lag03",13.84
+"Connecticut",2001,"environment.lag03",15.1
+"Connecticut",2002,"environment.lag03",14
+"Connecticut",2003,"environment.lag03",14.3
+"Connecticut",2004,"environment.lag03",14.815
+"Connecticut",2005,"environment.lag03",15.15
+"Connecticut",2006,"environment.lag03",14.09
+"Connecticut",2007,"environment.lag03",14.16
+"Georges Bank",1982,"environment.lag03",9.389311
+"Georges Bank",1983,"environment.lag03",10.155144
+"Georges Bank",1984,"environment.lag03",10.329311
+"Georges Bank",1985,"environment.lag03",10.836811
+"Georges Bank",1986,"environment.lag03",9.290978
+"Georges Bank",1987,"environment.lag03",10.490144
+"Georges Bank",1988,"environment.lag03",9.495144
+"Georges Bank",1989,"environment.lag03",9.381811
+"Georges Bank",1990,"environment.lag03",8.630144
+"Georges Bank",1991,"environment.lag03",10.423478
+"Georges Bank",1992,"environment.lag03",7.115144
+"Georges Bank",1993,"environment.lag03",8.407644
+"Georges Bank",1994,"environment.lag03",8.746809
+"Georges Bank",1995,"environment.lag03",8.967644
+"Georges Bank",1996,"environment.lag03",9.295978
+"Georges Bank",1997,"environment.lag03",9.632638
+"Georges Bank",1998,"environment.lag03",9.626811
+"Georges Bank",1999,"environment.lag03",8.440144
+"Georges Bank",2000,"environment.lag03",9.433453
+"Georges Bank",2001,"environment.lag03",7.905978
+"Georges Bank",2002,"environment.lag03",10.317644
+"Georges Bank",2003,"environment.lag03",9.707089
+"Georges Bank",2004,"environment.lag03",9.219816
+"Georges Bank",2005,"environment.lag03",10.446811
+"Georges Bank",2006,"environment.lag03",9.070978
+"Georges Bank",2007,"environment.lag03",8.853478
+"Gulf of Maine",1982,"environment.lag03",8.2737
+"Gulf of Maine",1983,"environment.lag03",8.6937
+"Gulf of Maine",1984,"environment.lag03",8.2612
+"Gulf of Maine",1985,"environment.lag03",8.482866
+"Gulf of Maine",1986,"environment.lag03",8.362033
+"Gulf of Maine",1987,"environment.lag03",8.527033
+"Gulf of Maine",1988,"environment.lag03",8.737033
+"Gulf of Maine",1989,"environment.lag03",8.773922
+"Gulf of Maine",1990,"environment.lag03",7.602033
+"Gulf of Maine",1991,"environment.lag03",7.667033
+"Gulf of Maine",1992,"environment.lag03",8.185366
+"Gulf of Maine",1993,"environment.lag03",8.174533
+"Gulf of Maine",1994,"environment.lag03",8.672033
+"Gulf of Maine",1995,"environment.lag03",7.2337
+"Gulf of Maine",1996,"environment.lag03",7.649533
+"Gulf of Maine",1997,"environment.lag03",8.395366
+"Gulf of Maine",1998,"environment.lag03",8.194533
+"Gulf of Maine",1999,"environment.lag03",7.4112
+"Gulf of Maine",2000,"environment.lag03",7.789577
+"Gulf of Maine",2001,"environment.lag03",7.602866
+"Gulf of Maine",2002,"environment.lag03",8.3937
+"Gulf of Maine",2003,"environment.lag03",9.326541
+"Gulf of Maine",2004,"environment.lag03",8.3337
+"Gulf of Maine",2005,"environment.lag03",8.811842
+"Gulf of Maine",2006,"environment.lag03",7.908668
+"Gulf of Maine",2007,"environment.lag03",7.359533
+"Massachusetts",1986,"environment.lag03",11.740564
+"Massachusetts",1987,"environment.lag03",11.6660485
+"Massachusetts",1988,"environment.lag03",12.3088235
+"Massachusetts",1989,"environment.lag03",12.181402
+"Massachusetts",1990,"environment.lag03",10.7552505
+"Massachusetts",1991,"environment.lag03",11.275286
+"Massachusetts",1992,"environment.lag03",12.0072485
+"Massachusetts",1993,"environment.lag03",11.9066305
+"Massachusetts",1994,"environment.lag03",12.3728215
+"Massachusetts",1995,"environment.lag03",10.913906
+"Massachusetts",1996,"environment.lag03",11.383308
+"Massachusetts",1997,"environment.lag03",11.6318325
+"Massachusetts",1998,"environment.lag03",12.235662
+"Massachusetts",1999,"environment.lag03",10.3761845
+"Massachusetts",2000,"environment.lag03",11.754993
+"Massachusetts",2001,"environment.lag03",11.2965185
+"Massachusetts",2002,"environment.lag03",12.4864145
+"Massachusetts",2003,"environment.lag03",12.32468
+"Massachusetts",2004,"environment.lag03",12.278352
+"Massachusetts",2005,"environment.lag03",12.2686755
+"Massachusetts",2006,"environment.lag03",11.2515165
+"Massachusetts",2007,"environment.lag03",10.379969
+"Newfoundland",1984,"environment.lag03",7.026265
+"Newfoundland",1985,"environment.lag03",5.239827
+"Newfoundland",1986,"environment.lag03",6.504437
+"Newfoundland",1987,"environment.lag03",5.555592
+"Newfoundland",1988,"environment.lag03",4.731395
+"Newfoundland",1989,"environment.lag03",4.985387
+"Newfoundland",1990,"environment.lag03",5.046112
+"Newfoundland",1991,"environment.lag03",5.035768
+"Newfoundland",1992,"environment.lag03",3.759256
+"Newfoundland",1993,"environment.lag03",3.589135
+"Newfoundland",1994,"environment.lag03",4.085074
+"Newfoundland",1995,"environment.lag03",5.228659
+"Nova Scotia",1978,"environment.lag03",5.976427
+"Nova Scotia",1979,"environment.lag03",6.857277
+"Nova Scotia",1980,"environment.lag03",6.955699
+"Nova Scotia",1981,"environment.lag03",6.391447
+"Nova Scotia",1982,"environment.lag03",6.967084
+"Nova Scotia",1983,"environment.lag03",6.537208
+"Nova Scotia",1984,"environment.lag03",7.274185
+"Nova Scotia",1985,"environment.lag03",7.10381
+"Nova Scotia",1986,"environment.lag03",7.659046
+"Nova Scotia",1987,"environment.lag03",7.045913
+"Nova Scotia",1988,"environment.lag03",5.947796
+"Nova Scotia",1989,"environment.lag03",6.609073
+"Nova Scotia",1990,"environment.lag03",6.4315
+"Nova Scotia",1991,"environment.lag03",6.523669
+"Nova Scotia",1992,"environment.lag03",6.526049
+"Nova Scotia",1993,"environment.lag03",6.811836
+"Nova Scotia",1994,"environment.lag03",6.471909
+"Nova Scotia",1995,"environment.lag03",5.825668
+"Nova Scotia",1996,"environment.lag03",5.954566
+"Nova Scotia",1997,"environment.lag03",6.328824
+"Nova Scotia",1998,"environment.lag03",6.260352
+"Nova Scotia",1999,"environment.lag03",6.230361
+"Nova Scotia",2000,"environment.lag03",6.13007
+"Nova Scotia",2001,"environment.lag03",6.046732
+"Nova Scotia",2002,"environment.lag03",7.055261
+"Nova Scotia",2003,"environment.lag03",7.156196
+"Rhode Island",1987,"environment.lag03",12.9518955
+"Rhode Island",1988,"environment.lag03",12.6852455
+"Rhode Island",1989,"environment.lag03",12.452229
+"Rhode Island",1990,"environment.lag03",12.257245
+"Rhode Island",1991,"environment.lag03",13.7465495
+"Rhode Island",1992,"environment.lag03",11.7203565
+"Rhode Island",1993,"environment.lag03",12.7785485
+"Rhode Island",1994,"environment.lag03",13.710896
+"Rhode Island",1995,"environment.lag03",12.25371
+"Rhode Island",1996,"environment.lag03",18.816455
+"Rhode Island",1997,"environment.lag03",11.85857
+"Rhode Island",1998,"environment.lag03",13.0166655
+"Rhode Island",1999,"environment.lag03",11.588692
+"Rhode Island",2000,"environment.lag03",13.06643
+"Rhode Island",2001,"environment.lag03",13.303933
+"Rhode Island",2002,"environment.lag03",14.054196
+"Rhode Island",2003,"environment.lag03",13.446951
+"Rhode Island",2004,"environment.lag03",15.83522
+"Rhode Island",2005,"environment.lag03",14.743535
+"Rhode Island",2006,"environment.lag03",12.0201515
+"s Gulf St Lawrence",1984,"environment.lag03",7.915236
+"s Gulf St Lawrence",1985,"environment.lag03",8.245982
+"s Gulf St Lawrence",1986,"environment.lag03",8.503666
+"s Gulf St Lawrence",1987,"environment.lag03",8.336845
+"s Gulf St Lawrence",1988,"environment.lag03",8.106199
+"s Gulf St Lawrence",1989,"environment.lag03",8.84023
+"s Gulf St Lawrence",1990,"environment.lag03",7.465728
+"s Gulf St Lawrence",1991,"environment.lag03",8.515455
+"s Gulf St Lawrence",1992,"environment.lag03",8.900337
+"s Gulf St Lawrence",1993,"environment.lag03",8.124107
+"s Gulf St Lawrence",1994,"environment.lag03",9.175531
+"s Gulf St Lawrence",1995,"environment.lag03",6.909842
+"s Gulf St Lawrence",1996,"environment.lag03",7.209249
+"s Gulf St Lawrence",1997,"environment.lag03",7.742686
+"s Gulf St Lawrence",1998,"environment.lag03",7.895619
+"s Gulf St Lawrence",1999,"environment.lag03",8.376033
+"s Gulf St Lawrence",2000,"environment.lag03",6.121188
+"s Gulf St Lawrence",2001,"environment.lag03",8.471569
+"s Gulf St Lawrence",2002,"environment.lag03",7.523642
+"s Gulf St Lawrence",2003,"environment.lag03",8.434823
+"s Gulf St Lawrence",2004,"environment.lag03",8.127226
+"s Gulf St Lawrence",2005,"environment.lag03",7.197049
+"s Gulf St Lawrence",2006,"environment.lag03",6.498221
+"s Gulf St Lawrence",2007,"environment.lag03",6.033905
+"s New England",1982,"environment.lag03",14.702905
+"s New England",1983,"environment.lag03",14.504131
+"s New England",1984,"environment.lag03",14.059989
+"s New England",1985,"environment.lag03",14.535405
+"s New England",1986,"environment.lag03",15.119095
+"s New England",1987,"environment.lag03",14.805064
+"s New England",1988,"environment.lag03",15.880614
+"s New England",1989,"environment.lag03",15.588882
+"s New England",1990,"environment.lag03",13.908468
+"s New England",1991,"environment.lag03",14.883539
+"s New England",1992,"environment.lag03",15.829131
+"s New England",1993,"environment.lag03",15.638728
+"s New England",1994,"environment.lag03",16.07361
+"s New England",1995,"environment.lag03",14.594112
+"s New England",1996,"environment.lag03",15.117083
+"s New England",1997,"environment.lag03",14.868299
+"s New England",1998,"environment.lag03",16.276791
+"s New England",1999,"environment.lag03",13.341169
+"s New England",2000,"environment.lag03",15.720409
+"s New England",2001,"environment.lag03",14.990171
+"s New England",2002,"environment.lag03",16.579129
+"s New England",2003,"environment.lag03",15.322819
+"s New England",2004,"environment.lag03",16.223004
+"s New England",2005,"environment.lag03",15.725509
+"s New England",2006,"environment.lag03",14.594365
+"s New England",2007,"environment.lag03",13.400405
+"Connecticut",1999,"predator.lag03",1.96
+"Connecticut",2000,"predator.lag03",1.86
+"Connecticut",2001,"predator.lag03",2.12
+"Connecticut",2002,"predator.lag03",2.44
+"Connecticut",2003,"predator.lag03",3.35
+"Connecticut",2004,"predator.lag03",3.02
+"Connecticut",2005,"predator.lag03",5.81
+"Connecticut",2006,"predator.lag03",4.5
+"Connecticut",2007,"predator.lag03",2.57
+"Georges Bank",1982,"predator.lag03",32.2854
+"Georges Bank",1983,"predator.lag03",31.5494
+"Georges Bank",1984,"predator.lag03",25.0786
+"Georges Bank",1985,"predator.lag03",13.5581
+"Georges Bank",1986,"predator.lag03",12.1441
+"Georges Bank",1987,"predator.lag03",11.611
+"Georges Bank",1988,"predator.lag03",9.311
+"Georges Bank",1989,"predator.lag03",22.4801
+"Georges Bank",1990,"predator.lag03",25.2334
+"Georges Bank",1991,"predator.lag03",16.5651
+"Georges Bank",1992,"predator.lag03",39.3308
+"Georges Bank",1993,"predator.lag03",34.655
+"Georges Bank",1994,"predator.lag03",17.5613
+"Georges Bank",1995,"predator.lag03",35.0175
+"Georges Bank",1996,"predator.lag03",20.1191
+"Georges Bank",1997,"predator.lag03",25.1198
+"Georges Bank",1998,"predator.lag03",30.4133
+"Georges Bank",1999,"predator.lag03",28.0619
+"Georges Bank",2000,"predator.lag03",32.8292
+"Georges Bank",2001,"predator.lag03",59.7722
+"Georges Bank",2002,"predator.lag03",20.6887
+"Georges Bank",2003,"predator.lag03",30.2473
+"Georges Bank",2004,"predator.lag03",27.1496
+"Georges Bank",2005,"predator.lag03",37.9489
+"Georges Bank",2006,"predator.lag03",17.061
+"Georges Bank",2007,"predator.lag03",19.7579
+"Gulf of Maine",1982,"predator.lag03",7.9895
+"Gulf of Maine",1983,"predator.lag03",13.7137
+"Gulf of Maine",1984,"predator.lag03",11.137
+"Gulf of Maine",1985,"predator.lag03",10.7307
+"Gulf of Maine",1986,"predator.lag03",10.827
+"Gulf of Maine",1987,"predator.lag03",10.5018
+"Gulf of Maine",1988,"predator.lag03",10.3804
+"Gulf of Maine",1989,"predator.lag03",7.3211
+"Gulf of Maine",1990,"predator.lag03",6.3766
+"Gulf of Maine",1991,"predator.lag03",10.7453
+"Gulf of Maine",1992,"predator.lag03",11.8778
+"Gulf of Maine",1993,"predator.lag03",9.3519
+"Gulf of Maine",1994,"predator.lag03",9.7547
+"Gulf of Maine",1995,"predator.lag03",10.2263
+"Gulf of Maine",1996,"predator.lag03",11.0249
+"Gulf of Maine",1997,"predator.lag03",10.2708
+"Gulf of Maine",1998,"predator.lag03",12.7775
+"Gulf of Maine",1999,"predator.lag03",11.2634
+"Gulf of Maine",2000,"predator.lag03",8.6199
+"Gulf of Maine",2001,"predator.lag03",6.1142
+"Gulf of Maine",2002,"predator.lag03",10.4616
+"Gulf of Maine",2003,"predator.lag03",11.6754
+"Gulf of Maine",2004,"predator.lag03",8.7853
+"Gulf of Maine",2005,"predator.lag03",10.3337
+"Gulf of Maine",2006,"predator.lag03",9.531
+"Gulf of Maine",2007,"predator.lag03",6.6438
+"Massachusetts",1986,"predator.lag03",72.57587475
+"Massachusetts",1987,"predator.lag03",66.7448305
+"Massachusetts",1988,"predator.lag03",46.64070835
+"Massachusetts",1989,"predator.lag03",44.8586293
+"Massachusetts",1990,"predator.lag03",187.9539191
+"Massachusetts",1991,"predator.lag03",43.32072285
+"Massachusetts",1992,"predator.lag03",52.8431886
+"Massachusetts",1993,"predator.lag03",58.1374457
+"Massachusetts",1994,"predator.lag03",40.1957049
+"Massachusetts",1995,"predator.lag03",70.54648525
+"Massachusetts",1996,"predator.lag03",133.56071275
+"Massachusetts",1997,"predator.lag03",81.4810195
+"Massachusetts",1998,"predator.lag03",102.417707
+"Massachusetts",1999,"predator.lag03",65.48795065
+"Massachusetts",2000,"predator.lag03",51.30427265
+"Massachusetts",2001,"predator.lag03",64.2211719
+"Massachusetts",2002,"predator.lag03",130.37565885
+"Massachusetts",2003,"predator.lag03",103.95679125
+"Massachusetts",2004,"predator.lag03",128.576356
+"Massachusetts",2005,"predator.lag03",63.778828
+"Massachusetts",2006,"predator.lag03",674.9415424
+"Massachusetts",2007,"predator.lag03",156.9194188
+"Newfoundland",1984,"predator.lag03",91.29
+"Newfoundland",1985,"predator.lag03",56.975
+"Newfoundland",1986,"predator.lag03",115.128
+"Newfoundland",1987,"predator.lag03",39.769
+"Newfoundland",1988,"predator.lag03",87.318
+"Newfoundland",1989,"predator.lag03",34.239
+"Newfoundland",1990,"predator.lag03",53.42
+"Newfoundland",1991,"predator.lag03",29.767
+"Newfoundland",1992,"predator.lag03",29.244
+"Newfoundland",1993,"predator.lag03",33.445
+"Newfoundland",1994,"predator.lag03",39.876
+"Newfoundland",1995,"predator.lag03",25.493
+"Nova Scotia",1978,"predator.lag03",40.457599808
+"Nova Scotia",1979,"predator.lag03",31.148038587
+"Nova Scotia",1980,"predator.lag03",40.481227919
+"Nova Scotia",1981,"predator.lag03",37.861166381
+"Nova Scotia",1982,"predator.lag03",41.05553565
+"Nova Scotia",1983,"predator.lag03",35.981734647
+"Nova Scotia",1984,"predator.lag03",52.304163335
+"Nova Scotia",1985,"predator.lag03",40.862787527
+"Nova Scotia",1986,"predator.lag03",42.595437487
+"Nova Scotia",1987,"predator.lag03",42.25914985
+"Nova Scotia",1988,"predator.lag03",45.422934613
+"Nova Scotia",1989,"predator.lag03",31.150374633
+"Nova Scotia",1990,"predator.lag03",32.788339516
+"Nova Scotia",1991,"predator.lag03",38.302713025
+"Nova Scotia",1992,"predator.lag03",28.326616448
+"Nova Scotia",1993,"predator.lag03",25.274136743
+"Nova Scotia",1994,"predator.lag03",22.341086836
+"Nova Scotia",1995,"predator.lag03",21.935841284
+"Nova Scotia",1996,"predator.lag03",15.209094736
+"Nova Scotia",1997,"predator.lag03",12.884499333
+"Nova Scotia",1998,"predator.lag03",14.163560859
+"Nova Scotia",1999,"predator.lag03",21.191709026
+"Nova Scotia",2000,"predator.lag03",12.496575956
+"Nova Scotia",2001,"predator.lag03",14.641077295
+"Nova Scotia",2002,"predator.lag03",9.997076896
+"Nova Scotia",2003,"predator.lag03",8.877114778
+"Rhode Island",1987,"predator.lag03",4.811748798
+"Rhode Island",1988,"predator.lag03",6.663040902
+"Rhode Island",1989,"predator.lag03",3.008309292
+"Rhode Island",1990,"predator.lag03",1.736048266
+"Rhode Island",1991,"predator.lag03",1.1669435215
+"Rhode Island",1992,"predator.lag03",1.904761905
+"Rhode Island",1993,"predator.lag03",5.583333333
+"Rhode Island",1994,"predator.lag03",1.1815183365
+"Rhode Island",1995,"predator.lag03",0.754761905
+"Rhode Island",1996,"predator.lag03",0.7161890395
+"Rhode Island",1997,"predator.lag03",0.482142857
+"Rhode Island",1998,"predator.lag03",1.547619048
+"Rhode Island",1999,"predator.lag03",2.503246753
+"Rhode Island",2000,"predator.lag03",0.2976190475
+"Rhode Island",2001,"predator.lag03",1.486353078
+"Rhode Island",2002,"predator.lag03",0.5421675375
+"Rhode Island",2003,"predator.lag03",1.3798780485
+"Rhode Island",2004,"predator.lag03",1.395310489
+"Rhode Island",2005,"predator.lag03",0.6379065045
+"Rhode Island",2006,"predator.lag03",4.5808289785
+"s Gulf St Lawrence",1984,"predator.lag03",15.50166098
+"s Gulf St Lawrence",1985,"predator.lag03",6.211165946
+"s Gulf St Lawrence",1986,"predator.lag03",4.725072811
+"s Gulf St Lawrence",1987,"predator.lag03",6.309847403
+"s Gulf St Lawrence",1988,"predator.lag03",10.063247822
+"s Gulf St Lawrence",1989,"predator.lag03",13.49395748
+"s Gulf St Lawrence",1990,"predator.lag03",7.300118179
+"s Gulf St Lawrence",1991,"predator.lag03",10.328265489
+"s Gulf St Lawrence",1992,"predator.lag03",7.106372335
+"s Gulf St Lawrence",1993,"predator.lag03",7.591020886
+"s Gulf St Lawrence",1994,"predator.lag03",8.089962245
+"s Gulf St Lawrence",1995,"predator.lag03",5.60144151
+"s Gulf St Lawrence",1996,"predator.lag03",3.824391063
+"s Gulf St Lawrence",1997,"predator.lag03",3.716135338
+"s Gulf St Lawrence",1998,"predator.lag03",2.168474469
+"s Gulf St Lawrence",1999,"predator.lag03",2.979294051
+"s Gulf St Lawrence",2000,"predator.lag03",2.853908784
+"s Gulf St Lawrence",2001,"predator.lag03",3.426484005
+"s Gulf St Lawrence",2002,"predator.lag03",3.022792355
+"s Gulf St Lawrence",2003,"predator.lag03",4.647619618
+"s Gulf St Lawrence",2004,"predator.lag03",2.910907451
+"s Gulf St Lawrence",2005,"predator.lag03",2.861558849
+"s Gulf St Lawrence",2006,"predator.lag03",2.510759923
+"s Gulf St Lawrence",2007,"predator.lag03",1.943863458
+"s New England",1982,"predator.lag03",4.059
+"s New England",1983,"predator.lag03",3.436
+"s New England",1984,"predator.lag03",4.221
+"s New England",1985,"predator.lag03",7.777
+"s New England",1986,"predator.lag03",2.874
+"s New England",1987,"predator.lag03",3.764
+"s New England",1988,"predator.lag03",2.327
+"s New England",1989,"predator.lag03",1.56
+"s New England",1990,"predator.lag03",2.087
+"s New England",1991,"predator.lag03",1.632
+"s New England",1992,"predator.lag03",2.88
+"s New England",1993,"predator.lag03",4.533
+"s New England",1994,"predator.lag03",1.732
+"s New England",1995,"predator.lag03",1.704
+"s New England",1996,"predator.lag03",1.137
+"s New England",1997,"predator.lag03",4.551
+"s New England",1998,"predator.lag03",1.56
+"s New England",1999,"predator.lag03",2.125
+"s New England",2000,"predator.lag03",2.561
+"s New England",2001,"predator.lag03",2.937
+"s New England",2002,"predator.lag03",4.07
+"s New England",2003,"predator.lag03",1.63
+"s New England",2004,"predator.lag03",3.75
+"s New England",2005,"predator.lag03",2.93
+"s New England",2006,"predator.lag03",4.43
+"s New England",2007,"predator.lag03",3.43
+"Connecticut",1999,"environment.lag04",14.275
+"Connecticut",2000,"environment.lag04",13.64
+"Connecticut",2001,"environment.lag04",13.84
+"Connecticut",2002,"environment.lag04",15.1
+"Connecticut",2003,"environment.lag04",14
+"Connecticut",2004,"environment.lag04",14.3
+"Connecticut",2005,"environment.lag04",14.815
+"Connecticut",2006,"environment.lag04",15.15
+"Connecticut",2007,"environment.lag04",14.09
+"Georges Bank",1982,"environment.lag04",8.157464
+"Georges Bank",1983,"environment.lag04",9.389311
+"Georges Bank",1984,"environment.lag04",10.155144
+"Georges Bank",1985,"environment.lag04",10.329311
+"Georges Bank",1986,"environment.lag04",10.836811
+"Georges Bank",1987,"environment.lag04",9.290978
+"Georges Bank",1988,"environment.lag04",10.490144
+"Georges Bank",1989,"environment.lag04",9.495144
+"Georges Bank",1990,"environment.lag04",9.381811
+"Georges Bank",1991,"environment.lag04",8.630144
+"Georges Bank",1992,"environment.lag04",10.423478
+"Georges Bank",1993,"environment.lag04",7.115144
+"Georges Bank",1994,"environment.lag04",8.407644
+"Georges Bank",1995,"environment.lag04",8.746809
+"Georges Bank",1996,"environment.lag04",8.967644
+"Georges Bank",1997,"environment.lag04",9.295978
+"Georges Bank",1998,"environment.lag04",9.632638
+"Georges Bank",1999,"environment.lag04",9.626811
+"Georges Bank",2000,"environment.lag04",8.440144
+"Georges Bank",2001,"environment.lag04",9.433453
+"Georges Bank",2002,"environment.lag04",7.905978
+"Georges Bank",2003,"environment.lag04",10.317644
+"Georges Bank",2004,"environment.lag04",9.707089
+"Georges Bank",2005,"environment.lag04",9.219816
+"Georges Bank",2006,"environment.lag04",10.446811
+"Georges Bank",2007,"environment.lag04",9.070978
+"Gulf of Maine",1982,"environment.lag04",7.869533
+"Gulf of Maine",1983,"environment.lag04",8.2737
+"Gulf of Maine",1984,"environment.lag04",8.6937
+"Gulf of Maine",1985,"environment.lag04",8.2612
+"Gulf of Maine",1986,"environment.lag04",8.482866
+"Gulf of Maine",1987,"environment.lag04",8.362033
+"Gulf of Maine",1988,"environment.lag04",8.527033
+"Gulf of Maine",1989,"environment.lag04",8.737033
+"Gulf of Maine",1990,"environment.lag04",8.773922
+"Gulf of Maine",1991,"environment.lag04",7.602033
+"Gulf of Maine",1992,"environment.lag04",7.667033
+"Gulf of Maine",1993,"environment.lag04",8.185366
+"Gulf of Maine",1994,"environment.lag04",8.174533
+"Gulf of Maine",1995,"environment.lag04",8.672033
+"Gulf of Maine",1996,"environment.lag04",7.2337
+"Gulf of Maine",1997,"environment.lag04",7.649533
+"Gulf of Maine",1998,"environment.lag04",8.395366
+"Gulf of Maine",1999,"environment.lag04",8.194533
+"Gulf of Maine",2000,"environment.lag04",7.4112
+"Gulf of Maine",2001,"environment.lag04",7.789577
+"Gulf of Maine",2002,"environment.lag04",7.602866
+"Gulf of Maine",2003,"environment.lag04",8.3937
+"Gulf of Maine",2004,"environment.lag04",9.326541
+"Gulf of Maine",2005,"environment.lag04",8.3337
+"Gulf of Maine",2006,"environment.lag04",8.811842
+"Gulf of Maine",2007,"environment.lag04",7.908668
+"Massachusetts",1986,"environment.lag04",11.5091355
+"Massachusetts",1987,"environment.lag04",11.740564
+"Massachusetts",1988,"environment.lag04",11.6660485
+"Massachusetts",1989,"environment.lag04",12.3088235
+"Massachusetts",1990,"environment.lag04",12.181402
+"Massachusetts",1991,"environment.lag04",10.7552505
+"Massachusetts",1992,"environment.lag04",11.275286
+"Massachusetts",1993,"environment.lag04",12.0072485
+"Massachusetts",1994,"environment.lag04",11.9066305
+"Massachusetts",1995,"environment.lag04",12.3728215
+"Massachusetts",1996,"environment.lag04",10.913906
+"Massachusetts",1997,"environment.lag04",11.383308
+"Massachusetts",1998,"environment.lag04",11.6318325
+"Massachusetts",1999,"environment.lag04",12.235662
+"Massachusetts",2000,"environment.lag04",10.3761845
+"Massachusetts",2001,"environment.lag04",11.754993
+"Massachusetts",2002,"environment.lag04",11.2965185
+"Massachusetts",2003,"environment.lag04",12.4864145
+"Massachusetts",2004,"environment.lag04",12.32468
+"Massachusetts",2005,"environment.lag04",12.278352
+"Massachusetts",2006,"environment.lag04",12.2686755
+"Massachusetts",2007,"environment.lag04",11.2515165
+"Newfoundland",1984,"environment.lag04",5.11285
+"Newfoundland",1985,"environment.lag04",7.026265
+"Newfoundland",1986,"environment.lag04",5.239827
+"Newfoundland",1987,"environment.lag04",6.504437
+"Newfoundland",1988,"environment.lag04",5.555592
+"Newfoundland",1989,"environment.lag04",4.731395
+"Newfoundland",1990,"environment.lag04",4.985387
+"Newfoundland",1991,"environment.lag04",5.046112
+"Newfoundland",1992,"environment.lag04",5.035768
+"Newfoundland",1993,"environment.lag04",3.759256
+"Newfoundland",1994,"environment.lag04",3.589135
+"Newfoundland",1995,"environment.lag04",4.085074
+"Nova Scotia",1978,"environment.lag04",6.509758
+"Nova Scotia",1979,"environment.lag04",5.976427
+"Nova Scotia",1980,"environment.lag04",6.857277
+"Nova Scotia",1981,"environment.lag04",6.955699
+"Nova Scotia",1982,"environment.lag04",6.391447
+"Nova Scotia",1983,"environment.lag04",6.967084
+"Nova Scotia",1984,"environment.lag04",6.537208
+"Nova Scotia",1985,"environment.lag04",7.274185
+"Nova Scotia",1986,"environment.lag04",7.10381
+"Nova Scotia",1987,"environment.lag04",7.659046
+"Nova Scotia",1988,"environment.lag04",7.045913
+"Nova Scotia",1989,"environment.lag04",5.947796
+"Nova Scotia",1990,"environment.lag04",6.609073
+"Nova Scotia",1991,"environment.lag04",6.4315
+"Nova Scotia",1992,"environment.lag04",6.523669
+"Nova Scotia",1993,"environment.lag04",6.526049
+"Nova Scotia",1994,"environment.lag04",6.811836
+"Nova Scotia",1995,"environment.lag04",6.471909
+"Nova Scotia",1996,"environment.lag04",5.825668
+"Nova Scotia",1997,"environment.lag04",5.954566
+"Nova Scotia",1998,"environment.lag04",6.328824
+"Nova Scotia",1999,"environment.lag04",6.260352
+"Nova Scotia",2000,"environment.lag04",6.230361
+"Nova Scotia",2001,"environment.lag04",6.13007
+"Nova Scotia",2002,"environment.lag04",6.046732
+"Nova Scotia",2003,"environment.lag04",7.055261
+"Rhode Island",1987,"environment.lag04",13.1374375
+"Rhode Island",1988,"environment.lag04",12.9518955
+"Rhode Island",1989,"environment.lag04",12.6852455
+"Rhode Island",1990,"environment.lag04",12.452229
+"Rhode Island",1991,"environment.lag04",12.257245
+"Rhode Island",1992,"environment.lag04",13.7465495
+"Rhode Island",1993,"environment.lag04",11.7203565
+"Rhode Island",1994,"environment.lag04",12.7785485
+"Rhode Island",1995,"environment.lag04",13.710896
+"Rhode Island",1996,"environment.lag04",12.25371
+"Rhode Island",1997,"environment.lag04",18.816455
+"Rhode Island",1998,"environment.lag04",11.85857
+"Rhode Island",1999,"environment.lag04",13.0166655
+"Rhode Island",2000,"environment.lag04",11.588692
+"Rhode Island",2001,"environment.lag04",13.06643
+"Rhode Island",2002,"environment.lag04",13.303933
+"Rhode Island",2003,"environment.lag04",14.054196
+"Rhode Island",2004,"environment.lag04",13.446951
+"Rhode Island",2005,"environment.lag04",15.83522
+"Rhode Island",2006,"environment.lag04",14.743535
+"s Gulf St Lawrence",1984,"environment.lag04",9.158224
+"s Gulf St Lawrence",1985,"environment.lag04",7.915236
+"s Gulf St Lawrence",1986,"environment.lag04",8.245982
+"s Gulf St Lawrence",1987,"environment.lag04",8.503666
+"s Gulf St Lawrence",1988,"environment.lag04",8.336845
+"s Gulf St Lawrence",1989,"environment.lag04",8.106199
+"s Gulf St Lawrence",1990,"environment.lag04",8.84023
+"s Gulf St Lawrence",1991,"environment.lag04",7.465728
+"s Gulf St Lawrence",1992,"environment.lag04",8.515455
+"s Gulf St Lawrence",1993,"environment.lag04",8.900337
+"s Gulf St Lawrence",1994,"environment.lag04",8.124107
+"s Gulf St Lawrence",1995,"environment.lag04",9.175531
+"s Gulf St Lawrence",1996,"environment.lag04",6.909842
+"s Gulf St Lawrence",1997,"environment.lag04",7.209249
+"s Gulf St Lawrence",1998,"environment.lag04",7.742686
+"s Gulf St Lawrence",1999,"environment.lag04",7.895619
+"s Gulf St Lawrence",2000,"environment.lag04",8.376033
+"s Gulf St Lawrence",2001,"environment.lag04",6.121188
+"s Gulf St Lawrence",2002,"environment.lag04",8.471569
+"s Gulf St Lawrence",2003,"environment.lag04",7.523642
+"s Gulf St Lawrence",2004,"environment.lag04",8.434823
+"s Gulf St Lawrence",2005,"environment.lag04",8.127226
+"s Gulf St Lawrence",2006,"environment.lag04",7.197049
+"s Gulf St Lawrence",2007,"environment.lag04",6.498221
+"s New England",1982,"environment.lag04",13.01192
+"s New England",1983,"environment.lag04",14.702905
+"s New England",1984,"environment.lag04",14.504131
+"s New England",1985,"environment.lag04",14.059989
+"s New England",1986,"environment.lag04",14.535405
+"s New England",1987,"environment.lag04",15.119095
+"s New England",1988,"environment.lag04",14.805064
+"s New England",1989,"environment.lag04",15.880614
+"s New England",1990,"environment.lag04",15.588882
+"s New England",1991,"environment.lag04",13.908468
+"s New England",1992,"environment.lag04",14.883539
+"s New England",1993,"environment.lag04",15.829131
+"s New England",1994,"environment.lag04",15.638728
+"s New England",1995,"environment.lag04",16.07361
+"s New England",1996,"environment.lag04",14.594112
+"s New England",1997,"environment.lag04",15.117083
+"s New England",1998,"environment.lag04",14.868299
+"s New England",1999,"environment.lag04",16.276791
+"s New England",2000,"environment.lag04",13.341169
+"s New England",2001,"environment.lag04",15.720409
+"s New England",2002,"environment.lag04",14.990171
+"s New England",2003,"environment.lag04",16.579129
+"s New England",2004,"environment.lag04",15.322819
+"s New England",2005,"environment.lag04",16.223004
+"s New England",2006,"environment.lag04",15.725509
+"s New England",2007,"environment.lag04",14.594365
+"Connecticut",1999,"predator.lag04",1.23
+"Connecticut",2000,"predator.lag04",1.96
+"Connecticut",2001,"predator.lag04",1.86
+"Connecticut",2002,"predator.lag04",2.12
+"Connecticut",2003,"predator.lag04",2.44
+"Connecticut",2004,"predator.lag04",3.35
+"Connecticut",2005,"predator.lag04",3.02
+"Connecticut",2006,"predator.lag04",5.81
+"Connecticut",2007,"predator.lag04",4.5
+"Georges Bank",1982,"predator.lag04",35.5865
+"Georges Bank",1983,"predator.lag04",32.2854
+"Georges Bank",1984,"predator.lag04",31.5494
+"Georges Bank",1985,"predator.lag04",25.0786
+"Georges Bank",1986,"predator.lag04",13.5581
+"Georges Bank",1987,"predator.lag04",12.1441
+"Georges Bank",1988,"predator.lag04",11.611
+"Georges Bank",1989,"predator.lag04",9.311
+"Georges Bank",1990,"predator.lag04",22.4801
+"Georges Bank",1991,"predator.lag04",25.2334
+"Georges Bank",1992,"predator.lag04",16.5651
+"Georges Bank",1993,"predator.lag04",39.3308
+"Georges Bank",1994,"predator.lag04",34.655
+"Georges Bank",1995,"predator.lag04",17.5613
+"Georges Bank",1996,"predator.lag04",35.0175
+"Georges Bank",1997,"predator.lag04",20.1191
+"Georges Bank",1998,"predator.lag04",25.1198
+"Georges Bank",1999,"predator.lag04",30.4133
+"Georges Bank",2000,"predator.lag04",28.0619
+"Georges Bank",2001,"predator.lag04",32.8292
+"Georges Bank",2002,"predator.lag04",59.7722
+"Georges Bank",2003,"predator.lag04",20.6887
+"Georges Bank",2004,"predator.lag04",30.2473
+"Georges Bank",2005,"predator.lag04",27.1496
+"Georges Bank",2006,"predator.lag04",37.9489
+"Georges Bank",2007,"predator.lag04",17.061
+"Gulf of Maine",1982,"predator.lag04",12.8537
+"Gulf of Maine",1983,"predator.lag04",7.9895
+"Gulf of Maine",1984,"predator.lag04",13.7137
+"Gulf of Maine",1985,"predator.lag04",11.137
+"Gulf of Maine",1986,"predator.lag04",10.7307
+"Gulf of Maine",1987,"predator.lag04",10.827
+"Gulf of Maine",1988,"predator.lag04",10.5018
+"Gulf of Maine",1989,"predator.lag04",10.3804
+"Gulf of Maine",1990,"predator.lag04",7.3211
+"Gulf of Maine",1991,"predator.lag04",6.3766
+"Gulf of Maine",1992,"predator.lag04",10.7453
+"Gulf of Maine",1993,"predator.lag04",11.8778
+"Gulf of Maine",1994,"predator.lag04",9.3519
+"Gulf of Maine",1995,"predator.lag04",9.7547
+"Gulf of Maine",1996,"predator.lag04",10.2263
+"Gulf of Maine",1997,"predator.lag04",11.0249
+"Gulf of Maine",1998,"predator.lag04",10.2708
+"Gulf of Maine",1999,"predator.lag04",12.7775
+"Gulf of Maine",2000,"predator.lag04",11.2634
+"Gulf of Maine",2001,"predator.lag04",8.6199
+"Gulf of Maine",2002,"predator.lag04",6.1142
+"Gulf of Maine",2003,"predator.lag04",10.4616
+"Gulf of Maine",2004,"predator.lag04",11.6754
+"Gulf of Maine",2005,"predator.lag04",8.7853
+"Gulf of Maine",2006,"predator.lag04",10.3337
+"Gulf of Maine",2007,"predator.lag04",9.531
+"Massachusetts",1986,"predator.lag04",56.35925115
+"Massachusetts",1987,"predator.lag04",72.57587475
+"Massachusetts",1988,"predator.lag04",66.7448305
+"Massachusetts",1989,"predator.lag04",46.64070835
+"Massachusetts",1990,"predator.lag04",44.8586293
+"Massachusetts",1991,"predator.lag04",187.9539191
+"Massachusetts",1992,"predator.lag04",43.32072285
+"Massachusetts",1993,"predator.lag04",52.8431886
+"Massachusetts",1994,"predator.lag04",58.1374457
+"Massachusetts",1995,"predator.lag04",40.1957049
+"Massachusetts",1996,"predator.lag04",70.54648525
+"Massachusetts",1997,"predator.lag04",133.56071275
+"Massachusetts",1998,"predator.lag04",81.4810195
+"Massachusetts",1999,"predator.lag04",102.417707
+"Massachusetts",2000,"predator.lag04",65.48795065
+"Massachusetts",2001,"predator.lag04",51.30427265
+"Massachusetts",2002,"predator.lag04",64.2211719
+"Massachusetts",2003,"predator.lag04",130.37565885
+"Massachusetts",2004,"predator.lag04",103.95679125
+"Massachusetts",2005,"predator.lag04",128.576356
+"Massachusetts",2006,"predator.lag04",63.778828
+"Massachusetts",2007,"predator.lag04",674.9415424
+"Newfoundland",1984,"predator.lag04",64.909
+"Newfoundland",1985,"predator.lag04",91.29
+"Newfoundland",1986,"predator.lag04",56.975
+"Newfoundland",1987,"predator.lag04",115.128
+"Newfoundland",1988,"predator.lag04",39.769
+"Newfoundland",1989,"predator.lag04",87.318
+"Newfoundland",1990,"predator.lag04",34.239
+"Newfoundland",1991,"predator.lag04",53.42
+"Newfoundland",1992,"predator.lag04",29.767
+"Newfoundland",1993,"predator.lag04",29.244
+"Newfoundland",1994,"predator.lag04",33.445
+"Newfoundland",1995,"predator.lag04",39.876
+"Nova Scotia",1978,"predator.lag04",34.872221013
+"Nova Scotia",1979,"predator.lag04",40.457599808
+"Nova Scotia",1980,"predator.lag04",31.148038587
+"Nova Scotia",1981,"predator.lag04",40.481227919
+"Nova Scotia",1982,"predator.lag04",37.861166381
+"Nova Scotia",1983,"predator.lag04",41.05553565
+"Nova Scotia",1984,"predator.lag04",35.981734647
+"Nova Scotia",1985,"predator.lag04",52.304163335
+"Nova Scotia",1986,"predator.lag04",40.862787527
+"Nova Scotia",1987,"predator.lag04",42.595437487
+"Nova Scotia",1988,"predator.lag04",42.25914985
+"Nova Scotia",1989,"predator.lag04",45.422934613
+"Nova Scotia",1990,"predator.lag04",31.150374633
+"Nova Scotia",1991,"predator.lag04",32.788339516
+"Nova Scotia",1992,"predator.lag04",38.302713025
+"Nova Scotia",1993,"predator.lag04",28.326616448
+"Nova Scotia",1994,"predator.lag04",25.274136743
+"Nova Scotia",1995,"predator.lag04",22.341086836
+"Nova Scotia",1996,"predator.lag04",21.935841284
+"Nova Scotia",1997,"predator.lag04",15.209094736
+"Nova Scotia",1998,"predator.lag04",12.884499333
+"Nova Scotia",1999,"predator.lag04",14.163560859
+"Nova Scotia",2000,"predator.lag04",21.191709026
+"Nova Scotia",2001,"predator.lag04",12.496575956
+"Nova Scotia",2002,"predator.lag04",14.641077295
+"Nova Scotia",2003,"predator.lag04",9.997076896
+"Rhode Island",1987,"predator.lag04",5.104080365
+"Rhode Island",1988,"predator.lag04",4.811748798
+"Rhode Island",1989,"predator.lag04",6.663040902
+"Rhode Island",1990,"predator.lag04",3.008309292
+"Rhode Island",1991,"predator.lag04",1.736048266
+"Rhode Island",1992,"predator.lag04",1.1669435215
+"Rhode Island",1993,"predator.lag04",1.904761905
+"Rhode Island",1994,"predator.lag04",5.583333333
+"Rhode Island",1995,"predator.lag04",1.1815183365
+"Rhode Island",1996,"predator.lag04",0.754761905
+"Rhode Island",1997,"predator.lag04",0.7161890395
+"Rhode Island",1998,"predator.lag04",0.482142857
+"Rhode Island",1999,"predator.lag04",1.547619048
+"Rhode Island",2000,"predator.lag04",2.503246753
+"Rhode Island",2001,"predator.lag04",0.2976190475
+"Rhode Island",2002,"predator.lag04",1.486353078
+"Rhode Island",2003,"predator.lag04",0.5421675375
+"Rhode Island",2004,"predator.lag04",1.3798780485
+"Rhode Island",2005,"predator.lag04",1.395310489
+"Rhode Island",2006,"predator.lag04",0.6379065045
+"s Gulf St Lawrence",1984,"predator.lag04",10.025051403
+"s Gulf St Lawrence",1985,"predator.lag04",15.50166098
+"s Gulf St Lawrence",1986,"predator.lag04",6.211165946
+"s Gulf St Lawrence",1987,"predator.lag04",4.725072811
+"s Gulf St Lawrence",1988,"predator.lag04",6.309847403
+"s Gulf St Lawrence",1989,"predator.lag04",10.063247822
+"s Gulf St Lawrence",1990,"predator.lag04",13.49395748
+"s Gulf St Lawrence",1991,"predator.lag04",7.300118179
+"s Gulf St Lawrence",1992,"predator.lag04",10.328265489
+"s Gulf St Lawrence",1993,"predator.lag04",7.106372335
+"s Gulf St Lawrence",1994,"predator.lag04",7.591020886
+"s Gulf St Lawrence",1995,"predator.lag04",8.089962245
+"s Gulf St Lawrence",1996,"predator.lag04",5.60144151
+"s Gulf St Lawrence",1997,"predator.lag04",3.824391063
+"s Gulf St Lawrence",1998,"predator.lag04",3.716135338
+"s Gulf St Lawrence",1999,"predator.lag04",2.168474469
+"s Gulf St Lawrence",2000,"predator.lag04",2.979294051
+"s Gulf St Lawrence",2001,"predator.lag04",2.853908784
+"s Gulf St Lawrence",2002,"predator.lag04",3.426484005
+"s Gulf St Lawrence",2003,"predator.lag04",3.022792355
+"s Gulf St Lawrence",2004,"predator.lag04",4.647619618
+"s Gulf St Lawrence",2005,"predator.lag04",2.910907451
+"s Gulf St Lawrence",2006,"predator.lag04",2.861558849
+"s Gulf St Lawrence",2007,"predator.lag04",2.510759923
+"s New England",1982,"predator.lag04",3.211
+"s New England",1983,"predator.lag04",4.059
+"s New England",1984,"predator.lag04",3.436
+"s New England",1985,"predator.lag04",4.221
+"s New England",1986,"predator.lag04",7.777
+"s New England",1987,"predator.lag04",2.874
+"s New England",1988,"predator.lag04",3.764
+"s New England",1989,"predator.lag04",2.327
+"s New England",1990,"predator.lag04",1.56
+"s New England",1991,"predator.lag04",2.087
+"s New England",1992,"predator.lag04",1.632
+"s New England",1993,"predator.lag04",2.88
+"s New England",1994,"predator.lag04",4.533
+"s New England",1995,"predator.lag04",1.732
+"s New England",1996,"predator.lag04",1.704
+"s New England",1997,"predator.lag04",1.137
+"s New England",1998,"predator.lag04",4.551
+"s New England",1999,"predator.lag04",1.56
+"s New England",2000,"predator.lag04",2.125
+"s New England",2001,"predator.lag04",2.561
+"s New England",2002,"predator.lag04",2.937
+"s New England",2003,"predator.lag04",4.07
+"s New England",2004,"predator.lag04",1.63
+"s New England",2005,"predator.lag04",3.75
+"s New England",2006,"predator.lag04",2.93
+"s New England",2007,"predator.lag04",4.43
+"Connecticut",1999,"environment.lag05",12.6
+"Connecticut",2000,"environment.lag05",14.275
+"Connecticut",2001,"environment.lag05",13.64
+"Connecticut",2002,"environment.lag05",13.84
+"Connecticut",2003,"environment.lag05",15.1
+"Connecticut",2004,"environment.lag05",14
+"Connecticut",2005,"environment.lag05",14.3
+"Connecticut",2006,"environment.lag05",14.815
+"Connecticut",2007,"environment.lag05",15.15
+"Georges Bank",1982,"environment.lag05",9.834311
+"Georges Bank",1983,"environment.lag05",8.157464
+"Georges Bank",1984,"environment.lag05",9.389311
+"Georges Bank",1985,"environment.lag05",10.155144
+"Georges Bank",1986,"environment.lag05",10.329311
+"Georges Bank",1987,"environment.lag05",10.836811
+"Georges Bank",1988,"environment.lag05",9.290978
+"Georges Bank",1989,"environment.lag05",10.490144
+"Georges Bank",1990,"environment.lag05",9.495144
+"Georges Bank",1991,"environment.lag05",9.381811
+"Georges Bank",1992,"environment.lag05",8.630144
+"Georges Bank",1993,"environment.lag05",10.423478
+"Georges Bank",1994,"environment.lag05",7.115144
+"Georges Bank",1995,"environment.lag05",8.407644
+"Georges Bank",1996,"environment.lag05",8.746809
+"Georges Bank",1997,"environment.lag05",8.967644
+"Georges Bank",1998,"environment.lag05",9.295978
+"Georges Bank",1999,"environment.lag05",9.632638
+"Georges Bank",2000,"environment.lag05",9.626811
+"Georges Bank",2001,"environment.lag05",8.440144
+"Georges Bank",2002,"environment.lag05",9.433453
+"Georges Bank",2003,"environment.lag05",7.905978
+"Georges Bank",2004,"environment.lag05",10.317644
+"Georges Bank",2005,"environment.lag05",9.707089
+"Georges Bank",2006,"environment.lag05",9.219816
+"Georges Bank",2007,"environment.lag05",10.446811
+"Gulf of Maine",1982,"environment.lag05",8.027866
+"Gulf of Maine",1983,"environment.lag05",7.869533
+"Gulf of Maine",1984,"environment.lag05",8.2737
+"Gulf of Maine",1985,"environment.lag05",8.6937
+"Gulf of Maine",1986,"environment.lag05",8.2612
+"Gulf of Maine",1987,"environment.lag05",8.482866
+"Gulf of Maine",1988,"environment.lag05",8.362033
+"Gulf of Maine",1989,"environment.lag05",8.527033
+"Gulf of Maine",1990,"environment.lag05",8.737033
+"Gulf of Maine",1991,"environment.lag05",8.773922
+"Gulf of Maine",1992,"environment.lag05",7.602033
+"Gulf of Maine",1993,"environment.lag05",7.667033
+"Gulf of Maine",1994,"environment.lag05",8.185366
+"Gulf of Maine",1995,"environment.lag05",8.174533
+"Gulf of Maine",1996,"environment.lag05",8.672033
+"Gulf of Maine",1997,"environment.lag05",7.2337
+"Gulf of Maine",1998,"environment.lag05",7.649533
+"Gulf of Maine",1999,"environment.lag05",8.395366
+"Gulf of Maine",2000,"environment.lag05",8.194533
+"Gulf of Maine",2001,"environment.lag05",7.4112
+"Gulf of Maine",2002,"environment.lag05",7.789577
+"Gulf of Maine",2003,"environment.lag05",7.602866
+"Gulf of Maine",2004,"environment.lag05",8.3937
+"Gulf of Maine",2005,"environment.lag05",9.326541
+"Gulf of Maine",2006,"environment.lag05",8.3337
+"Gulf of Maine",2007,"environment.lag05",8.811842
+"Massachusetts",1986,"environment.lag05",11.1605945
+"Massachusetts",1987,"environment.lag05",11.5091355
+"Massachusetts",1988,"environment.lag05",11.740564
+"Massachusetts",1989,"environment.lag05",11.6660485
+"Massachusetts",1990,"environment.lag05",12.3088235
+"Massachusetts",1991,"environment.lag05",12.181402
+"Massachusetts",1992,"environment.lag05",10.7552505
+"Massachusetts",1993,"environment.lag05",11.275286
+"Massachusetts",1994,"environment.lag05",12.0072485
+"Massachusetts",1995,"environment.lag05",11.9066305
+"Massachusetts",1996,"environment.lag05",12.3728215
+"Massachusetts",1997,"environment.lag05",10.913906
+"Massachusetts",1998,"environment.lag05",11.383308
+"Massachusetts",1999,"environment.lag05",11.6318325
+"Massachusetts",2000,"environment.lag05",12.235662
+"Massachusetts",2001,"environment.lag05",10.3761845
+"Massachusetts",2002,"environment.lag05",11.754993
+"Massachusetts",2003,"environment.lag05",11.2965185
+"Massachusetts",2004,"environment.lag05",12.4864145
+"Massachusetts",2005,"environment.lag05",12.32468
+"Massachusetts",2006,"environment.lag05",12.278352
+"Massachusetts",2007,"environment.lag05",12.2686755
+"Newfoundland",1984,"environment.lag05",5.103717
+"Newfoundland",1985,"environment.lag05",5.11285
+"Newfoundland",1986,"environment.lag05",7.026265
+"Newfoundland",1987,"environment.lag05",5.239827
+"Newfoundland",1988,"environment.lag05",6.504437
+"Newfoundland",1989,"environment.lag05",5.555592
+"Newfoundland",1990,"environment.lag05",4.731395
+"Newfoundland",1991,"environment.lag05",4.985387
+"Newfoundland",1992,"environment.lag05",5.046112
+"Newfoundland",1993,"environment.lag05",5.035768
+"Newfoundland",1994,"environment.lag05",3.759256
+"Newfoundland",1995,"environment.lag05",3.589135
+"Nova Scotia",1978,"environment.lag05",6.437556
+"Nova Scotia",1979,"environment.lag05",6.509758
+"Nova Scotia",1980,"environment.lag05",5.976427
+"Nova Scotia",1981,"environment.lag05",6.857277
+"Nova Scotia",1982,"environment.lag05",6.955699
+"Nova Scotia",1983,"environment.lag05",6.391447
+"Nova Scotia",1984,"environment.lag05",6.967084
+"Nova Scotia",1985,"environment.lag05",6.537208
+"Nova Scotia",1986,"environment.lag05",7.274185
+"Nova Scotia",1987,"environment.lag05",7.10381
+"Nova Scotia",1988,"environment.lag05",7.659046
+"Nova Scotia",1989,"environment.lag05",7.045913
+"Nova Scotia",1990,"environment.lag05",5.947796
+"Nova Scotia",1991,"environment.lag05",6.609073
+"Nova Scotia",1992,"environment.lag05",6.4315
+"Nova Scotia",1993,"environment.lag05",6.523669
+"Nova Scotia",1994,"environment.lag05",6.526049
+"Nova Scotia",1995,"environment.lag05",6.811836
+"Nova Scotia",1996,"environment.lag05",6.471909
+"Nova Scotia",1997,"environment.lag05",5.825668
+"Nova Scotia",1998,"environment.lag05",5.954566
+"Nova Scotia",1999,"environment.lag05",6.328824
+"Nova Scotia",2000,"environment.lag05",6.260352
+"Nova Scotia",2001,"environment.lag05",6.230361
+"Nova Scotia",2002,"environment.lag05",6.13007
+"Nova Scotia",2003,"environment.lag05",6.046732
+"Rhode Island",1987,"environment.lag05",11.969886
+"Rhode Island",1988,"environment.lag05",13.1374375
+"Rhode Island",1989,"environment.lag05",12.9518955
+"Rhode Island",1990,"environment.lag05",12.6852455
+"Rhode Island",1991,"environment.lag05",12.452229
+"Rhode Island",1992,"environment.lag05",12.257245
+"Rhode Island",1993,"environment.lag05",13.7465495
+"Rhode Island",1994,"environment.lag05",11.7203565
+"Rhode Island",1995,"environment.lag05",12.7785485
+"Rhode Island",1996,"environment.lag05",13.710896
+"Rhode Island",1997,"environment.lag05",12.25371
+"Rhode Island",1998,"environment.lag05",18.816455
+"Rhode Island",1999,"environment.lag05",11.85857
+"Rhode Island",2000,"environment.lag05",13.0166655
+"Rhode Island",2001,"environment.lag05",11.588692
+"Rhode Island",2002,"environment.lag05",13.06643
+"Rhode Island",2003,"environment.lag05",13.303933
+"Rhode Island",2004,"environment.lag05",14.054196
+"Rhode Island",2005,"environment.lag05",13.446951
+"Rhode Island",2006,"environment.lag05",15.83522
+"s Gulf St Lawrence",1984,"environment.lag05",8.204254
+"s Gulf St Lawrence",1985,"environment.lag05",9.158224
+"s Gulf St Lawrence",1986,"environment.lag05",7.915236
+"s Gulf St Lawrence",1987,"environment.lag05",8.245982
+"s Gulf St Lawrence",1988,"environment.lag05",8.503666
+"s Gulf St Lawrence",1989,"environment.lag05",8.336845
+"s Gulf St Lawrence",1990,"environment.lag05",8.106199
+"s Gulf St Lawrence",1991,"environment.lag05",8.84023
+"s Gulf St Lawrence",1992,"environment.lag05",7.465728
+"s Gulf St Lawrence",1993,"environment.lag05",8.515455
+"s Gulf St Lawrence",1994,"environment.lag05",8.900337
+"s Gulf St Lawrence",1995,"environment.lag05",8.124107
+"s Gulf St Lawrence",1996,"environment.lag05",9.175531
+"s Gulf St Lawrence",1997,"environment.lag05",6.909842
+"s Gulf St Lawrence",1998,"environment.lag05",7.209249
+"s Gulf St Lawrence",1999,"environment.lag05",7.742686
+"s Gulf St Lawrence",2000,"environment.lag05",7.895619
+"s Gulf St Lawrence",2001,"environment.lag05",8.376033
+"s Gulf St Lawrence",2002,"environment.lag05",6.121188
+"s Gulf St Lawrence",2003,"environment.lag05",8.471569
+"s Gulf St Lawrence",2004,"environment.lag05",7.523642
+"s Gulf St Lawrence",2005,"environment.lag05",8.434823
+"s Gulf St Lawrence",2006,"environment.lag05",8.127226
+"s Gulf St Lawrence",2007,"environment.lag05",7.197049
+"s New England",1982,"environment.lag05",14.760695
+"s New England",1983,"environment.lag05",13.01192
+"s New England",1984,"environment.lag05",14.702905
+"s New England",1985,"environment.lag05",14.504131
+"s New England",1986,"environment.lag05",14.059989
+"s New England",1987,"environment.lag05",14.535405
+"s New England",1988,"environment.lag05",15.119095
+"s New England",1989,"environment.lag05",14.805064
+"s New England",1990,"environment.lag05",15.880614
+"s New England",1991,"environment.lag05",15.588882
+"s New England",1992,"environment.lag05",13.908468
+"s New England",1993,"environment.lag05",14.883539
+"s New England",1994,"environment.lag05",15.829131
+"s New England",1995,"environment.lag05",15.638728
+"s New England",1996,"environment.lag05",16.07361
+"s New England",1997,"environment.lag05",14.594112
+"s New England",1998,"environment.lag05",15.117083
+"s New England",1999,"environment.lag05",14.868299
+"s New England",2000,"environment.lag05",16.276791
+"s New England",2001,"environment.lag05",13.341169
+"s New England",2002,"environment.lag05",15.720409
+"s New England",2003,"environment.lag05",14.990171
+"s New England",2004,"environment.lag05",16.579129
+"s New England",2005,"environment.lag05",15.322819
+"s New England",2006,"environment.lag05",16.223004
+"s New England",2007,"environment.lag05",15.725509
+"Connecticut",1999,"predator.lag05",1.27
+"Connecticut",2000,"predator.lag05",1.23
+"Connecticut",2001,"predator.lag05",1.96
+"Connecticut",2002,"predator.lag05",1.86
+"Connecticut",2003,"predator.lag05",2.12
+"Connecticut",2004,"predator.lag05",2.44
+"Connecticut",2005,"predator.lag05",3.35
+"Connecticut",2006,"predator.lag05",3.02
+"Connecticut",2007,"predator.lag05",5.81
+"Georges Bank",1982,"predator.lag05",40.7983
+"Georges Bank",1983,"predator.lag05",35.5865
+"Georges Bank",1984,"predator.lag05",32.2854
+"Georges Bank",1985,"predator.lag05",31.5494
+"Georges Bank",1986,"predator.lag05",25.0786
+"Georges Bank",1987,"predator.lag05",13.5581
+"Georges Bank",1988,"predator.lag05",12.1441
+"Georges Bank",1989,"predator.lag05",11.611
+"Georges Bank",1990,"predator.lag05",9.311
+"Georges Bank",1991,"predator.lag05",22.4801
+"Georges Bank",1992,"predator.lag05",25.2334
+"Georges Bank",1993,"predator.lag05",16.5651
+"Georges Bank",1994,"predator.lag05",39.3308
+"Georges Bank",1995,"predator.lag05",34.655
+"Georges Bank",1996,"predator.lag05",17.5613
+"Georges Bank",1997,"predator.lag05",35.0175
+"Georges Bank",1998,"predator.lag05",20.1191
+"Georges Bank",1999,"predator.lag05",25.1198
+"Georges Bank",2000,"predator.lag05",30.4133
+"Georges Bank",2001,"predator.lag05",28.0619
+"Georges Bank",2002,"predator.lag05",32.8292
+"Georges Bank",2003,"predator.lag05",59.7722
+"Georges Bank",2004,"predator.lag05",20.6887
+"Georges Bank",2005,"predator.lag05",30.2473
+"Georges Bank",2006,"predator.lag05",27.1496
+"Georges Bank",2007,"predator.lag05",37.9489
+"Gulf of Maine",1982,"predator.lag05",7.5902
+"Gulf of Maine",1983,"predator.lag05",12.8537
+"Gulf of Maine",1984,"predator.lag05",7.9895
+"Gulf of Maine",1985,"predator.lag05",13.7137
+"Gulf of Maine",1986,"predator.lag05",11.137
+"Gulf of Maine",1987,"predator.lag05",10.7307
+"Gulf of Maine",1988,"predator.lag05",10.827
+"Gulf of Maine",1989,"predator.lag05",10.5018
+"Gulf of Maine",1990,"predator.lag05",10.3804
+"Gulf of Maine",1991,"predator.lag05",7.3211
+"Gulf of Maine",1992,"predator.lag05",6.3766
+"Gulf of Maine",1993,"predator.lag05",10.7453
+"Gulf of Maine",1994,"predator.lag05",11.8778
+"Gulf of Maine",1995,"predator.lag05",9.3519
+"Gulf of Maine",1996,"predator.lag05",9.7547
+"Gulf of Maine",1997,"predator.lag05",10.2263
+"Gulf of Maine",1998,"predator.lag05",11.0249
+"Gulf of Maine",1999,"predator.lag05",10.2708
+"Gulf of Maine",2000,"predator.lag05",12.7775
+"Gulf of Maine",2001,"predator.lag05",11.2634
+"Gulf of Maine",2002,"predator.lag05",8.6199
+"Gulf of Maine",2003,"predator.lag05",6.1142
+"Gulf of Maine",2004,"predator.lag05",10.4616
+"Gulf of Maine",2005,"predator.lag05",11.6754
+"Gulf of Maine",2006,"predator.lag05",8.7853
+"Gulf of Maine",2007,"predator.lag05",10.3337
+"Massachusetts",1986,"predator.lag05",77.51781415
+"Massachusetts",1987,"predator.lag05",56.35925115
+"Massachusetts",1988,"predator.lag05",72.57587475
+"Massachusetts",1989,"predator.lag05",66.7448305
+"Massachusetts",1990,"predator.lag05",46.64070835
+"Massachusetts",1991,"predator.lag05",44.8586293
+"Massachusetts",1992,"predator.lag05",187.9539191
+"Massachusetts",1993,"predator.lag05",43.32072285
+"Massachusetts",1994,"predator.lag05",52.8431886
+"Massachusetts",1995,"predator.lag05",58.1374457
+"Massachusetts",1996,"predator.lag05",40.1957049
+"Massachusetts",1997,"predator.lag05",70.54648525
+"Massachusetts",1998,"predator.lag05",133.56071275
+"Massachusetts",1999,"predator.lag05",81.4810195
+"Massachusetts",2000,"predator.lag05",102.417707
+"Massachusetts",2001,"predator.lag05",65.48795065
+"Massachusetts",2002,"predator.lag05",51.30427265
+"Massachusetts",2003,"predator.lag05",64.2211719
+"Massachusetts",2004,"predator.lag05",130.37565885
+"Massachusetts",2005,"predator.lag05",103.95679125
+"Massachusetts",2006,"predator.lag05",128.576356
+"Massachusetts",2007,"predator.lag05",63.778828
+"Newfoundland",1984,"predator.lag05",40.299
+"Newfoundland",1985,"predator.lag05",64.909
+"Newfoundland",1986,"predator.lag05",91.29
+"Newfoundland",1987,"predator.lag05",56.975
+"Newfoundland",1988,"predator.lag05",115.128
+"Newfoundland",1989,"predator.lag05",39.769
+"Newfoundland",1990,"predator.lag05",87.318
+"Newfoundland",1991,"predator.lag05",34.239
+"Newfoundland",1992,"predator.lag05",53.42
+"Newfoundland",1993,"predator.lag05",29.767
+"Newfoundland",1994,"predator.lag05",29.244
+"Newfoundland",1995,"predator.lag05",33.445
+"Nova Scotia",1978,"predator.lag05",39.38430372
+"Nova Scotia",1979,"predator.lag05",34.872221013
+"Nova Scotia",1980,"predator.lag05",40.457599808
+"Nova Scotia",1981,"predator.lag05",31.148038587
+"Nova Scotia",1982,"predator.lag05",40.481227919
+"Nova Scotia",1983,"predator.lag05",37.861166381
+"Nova Scotia",1984,"predator.lag05",41.05553565
+"Nova Scotia",1985,"predator.lag05",35.981734647
+"Nova Scotia",1986,"predator.lag05",52.304163335
+"Nova Scotia",1987,"predator.lag05",40.862787527
+"Nova Scotia",1988,"predator.lag05",42.595437487
+"Nova Scotia",1989,"predator.lag05",42.25914985
+"Nova Scotia",1990,"predator.lag05",45.422934613
+"Nova Scotia",1991,"predator.lag05",31.150374633
+"Nova Scotia",1992,"predator.lag05",32.788339516
+"Nova Scotia",1993,"predator.lag05",38.302713025
+"Nova Scotia",1994,"predator.lag05",28.326616448
+"Nova Scotia",1995,"predator.lag05",25.274136743
+"Nova Scotia",1996,"predator.lag05",22.341086836
+"Nova Scotia",1997,"predator.lag05",21.935841284
+"Nova Scotia",1998,"predator.lag05",15.209094736
+"Nova Scotia",1999,"predator.lag05",12.884499333
+"Nova Scotia",2000,"predator.lag05",14.163560859
+"Nova Scotia",2001,"predator.lag05",21.191709026
+"Nova Scotia",2002,"predator.lag05",12.496575956
+"Nova Scotia",2003,"predator.lag05",14.641077295
+"Rhode Island",1987,"predator.lag05",6.016464982
+"Rhode Island",1988,"predator.lag05",5.104080365
+"Rhode Island",1989,"predator.lag05",4.811748798
+"Rhode Island",1990,"predator.lag05",6.663040902
+"Rhode Island",1991,"predator.lag05",3.008309292
+"Rhode Island",1992,"predator.lag05",1.736048266
+"Rhode Island",1993,"predator.lag05",1.1669435215
+"Rhode Island",1994,"predator.lag05",1.904761905
+"Rhode Island",1995,"predator.lag05",5.583333333
+"Rhode Island",1996,"predator.lag05",1.1815183365
+"Rhode Island",1997,"predator.lag05",0.754761905
+"Rhode Island",1998,"predator.lag05",0.7161890395
+"Rhode Island",1999,"predator.lag05",0.482142857
+"Rhode Island",2000,"predator.lag05",1.547619048
+"Rhode Island",2001,"predator.lag05",2.503246753
+"Rhode Island",2002,"predator.lag05",0.2976190475
+"Rhode Island",2003,"predator.lag05",1.486353078
+"Rhode Island",2004,"predator.lag05",0.5421675375
+"Rhode Island",2005,"predator.lag05",1.3798780485
+"Rhode Island",2006,"predator.lag05",1.395310489
+"s Gulf St Lawrence",1984,"predator.lag05",9.545923468
+"s Gulf St Lawrence",1985,"predator.lag05",10.025051403
+"s Gulf St Lawrence",1986,"predator.lag05",15.50166098
+"s Gulf St Lawrence",1987,"predator.lag05",6.211165946
+"s Gulf St Lawrence",1988,"predator.lag05",4.725072811
+"s Gulf St Lawrence",1989,"predator.lag05",6.309847403
+"s Gulf St Lawrence",1990,"predator.lag05",10.063247822
+"s Gulf St Lawrence",1991,"predator.lag05",13.49395748
+"s Gulf St Lawrence",1992,"predator.lag05",7.300118179
+"s Gulf St Lawrence",1993,"predator.lag05",10.328265489
+"s Gulf St Lawrence",1994,"predator.lag05",7.106372335
+"s Gulf St Lawrence",1995,"predator.lag05",7.591020886
+"s Gulf St Lawrence",1996,"predator.lag05",8.089962245
+"s Gulf St Lawrence",1997,"predator.lag05",5.60144151
+"s Gulf St Lawrence",1998,"predator.lag05",3.824391063
+"s Gulf St Lawrence",1999,"predator.lag05",3.716135338
+"s Gulf St Lawrence",2000,"predator.lag05",2.168474469
+"s Gulf St Lawrence",2001,"predator.lag05",2.979294051
+"s Gulf St Lawrence",2002,"predator.lag05",2.853908784
+"s Gulf St Lawrence",2003,"predator.lag05",3.426484005
+"s Gulf St Lawrence",2004,"predator.lag05",3.022792355
+"s Gulf St Lawrence",2005,"predator.lag05",4.647619618
+"s Gulf St Lawrence",2006,"predator.lag05",2.910907451
+"s Gulf St Lawrence",2007,"predator.lag05",2.861558849
+"s New England",1982,"predator.lag05",4.581
+"s New England",1983,"predator.lag05",3.211
+"s New England",1984,"predator.lag05",4.059
+"s New England",1985,"predator.lag05",3.436
+"s New England",1986,"predator.lag05",4.221
+"s New England",1987,"predator.lag05",7.777
+"s New England",1988,"predator.lag05",2.874
+"s New England",1989,"predator.lag05",3.764
+"s New England",1990,"predator.lag05",2.327
+"s New England",1991,"predator.lag05",1.56
+"s New England",1992,"predator.lag05",2.087
+"s New England",1993,"predator.lag05",1.632
+"s New England",1994,"predator.lag05",2.88
+"s New England",1995,"predator.lag05",4.533
+"s New England",1996,"predator.lag05",1.732
+"s New England",1997,"predator.lag05",1.704
+"s New England",1998,"predator.lag05",1.137
+"s New England",1999,"predator.lag05",4.551
+"s New England",2000,"predator.lag05",1.56
+"s New England",2001,"predator.lag05",2.125
+"s New England",2002,"predator.lag05",2.561
+"s New England",2003,"predator.lag05",2.937
+"s New England",2004,"predator.lag05",4.07
+"s New England",2005,"predator.lag05",1.63
+"s New England",2006,"predator.lag05",3.75
+"s New England",2007,"predator.lag05",2.93
+"Connecticut",1999,"environment.lag06",13.55
+"Connecticut",2000,"environment.lag06",12.6
+"Connecticut",2001,"environment.lag06",14.275
+"Connecticut",2002,"environment.lag06",13.64
+"Connecticut",2003,"environment.lag06",13.84
+"Connecticut",2004,"environment.lag06",15.1
+"Connecticut",2005,"environment.lag06",14
+"Connecticut",2006,"environment.lag06",14.3
+"Connecticut",2007,"environment.lag06",14.815
+"Georges Bank",1982,"environment.lag06",10.865144
+"Georges Bank",1983,"environment.lag06",9.834311
+"Georges Bank",1984,"environment.lag06",8.157464
+"Georges Bank",1985,"environment.lag06",9.389311
+"Georges Bank",1986,"environment.lag06",10.155144
+"Georges Bank",1987,"environment.lag06",10.329311
+"Georges Bank",1988,"environment.lag06",10.836811
+"Georges Bank",1989,"environment.lag06",9.290978
+"Georges Bank",1990,"environment.lag06",10.490144
+"Georges Bank",1991,"environment.lag06",9.495144
+"Georges Bank",1992,"environment.lag06",9.381811
+"Georges Bank",1993,"environment.lag06",8.630144
+"Georges Bank",1994,"environment.lag06",10.423478
+"Georges Bank",1995,"environment.lag06",7.115144
+"Georges Bank",1996,"environment.lag06",8.407644
+"Georges Bank",1997,"environment.lag06",8.746809
+"Georges Bank",1998,"environment.lag06",8.967644
+"Georges Bank",1999,"environment.lag06",9.295978
+"Georges Bank",2000,"environment.lag06",9.632638
+"Georges Bank",2001,"environment.lag06",9.626811
+"Georges Bank",2002,"environment.lag06",8.440144
+"Georges Bank",2003,"environment.lag06",9.433453
+"Georges Bank",2004,"environment.lag06",7.905978
+"Georges Bank",2005,"environment.lag06",10.317644
+"Georges Bank",2006,"environment.lag06",9.707089
+"Georges Bank",2007,"environment.lag06",9.219816
+"Gulf of Maine",1982,"environment.lag06",8.845366
+"Gulf of Maine",1983,"environment.lag06",8.027866
+"Gulf of Maine",1984,"environment.lag06",7.869533
+"Gulf of Maine",1985,"environment.lag06",8.2737
+"Gulf of Maine",1986,"environment.lag06",8.6937
+"Gulf of Maine",1987,"environment.lag06",8.2612
+"Gulf of Maine",1988,"environment.lag06",8.482866
+"Gulf of Maine",1989,"environment.lag06",8.362033
+"Gulf of Maine",1990,"environment.lag06",8.527033
+"Gulf of Maine",1991,"environment.lag06",8.737033
+"Gulf of Maine",1992,"environment.lag06",8.773922
+"Gulf of Maine",1993,"environment.lag06",7.602033
+"Gulf of Maine",1994,"environment.lag06",7.667033
+"Gulf of Maine",1995,"environment.lag06",8.185366
+"Gulf of Maine",1996,"environment.lag06",8.174533
+"Gulf of Maine",1997,"environment.lag06",8.672033
+"Gulf of Maine",1998,"environment.lag06",7.2337
+"Gulf of Maine",1999,"environment.lag06",7.649533
+"Gulf of Maine",2000,"environment.lag06",8.395366
+"Gulf of Maine",2001,"environment.lag06",8.194533
+"Gulf of Maine",2002,"environment.lag06",7.4112
+"Gulf of Maine",2003,"environment.lag06",7.789577
+"Gulf of Maine",2004,"environment.lag06",7.602866
+"Gulf of Maine",2005,"environment.lag06",8.3937
+"Gulf of Maine",2006,"environment.lag06",9.326541
+"Gulf of Maine",2007,"environment.lag06",8.3337
+"Massachusetts",1986,"environment.lag06",11.5989155
+"Massachusetts",1987,"environment.lag06",11.1605945
+"Massachusetts",1988,"environment.lag06",11.5091355
+"Massachusetts",1989,"environment.lag06",11.740564
+"Massachusetts",1990,"environment.lag06",11.6660485
+"Massachusetts",1991,"environment.lag06",12.3088235
+"Massachusetts",1992,"environment.lag06",12.181402
+"Massachusetts",1993,"environment.lag06",10.7552505
+"Massachusetts",1994,"environment.lag06",11.275286
+"Massachusetts",1995,"environment.lag06",12.0072485
+"Massachusetts",1996,"environment.lag06",11.9066305
+"Massachusetts",1997,"environment.lag06",12.3728215
+"Massachusetts",1998,"environment.lag06",10.913906
+"Massachusetts",1999,"environment.lag06",11.383308
+"Massachusetts",2000,"environment.lag06",11.6318325
+"Massachusetts",2001,"environment.lag06",12.235662
+"Massachusetts",2002,"environment.lag06",10.3761845
+"Massachusetts",2003,"environment.lag06",11.754993
+"Massachusetts",2004,"environment.lag06",11.2965185
+"Massachusetts",2005,"environment.lag06",12.4864145
+"Massachusetts",2006,"environment.lag06",12.32468
+"Massachusetts",2007,"environment.lag06",12.278352
+"Newfoundland",1984,"environment.lag06",5.237725
+"Newfoundland",1985,"environment.lag06",5.103717
+"Newfoundland",1986,"environment.lag06",5.11285
+"Newfoundland",1987,"environment.lag06",7.026265
+"Newfoundland",1988,"environment.lag06",5.239827
+"Newfoundland",1989,"environment.lag06",6.504437
+"Newfoundland",1990,"environment.lag06",5.555592
+"Newfoundland",1991,"environment.lag06",4.731395
+"Newfoundland",1992,"environment.lag06",4.985387
+"Newfoundland",1993,"environment.lag06",5.046112
+"Newfoundland",1994,"environment.lag06",5.035768
+"Newfoundland",1995,"environment.lag06",3.759256
+"Nova Scotia",1978,"environment.lag06",6.149647
+"Nova Scotia",1979,"environment.lag06",6.437556
+"Nova Scotia",1980,"environment.lag06",6.509758
+"Nova Scotia",1981,"environment.lag06",5.976427
+"Nova Scotia",1982,"environment.lag06",6.857277
+"Nova Scotia",1983,"environment.lag06",6.955699
+"Nova Scotia",1984,"environment.lag06",6.391447
+"Nova Scotia",1985,"environment.lag06",6.967084
+"Nova Scotia",1986,"environment.lag06",6.537208
+"Nova Scotia",1987,"environment.lag06",7.274185
+"Nova Scotia",1988,"environment.lag06",7.10381
+"Nova Scotia",1989,"environment.lag06",7.659046
+"Nova Scotia",1990,"environment.lag06",7.045913
+"Nova Scotia",1991,"environment.lag06",5.947796
+"Nova Scotia",1992,"environment.lag06",6.609073
+"Nova Scotia",1993,"environment.lag06",6.4315
+"Nova Scotia",1994,"environment.lag06",6.523669
+"Nova Scotia",1995,"environment.lag06",6.526049
+"Nova Scotia",1996,"environment.lag06",6.811836
+"Nova Scotia",1997,"environment.lag06",6.471909
+"Nova Scotia",1998,"environment.lag06",5.825668
+"Nova Scotia",1999,"environment.lag06",5.954566
+"Nova Scotia",2000,"environment.lag06",6.328824
+"Nova Scotia",2001,"environment.lag06",6.260352
+"Nova Scotia",2002,"environment.lag06",6.230361
+"Nova Scotia",2003,"environment.lag06",6.13007
+"Rhode Island",1987,"environment.lag06",13.7516765
+"Rhode Island",1988,"environment.lag06",11.969886
+"Rhode Island",1989,"environment.lag06",13.1374375
+"Rhode Island",1990,"environment.lag06",12.9518955
+"Rhode Island",1991,"environment.lag06",12.6852455
+"Rhode Island",1992,"environment.lag06",12.452229
+"Rhode Island",1993,"environment.lag06",12.257245
+"Rhode Island",1994,"environment.lag06",13.7465495
+"Rhode Island",1995,"environment.lag06",11.7203565
+"Rhode Island",1996,"environment.lag06",12.7785485
+"Rhode Island",1997,"environment.lag06",13.710896
+"Rhode Island",1998,"environment.lag06",12.25371
+"Rhode Island",1999,"environment.lag06",18.816455
+"Rhode Island",2000,"environment.lag06",11.85857
+"Rhode Island",2001,"environment.lag06",13.0166655
+"Rhode Island",2002,"environment.lag06",11.588692
+"Rhode Island",2003,"environment.lag06",13.06643
+"Rhode Island",2004,"environment.lag06",13.303933
+"Rhode Island",2005,"environment.lag06",14.054196
+"Rhode Island",2006,"environment.lag06",13.446951
+"s Gulf St Lawrence",1984,"environment.lag06",6.944267
+"s Gulf St Lawrence",1985,"environment.lag06",8.204254
+"s Gulf St Lawrence",1986,"environment.lag06",9.158224
+"s Gulf St Lawrence",1987,"environment.lag06",7.915236
+"s Gulf St Lawrence",1988,"environment.lag06",8.245982
+"s Gulf St Lawrence",1989,"environment.lag06",8.503666
+"s Gulf St Lawrence",1990,"environment.lag06",8.336845
+"s Gulf St Lawrence",1991,"environment.lag06",8.106199
+"s Gulf St Lawrence",1992,"environment.lag06",8.84023
+"s Gulf St Lawrence",1993,"environment.lag06",7.465728
+"s Gulf St Lawrence",1994,"environment.lag06",8.515455
+"s Gulf St Lawrence",1995,"environment.lag06",8.900337
+"s Gulf St Lawrence",1996,"environment.lag06",8.124107
+"s Gulf St Lawrence",1997,"environment.lag06",9.175531
+"s Gulf St Lawrence",1998,"environment.lag06",6.909842
+"s Gulf St Lawrence",1999,"environment.lag06",7.209249
+"s Gulf St Lawrence",2000,"environment.lag06",7.742686
+"s Gulf St Lawrence",2001,"environment.lag06",7.895619
+"s Gulf St Lawrence",2002,"environment.lag06",8.376033
+"s Gulf St Lawrence",2003,"environment.lag06",6.121188
+"s Gulf St Lawrence",2004,"environment.lag06",8.471569
+"s Gulf St Lawrence",2005,"environment.lag06",7.523642
+"s Gulf St Lawrence",2006,"environment.lag06",8.434823
+"s Gulf St Lawrence",2007,"environment.lag06",8.127226
+"s New England",1982,"environment.lag06",15.257379
+"s New England",1983,"environment.lag06",14.760695
+"s New England",1984,"environment.lag06",13.01192
+"s New England",1985,"environment.lag06",14.702905
+"s New England",1986,"environment.lag06",14.504131
+"s New England",1987,"environment.lag06",14.059989
+"s New England",1988,"environment.lag06",14.535405
+"s New England",1989,"environment.lag06",15.119095
+"s New England",1990,"environment.lag06",14.805064
+"s New England",1991,"environment.lag06",15.880614
+"s New England",1992,"environment.lag06",15.588882
+"s New England",1993,"environment.lag06",13.908468
+"s New England",1994,"environment.lag06",14.883539
+"s New England",1995,"environment.lag06",15.829131
+"s New England",1996,"environment.lag06",15.638728
+"s New England",1997,"environment.lag06",16.07361
+"s New England",1998,"environment.lag06",14.594112
+"s New England",1999,"environment.lag06",15.117083
+"s New England",2000,"environment.lag06",14.868299
+"s New England",2001,"environment.lag06",16.276791
+"s New England",2002,"environment.lag06",13.341169
+"s New England",2003,"environment.lag06",15.720409
+"s New England",2004,"environment.lag06",14.990171
+"s New England",2005,"environment.lag06",16.579129
+"s New England",2006,"environment.lag06",15.322819
+"s New England",2007,"environment.lag06",16.223004
+"Connecticut",1999,"predator.lag06",1.7
+"Connecticut",2000,"predator.lag06",1.27
+"Connecticut",2001,"predator.lag06",1.23
+"Connecticut",2002,"predator.lag06",1.96
+"Connecticut",2003,"predator.lag06",1.86
+"Connecticut",2004,"predator.lag06",2.12
+"Connecticut",2005,"predator.lag06",2.44
+"Connecticut",2006,"predator.lag06",3.35
+"Connecticut",2007,"predator.lag06",3.02
+"Georges Bank",1982,"predator.lag06",22.3087
+"Georges Bank",1983,"predator.lag06",40.7983
+"Georges Bank",1984,"predator.lag06",35.5865
+"Georges Bank",1985,"predator.lag06",32.2854
+"Georges Bank",1986,"predator.lag06",31.5494
+"Georges Bank",1987,"predator.lag06",25.0786
+"Georges Bank",1988,"predator.lag06",13.5581
+"Georges Bank",1989,"predator.lag06",12.1441
+"Georges Bank",1990,"predator.lag06",11.611
+"Georges Bank",1991,"predator.lag06",9.311
+"Georges Bank",1992,"predator.lag06",22.4801
+"Georges Bank",1993,"predator.lag06",25.2334
+"Georges Bank",1994,"predator.lag06",16.5651
+"Georges Bank",1995,"predator.lag06",39.3308
+"Georges Bank",1996,"predator.lag06",34.655
+"Georges Bank",1997,"predator.lag06",17.5613
+"Georges Bank",1998,"predator.lag06",35.0175
+"Georges Bank",1999,"predator.lag06",20.1191
+"Georges Bank",2000,"predator.lag06",25.1198
+"Georges Bank",2001,"predator.lag06",30.4133
+"Georges Bank",2002,"predator.lag06",28.0619
+"Georges Bank",2003,"predator.lag06",32.8292
+"Georges Bank",2004,"predator.lag06",59.7722
+"Georges Bank",2005,"predator.lag06",20.6887
+"Georges Bank",2006,"predator.lag06",30.2473
+"Georges Bank",2007,"predator.lag06",27.1496
+"Gulf of Maine",1982,"predator.lag06",6.7021
+"Gulf of Maine",1983,"predator.lag06",7.5902
+"Gulf of Maine",1984,"predator.lag06",12.8537
+"Gulf of Maine",1985,"predator.lag06",7.9895
+"Gulf of Maine",1986,"predator.lag06",13.7137
+"Gulf of Maine",1987,"predator.lag06",11.137
+"Gulf of Maine",1988,"predator.lag06",10.7307
+"Gulf of Maine",1989,"predator.lag06",10.827
+"Gulf of Maine",1990,"predator.lag06",10.5018
+"Gulf of Maine",1991,"predator.lag06",10.3804
+"Gulf of Maine",1992,"predator.lag06",7.3211
+"Gulf of Maine",1993,"predator.lag06",6.3766
+"Gulf of Maine",1994,"predator.lag06",10.7453
+"Gulf of Maine",1995,"predator.lag06",11.8778
+"Gulf of Maine",1996,"predator.lag06",9.3519
+"Gulf of Maine",1997,"predator.lag06",9.7547
+"Gulf of Maine",1998,"predator.lag06",10.2263
+"Gulf of Maine",1999,"predator.lag06",11.0249
+"Gulf of Maine",2000,"predator.lag06",10.2708
+"Gulf of Maine",2001,"predator.lag06",12.7775
+"Gulf of Maine",2002,"predator.lag06",11.2634
+"Gulf of Maine",2003,"predator.lag06",8.6199
+"Gulf of Maine",2004,"predator.lag06",6.1142
+"Gulf of Maine",2005,"predator.lag06",10.4616
+"Gulf of Maine",2006,"predator.lag06",11.6754
+"Gulf of Maine",2007,"predator.lag06",8.7853
+"Massachusetts",1986,"predator.lag06",69.8980036
+"Massachusetts",1987,"predator.lag06",77.51781415
+"Massachusetts",1988,"predator.lag06",56.35925115
+"Massachusetts",1989,"predator.lag06",72.57587475
+"Massachusetts",1990,"predator.lag06",66.7448305
+"Massachusetts",1991,"predator.lag06",46.64070835
+"Massachusetts",1992,"predator.lag06",44.8586293
+"Massachusetts",1993,"predator.lag06",187.9539191
+"Massachusetts",1994,"predator.lag06",43.32072285
+"Massachusetts",1995,"predator.lag06",52.8431886
+"Massachusetts",1996,"predator.lag06",58.1374457
+"Massachusetts",1997,"predator.lag06",40.1957049
+"Massachusetts",1998,"predator.lag06",70.54648525
+"Massachusetts",1999,"predator.lag06",133.56071275
+"Massachusetts",2000,"predator.lag06",81.4810195
+"Massachusetts",2001,"predator.lag06",102.417707
+"Massachusetts",2002,"predator.lag06",65.48795065
+"Massachusetts",2003,"predator.lag06",51.30427265
+"Massachusetts",2004,"predator.lag06",64.2211719
+"Massachusetts",2005,"predator.lag06",130.37565885
+"Massachusetts",2006,"predator.lag06",103.95679125
+"Massachusetts",2007,"predator.lag06",128.576356
+"Newfoundland",1984,"predator.lag06",44.2
+"Newfoundland",1985,"predator.lag06",40.299
+"Newfoundland",1986,"predator.lag06",64.909
+"Newfoundland",1987,"predator.lag06",91.29
+"Newfoundland",1988,"predator.lag06",56.975
+"Newfoundland",1989,"predator.lag06",115.128
+"Newfoundland",1990,"predator.lag06",39.769
+"Newfoundland",1991,"predator.lag06",87.318
+"Newfoundland",1992,"predator.lag06",34.239
+"Newfoundland",1993,"predator.lag06",53.42
+"Newfoundland",1994,"predator.lag06",29.767
+"Newfoundland",1995,"predator.lag06",29.244
+"Nova Scotia",1978,"predator.lag06",30.065774902
+"Nova Scotia",1979,"predator.lag06",39.38430372
+"Nova Scotia",1980,"predator.lag06",34.872221013
+"Nova Scotia",1981,"predator.lag06",40.457599808
+"Nova Scotia",1982,"predator.lag06",31.148038587
+"Nova Scotia",1983,"predator.lag06",40.481227919
+"Nova Scotia",1984,"predator.lag06",37.861166381
+"Nova Scotia",1985,"predator.lag06",41.05553565
+"Nova Scotia",1986,"predator.lag06",35.981734647
+"Nova Scotia",1987,"predator.lag06",52.304163335
+"Nova Scotia",1988,"predator.lag06",40.862787527
+"Nova Scotia",1989,"predator.lag06",42.595437487
+"Nova Scotia",1990,"predator.lag06",42.25914985
+"Nova Scotia",1991,"predator.lag06",45.422934613
+"Nova Scotia",1992,"predator.lag06",31.150374633
+"Nova Scotia",1993,"predator.lag06",32.788339516
+"Nova Scotia",1994,"predator.lag06",38.302713025
+"Nova Scotia",1995,"predator.lag06",28.326616448
+"Nova Scotia",1996,"predator.lag06",25.274136743
+"Nova Scotia",1997,"predator.lag06",22.341086836
+"Nova Scotia",1998,"predator.lag06",21.935841284
+"Nova Scotia",1999,"predator.lag06",15.209094736
+"Nova Scotia",2000,"predator.lag06",12.884499333
+"Nova Scotia",2001,"predator.lag06",14.163560859
+"Nova Scotia",2002,"predator.lag06",21.191709026
+"Nova Scotia",2003,"predator.lag06",12.496575956
+"Rhode Island",1987,"predator.lag06",5.3118221335
+"Rhode Island",1988,"predator.lag06",6.016464982
+"Rhode Island",1989,"predator.lag06",5.104080365
+"Rhode Island",1990,"predator.lag06",4.811748798
+"Rhode Island",1991,"predator.lag06",6.663040902
+"Rhode Island",1992,"predator.lag06",3.008309292
+"Rhode Island",1993,"predator.lag06",1.736048266
+"Rhode Island",1994,"predator.lag06",1.1669435215
+"Rhode Island",1995,"predator.lag06",1.904761905
+"Rhode Island",1996,"predator.lag06",5.583333333
+"Rhode Island",1997,"predator.lag06",1.1815183365
+"Rhode Island",1998,"predator.lag06",0.754761905
+"Rhode Island",1999,"predator.lag06",0.7161890395
+"Rhode Island",2000,"predator.lag06",0.482142857
+"Rhode Island",2001,"predator.lag06",1.547619048
+"Rhode Island",2002,"predator.lag06",2.503246753
+"Rhode Island",2003,"predator.lag06",0.2976190475
+"Rhode Island",2004,"predator.lag06",1.486353078
+"Rhode Island",2005,"predator.lag06",0.5421675375
+"Rhode Island",2006,"predator.lag06",1.3798780485
+"s Gulf St Lawrence",1984,"predator.lag06",9.107732005
+"s Gulf St Lawrence",1985,"predator.lag06",9.545923468
+"s Gulf St Lawrence",1986,"predator.lag06",10.025051403
+"s Gulf St Lawrence",1987,"predator.lag06",15.50166098
+"s Gulf St Lawrence",1988,"predator.lag06",6.211165946
+"s Gulf St Lawrence",1989,"predator.lag06",4.725072811
+"s Gulf St Lawrence",1990,"predator.lag06",6.309847403
+"s Gulf St Lawrence",1991,"predator.lag06",10.063247822
+"s Gulf St Lawrence",1992,"predator.lag06",13.49395748
+"s Gulf St Lawrence",1993,"predator.lag06",7.300118179
+"s Gulf St Lawrence",1994,"predator.lag06",10.328265489
+"s Gulf St Lawrence",1995,"predator.lag06",7.106372335
+"s Gulf St Lawrence",1996,"predator.lag06",7.591020886
+"s Gulf St Lawrence",1997,"predator.lag06",8.089962245
+"s Gulf St Lawrence",1998,"predator.lag06",5.60144151
+"s Gulf St Lawrence",1999,"predator.lag06",3.824391063
+"s Gulf St Lawrence",2000,"predator.lag06",3.716135338
+"s Gulf St Lawrence",2001,"predator.lag06",2.168474469
+"s Gulf St Lawrence",2002,"predator.lag06",2.979294051
+"s Gulf St Lawrence",2003,"predator.lag06",2.853908784
+"s Gulf St Lawrence",2004,"predator.lag06",3.426484005
+"s Gulf St Lawrence",2005,"predator.lag06",3.022792355
+"s Gulf St Lawrence",2006,"predator.lag06",4.647619618
+"s Gulf St Lawrence",2007,"predator.lag06",2.910907451
+"s New England",1982,"predator.lag06",6.27
+"s New England",1983,"predator.lag06",4.581
+"s New England",1984,"predator.lag06",3.211
+"s New England",1985,"predator.lag06",4.059
+"s New England",1986,"predator.lag06",3.436
+"s New England",1987,"predator.lag06",4.221
+"s New England",1988,"predator.lag06",7.777
+"s New England",1989,"predator.lag06",2.874
+"s New England",1990,"predator.lag06",3.764
+"s New England",1991,"predator.lag06",2.327
+"s New England",1992,"predator.lag06",1.56
+"s New England",1993,"predator.lag06",2.087
+"s New England",1994,"predator.lag06",1.632
+"s New England",1995,"predator.lag06",2.88
+"s New England",1996,"predator.lag06",4.533
+"s New England",1997,"predator.lag06",1.732
+"s New England",1998,"predator.lag06",1.704
+"s New England",1999,"predator.lag06",1.137
+"s New England",2000,"predator.lag06",4.551
+"s New England",2001,"predator.lag06",1.56
+"s New England",2002,"predator.lag06",2.125
+"s New England",2003,"predator.lag06",2.561
+"s New England",2004,"predator.lag06",2.937
+"s New England",2005,"predator.lag06",4.07
+"s New England",2006,"predator.lag06",1.63
+"s New England",2007,"predator.lag06",3.75
+"Connecticut",1999,"environment.lag07",13.95
+"Connecticut",2000,"environment.lag07",13.55
+"Connecticut",2001,"environment.lag07",12.6
+"Connecticut",2002,"environment.lag07",14.275
+"Connecticut",2003,"environment.lag07",13.64
+"Connecticut",2004,"environment.lag07",13.84
+"Connecticut",2005,"environment.lag07",15.1
+"Connecticut",2006,"environment.lag07",14
+"Connecticut",2007,"environment.lag07",14.3
+"Georges Bank",1982,"environment.lag07",10.176811
+"Georges Bank",1983,"environment.lag07",10.865144
+"Georges Bank",1984,"environment.lag07",9.834311
+"Georges Bank",1985,"environment.lag07",8.157464
+"Georges Bank",1986,"environment.lag07",9.389311
+"Georges Bank",1987,"environment.lag07",10.155144
+"Georges Bank",1988,"environment.lag07",10.329311
+"Georges Bank",1989,"environment.lag07",10.836811
+"Georges Bank",1990,"environment.lag07",9.290978
+"Georges Bank",1991,"environment.lag07",10.490144
+"Georges Bank",1992,"environment.lag07",9.495144
+"Georges Bank",1993,"environment.lag07",9.381811
+"Georges Bank",1994,"environment.lag07",8.630144
+"Georges Bank",1995,"environment.lag07",10.423478
+"Georges Bank",1996,"environment.lag07",7.115144
+"Georges Bank",1997,"environment.lag07",8.407644
+"Georges Bank",1998,"environment.lag07",8.746809
+"Georges Bank",1999,"environment.lag07",8.967644
+"Georges Bank",2000,"environment.lag07",9.295978
+"Georges Bank",2001,"environment.lag07",9.632638
+"Georges Bank",2002,"environment.lag07",9.626811
+"Georges Bank",2003,"environment.lag07",8.440144
+"Georges Bank",2004,"environment.lag07",9.433453
+"Georges Bank",2005,"environment.lag07",7.905978
+"Georges Bank",2006,"environment.lag07",10.317644
+"Georges Bank",2007,"environment.lag07",9.707089
+"Gulf of Maine",1982,"environment.lag07",8.114819
+"Gulf of Maine",1983,"environment.lag07",8.845366
+"Gulf of Maine",1984,"environment.lag07",8.027866
+"Gulf of Maine",1985,"environment.lag07",7.869533
+"Gulf of Maine",1986,"environment.lag07",8.2737
+"Gulf of Maine",1987,"environment.lag07",8.6937
+"Gulf of Maine",1988,"environment.lag07",8.2612
+"Gulf of Maine",1989,"environment.lag07",8.482866
+"Gulf of Maine",1990,"environment.lag07",8.362033
+"Gulf of Maine",1991,"environment.lag07",8.527033
+"Gulf of Maine",1992,"environment.lag07",8.737033
+"Gulf of Maine",1993,"environment.lag07",8.773922
+"Gulf of Maine",1994,"environment.lag07",7.602033
+"Gulf of Maine",1995,"environment.lag07",7.667033
+"Gulf of Maine",1996,"environment.lag07",8.185366
+"Gulf of Maine",1997,"environment.lag07",8.174533
+"Gulf of Maine",1998,"environment.lag07",8.672033
+"Gulf of Maine",1999,"environment.lag07",7.2337
+"Gulf of Maine",2000,"environment.lag07",7.649533
+"Gulf of Maine",2001,"environment.lag07",8.395366
+"Gulf of Maine",2002,"environment.lag07",8.194533
+"Gulf of Maine",2003,"environment.lag07",7.4112
+"Gulf of Maine",2004,"environment.lag07",7.789577
+"Gulf of Maine",2005,"environment.lag07",7.602866
+"Gulf of Maine",2006,"environment.lag07",8.3937
+"Gulf of Maine",2007,"environment.lag07",9.326541
+"Massachusetts",1986,"environment.lag07",11.4883025
+"Massachusetts",1987,"environment.lag07",11.5989155
+"Massachusetts",1988,"environment.lag07",11.1605945
+"Massachusetts",1989,"environment.lag07",11.5091355
+"Massachusetts",1990,"environment.lag07",11.740564
+"Massachusetts",1991,"environment.lag07",11.6660485
+"Massachusetts",1992,"environment.lag07",12.3088235
+"Massachusetts",1993,"environment.lag07",12.181402
+"Massachusetts",1994,"environment.lag07",10.7552505
+"Massachusetts",1995,"environment.lag07",11.275286
+"Massachusetts",1996,"environment.lag07",12.0072485
+"Massachusetts",1997,"environment.lag07",11.9066305
+"Massachusetts",1998,"environment.lag07",12.3728215
+"Massachusetts",1999,"environment.lag07",10.913906
+"Massachusetts",2000,"environment.lag07",11.383308
+"Massachusetts",2001,"environment.lag07",11.6318325
+"Massachusetts",2002,"environment.lag07",12.235662
+"Massachusetts",2003,"environment.lag07",10.3761845
+"Massachusetts",2004,"environment.lag07",11.754993
+"Massachusetts",2005,"environment.lag07",11.2965185
+"Massachusetts",2006,"environment.lag07",12.4864145
+"Massachusetts",2007,"environment.lag07",12.32468
+"Newfoundland",1984,"environment.lag07",4.844041
+"Newfoundland",1985,"environment.lag07",5.237725
+"Newfoundland",1986,"environment.lag07",5.103717
+"Newfoundland",1987,"environment.lag07",5.11285
+"Newfoundland",1988,"environment.lag07",7.026265
+"Newfoundland",1989,"environment.lag07",5.239827
+"Newfoundland",1990,"environment.lag07",6.504437
+"Newfoundland",1991,"environment.lag07",5.555592
+"Newfoundland",1992,"environment.lag07",4.731395
+"Newfoundland",1993,"environment.lag07",4.985387
+"Newfoundland",1994,"environment.lag07",5.046112
+"Newfoundland",1995,"environment.lag07",5.035768
+"Nova Scotia",1978,"environment.lag07",6.623952
+"Nova Scotia",1979,"environment.lag07",6.149647
+"Nova Scotia",1980,"environment.lag07",6.437556
+"Nova Scotia",1981,"environment.lag07",6.509758
+"Nova Scotia",1982,"environment.lag07",5.976427
+"Nova Scotia",1983,"environment.lag07",6.857277
+"Nova Scotia",1984,"environment.lag07",6.955699
+"Nova Scotia",1985,"environment.lag07",6.391447
+"Nova Scotia",1986,"environment.lag07",6.967084
+"Nova Scotia",1987,"environment.lag07",6.537208
+"Nova Scotia",1988,"environment.lag07",7.274185
+"Nova Scotia",1989,"environment.lag07",7.10381
+"Nova Scotia",1990,"environment.lag07",7.659046
+"Nova Scotia",1991,"environment.lag07",7.045913
+"Nova Scotia",1992,"environment.lag07",5.947796
+"Nova Scotia",1993,"environment.lag07",6.609073
+"Nova Scotia",1994,"environment.lag07",6.4315
+"Nova Scotia",1995,"environment.lag07",6.523669
+"Nova Scotia",1996,"environment.lag07",6.526049
+"Nova Scotia",1997,"environment.lag07",6.811836
+"Nova Scotia",1998,"environment.lag07",6.471909
+"Nova Scotia",1999,"environment.lag07",5.825668
+"Nova Scotia",2000,"environment.lag07",5.954566
+"Nova Scotia",2001,"environment.lag07",6.328824
+"Nova Scotia",2002,"environment.lag07",6.260352
+"Nova Scotia",2003,"environment.lag07",6.230361
+"Rhode Island",1987,"environment.lag07",19.45874
+"Rhode Island",1988,"environment.lag07",13.7516765
+"Rhode Island",1989,"environment.lag07",11.969886
+"Rhode Island",1990,"environment.lag07",13.1374375
+"Rhode Island",1991,"environment.lag07",12.9518955
+"Rhode Island",1992,"environment.lag07",12.6852455
+"Rhode Island",1993,"environment.lag07",12.452229
+"Rhode Island",1994,"environment.lag07",12.257245
+"Rhode Island",1995,"environment.lag07",13.7465495
+"Rhode Island",1996,"environment.lag07",11.7203565
+"Rhode Island",1997,"environment.lag07",12.7785485
+"Rhode Island",1998,"environment.lag07",13.710896
+"Rhode Island",1999,"environment.lag07",12.25371
+"Rhode Island",2000,"environment.lag07",18.816455
+"Rhode Island",2001,"environment.lag07",11.85857
+"Rhode Island",2002,"environment.lag07",13.0166655
+"Rhode Island",2003,"environment.lag07",11.588692
+"Rhode Island",2004,"environment.lag07",13.06643
+"Rhode Island",2005,"environment.lag07",13.303933
+"Rhode Island",2006,"environment.lag07",14.054196
+"s Gulf St Lawrence",1984,"environment.lag07",8.327696
+"s Gulf St Lawrence",1985,"environment.lag07",6.944267
+"s Gulf St Lawrence",1986,"environment.lag07",8.204254
+"s Gulf St Lawrence",1987,"environment.lag07",9.158224
+"s Gulf St Lawrence",1988,"environment.lag07",7.915236
+"s Gulf St Lawrence",1989,"environment.lag07",8.245982
+"s Gulf St Lawrence",1990,"environment.lag07",8.503666
+"s Gulf St Lawrence",1991,"environment.lag07",8.336845
+"s Gulf St Lawrence",1992,"environment.lag07",8.106199
+"s Gulf St Lawrence",1993,"environment.lag07",8.84023
+"s Gulf St Lawrence",1994,"environment.lag07",7.465728
+"s Gulf St Lawrence",1995,"environment.lag07",8.515455
+"s Gulf St Lawrence",1996,"environment.lag07",8.900337
+"s Gulf St Lawrence",1997,"environment.lag07",8.124107
+"s Gulf St Lawrence",1998,"environment.lag07",9.175531
+"s Gulf St Lawrence",1999,"environment.lag07",6.909842
+"s Gulf St Lawrence",2000,"environment.lag07",7.209249
+"s Gulf St Lawrence",2001,"environment.lag07",7.742686
+"s Gulf St Lawrence",2002,"environment.lag07",7.895619
+"s Gulf St Lawrence",2003,"environment.lag07",8.376033
+"s Gulf St Lawrence",2004,"environment.lag07",6.121188
+"s Gulf St Lawrence",2005,"environment.lag07",8.471569
+"s Gulf St Lawrence",2006,"environment.lag07",7.523642
+"s Gulf St Lawrence",2007,"environment.lag07",8.434823
+"s New England",1982,"environment.lag07",15.659175
+"s New England",1983,"environment.lag07",15.257379
+"s New England",1984,"environment.lag07",14.760695
+"s New England",1985,"environment.lag07",13.01192
+"s New England",1986,"environment.lag07",14.702905
+"s New England",1987,"environment.lag07",14.504131
+"s New England",1988,"environment.lag07",14.059989
+"s New England",1989,"environment.lag07",14.535405
+"s New England",1990,"environment.lag07",15.119095
+"s New England",1991,"environment.lag07",14.805064
+"s New England",1992,"environment.lag07",15.880614
+"s New England",1993,"environment.lag07",15.588882
+"s New England",1994,"environment.lag07",13.908468
+"s New England",1995,"environment.lag07",14.883539
+"s New England",1996,"environment.lag07",15.829131
+"s New England",1997,"environment.lag07",15.638728
+"s New England",1998,"environment.lag07",16.07361
+"s New England",1999,"environment.lag07",14.594112
+"s New England",2000,"environment.lag07",15.117083
+"s New England",2001,"environment.lag07",14.868299
+"s New England",2002,"environment.lag07",16.276791
+"s New England",2003,"environment.lag07",13.341169
+"s New England",2004,"environment.lag07",15.720409
+"s New England",2005,"environment.lag07",14.990171
+"s New England",2006,"environment.lag07",16.579129
+"s New England",2007,"environment.lag07",15.322819
+"Connecticut",1999,"predator.lag07",1.94
+"Connecticut",2000,"predator.lag07",1.7
+"Connecticut",2001,"predator.lag07",1.27
+"Connecticut",2002,"predator.lag07",1.23
+"Connecticut",2003,"predator.lag07",1.96
+"Connecticut",2004,"predator.lag07",1.86
+"Connecticut",2005,"predator.lag07",2.12
+"Connecticut",2006,"predator.lag07",2.44
+"Connecticut",2007,"predator.lag07",3.35
+"Georges Bank",1982,"predator.lag07",54.0505
+"Georges Bank",1983,"predator.lag07",22.3087
+"Georges Bank",1984,"predator.lag07",40.7983
+"Georges Bank",1985,"predator.lag07",35.5865
+"Georges Bank",1986,"predator.lag07",32.2854
+"Georges Bank",1987,"predator.lag07",31.5494
+"Georges Bank",1988,"predator.lag07",25.0786
+"Georges Bank",1989,"predator.lag07",13.5581
+"Georges Bank",1990,"predator.lag07",12.1441
+"Georges Bank",1991,"predator.lag07",11.611
+"Georges Bank",1992,"predator.lag07",9.311
+"Georges Bank",1993,"predator.lag07",22.4801
+"Georges Bank",1994,"predator.lag07",25.2334
+"Georges Bank",1995,"predator.lag07",16.5651
+"Georges Bank",1996,"predator.lag07",39.3308
+"Georges Bank",1997,"predator.lag07",34.655
+"Georges Bank",1998,"predator.lag07",17.5613
+"Georges Bank",1999,"predator.lag07",35.0175
+"Georges Bank",2000,"predator.lag07",20.1191
+"Georges Bank",2001,"predator.lag07",25.1198
+"Georges Bank",2002,"predator.lag07",30.4133
+"Georges Bank",2003,"predator.lag07",28.0619
+"Georges Bank",2004,"predator.lag07",32.8292
+"Georges Bank",2005,"predator.lag07",59.7722
+"Georges Bank",2006,"predator.lag07",20.6887
+"Georges Bank",2007,"predator.lag07",30.2473
+"Gulf of Maine",1982,"predator.lag07",7.6894
+"Gulf of Maine",1983,"predator.lag07",6.7021
+"Gulf of Maine",1984,"predator.lag07",7.5902
+"Gulf of Maine",1985,"predator.lag07",12.8537
+"Gulf of Maine",1986,"predator.lag07",7.9895
+"Gulf of Maine",1987,"predator.lag07",13.7137
+"Gulf of Maine",1988,"predator.lag07",11.137
+"Gulf of Maine",1989,"predator.lag07",10.7307
+"Gulf of Maine",1990,"predator.lag07",10.827
+"Gulf of Maine",1991,"predator.lag07",10.5018
+"Gulf of Maine",1992,"predator.lag07",10.3804
+"Gulf of Maine",1993,"predator.lag07",7.3211
+"Gulf of Maine",1994,"predator.lag07",6.3766
+"Gulf of Maine",1995,"predator.lag07",10.7453
+"Gulf of Maine",1996,"predator.lag07",11.8778
+"Gulf of Maine",1997,"predator.lag07",9.3519
+"Gulf of Maine",1998,"predator.lag07",9.7547
+"Gulf of Maine",1999,"predator.lag07",10.2263
+"Gulf of Maine",2000,"predator.lag07",11.0249
+"Gulf of Maine",2001,"predator.lag07",10.2708
+"Gulf of Maine",2002,"predator.lag07",12.7775
+"Gulf of Maine",2003,"predator.lag07",11.2634
+"Gulf of Maine",2004,"predator.lag07",8.6199
+"Gulf of Maine",2005,"predator.lag07",6.1142
+"Gulf of Maine",2006,"predator.lag07",10.4616
+"Gulf of Maine",2007,"predator.lag07",11.6754
+"Massachusetts",1986,"predator.lag07",81.8724235
+"Massachusetts",1987,"predator.lag07",69.8980036
+"Massachusetts",1988,"predator.lag07",77.51781415
+"Massachusetts",1989,"predator.lag07",56.35925115
+"Massachusetts",1990,"predator.lag07",72.57587475
+"Massachusetts",1991,"predator.lag07",66.7448305
+"Massachusetts",1992,"predator.lag07",46.64070835
+"Massachusetts",1993,"predator.lag07",44.8586293
+"Massachusetts",1994,"predator.lag07",187.9539191
+"Massachusetts",1995,"predator.lag07",43.32072285
+"Massachusetts",1996,"predator.lag07",52.8431886
+"Massachusetts",1997,"predator.lag07",58.1374457
+"Massachusetts",1998,"predator.lag07",40.1957049
+"Massachusetts",1999,"predator.lag07",70.54648525
+"Massachusetts",2000,"predator.lag07",133.56071275
+"Massachusetts",2001,"predator.lag07",81.4810195
+"Massachusetts",2002,"predator.lag07",102.417707
+"Massachusetts",2003,"predator.lag07",65.48795065
+"Massachusetts",2004,"predator.lag07",51.30427265
+"Massachusetts",2005,"predator.lag07",64.2211719
+"Massachusetts",2006,"predator.lag07",130.37565885
+"Massachusetts",2007,"predator.lag07",103.95679125
+"Newfoundland",1984,"predator.lag07",59.886
+"Newfoundland",1985,"predator.lag07",44.2
+"Newfoundland",1986,"predator.lag07",40.299
+"Newfoundland",1987,"predator.lag07",64.909
+"Newfoundland",1988,"predator.lag07",91.29
+"Newfoundland",1989,"predator.lag07",56.975
+"Newfoundland",1990,"predator.lag07",115.128
+"Newfoundland",1991,"predator.lag07",39.769
+"Newfoundland",1992,"predator.lag07",87.318
+"Newfoundland",1993,"predator.lag07",34.239
+"Newfoundland",1994,"predator.lag07",53.42
+"Newfoundland",1995,"predator.lag07",29.767
+"Nova Scotia",1978,"predator.lag07",32.753901718
+"Nova Scotia",1979,"predator.lag07",30.065774902
+"Nova Scotia",1980,"predator.lag07",39.38430372
+"Nova Scotia",1981,"predator.lag07",34.872221013
+"Nova Scotia",1982,"predator.lag07",40.457599808
+"Nova Scotia",1983,"predator.lag07",31.148038587
+"Nova Scotia",1984,"predator.lag07",40.481227919
+"Nova Scotia",1985,"predator.lag07",37.861166381
+"Nova Scotia",1986,"predator.lag07",41.05553565
+"Nova Scotia",1987,"predator.lag07",35.981734647
+"Nova Scotia",1988,"predator.lag07",52.304163335
+"Nova Scotia",1989,"predator.lag07",40.862787527
+"Nova Scotia",1990,"predator.lag07",42.595437487
+"Nova Scotia",1991,"predator.lag07",42.25914985
+"Nova Scotia",1992,"predator.lag07",45.422934613
+"Nova Scotia",1993,"predator.lag07",31.150374633
+"Nova Scotia",1994,"predator.lag07",32.788339516
+"Nova Scotia",1995,"predator.lag07",38.302713025
+"Nova Scotia",1996,"predator.lag07",28.326616448
+"Nova Scotia",1997,"predator.lag07",25.274136743
+"Nova Scotia",1998,"predator.lag07",22.341086836
+"Nova Scotia",1999,"predator.lag07",21.935841284
+"Nova Scotia",2000,"predator.lag07",15.209094736
+"Nova Scotia",2001,"predator.lag07",12.884499333
+"Nova Scotia",2002,"predator.lag07",14.163560859
+"Nova Scotia",2003,"predator.lag07",21.191709026
+"Rhode Island",1987,"predator.lag07",2.043108974
+"Rhode Island",1988,"predator.lag07",5.3118221335
+"Rhode Island",1989,"predator.lag07",6.016464982
+"Rhode Island",1990,"predator.lag07",5.104080365
+"Rhode Island",1991,"predator.lag07",4.811748798
+"Rhode Island",1992,"predator.lag07",6.663040902
+"Rhode Island",1993,"predator.lag07",3.008309292
+"Rhode Island",1994,"predator.lag07",1.736048266
+"Rhode Island",1995,"predator.lag07",1.1669435215
+"Rhode Island",1996,"predator.lag07",1.904761905
+"Rhode Island",1997,"predator.lag07",5.583333333
+"Rhode Island",1998,"predator.lag07",1.1815183365
+"Rhode Island",1999,"predator.lag07",0.754761905
+"Rhode Island",2000,"predator.lag07",0.7161890395
+"Rhode Island",2001,"predator.lag07",0.482142857
+"Rhode Island",2002,"predator.lag07",1.547619048
+"Rhode Island",2003,"predator.lag07",2.503246753
+"Rhode Island",2004,"predator.lag07",0.2976190475
+"Rhode Island",2005,"predator.lag07",1.486353078
+"Rhode Island",2006,"predator.lag07",0.5421675375
+"s Gulf St Lawrence",1984,"predator.lag07",5.61952756
+"s Gulf St Lawrence",1985,"predator.lag07",9.107732005
+"s Gulf St Lawrence",1986,"predator.lag07",9.545923468
+"s Gulf St Lawrence",1987,"predator.lag07",10.025051403
+"s Gulf St Lawrence",1988,"predator.lag07",15.50166098
+"s Gulf St Lawrence",1989,"predator.lag07",6.211165946
+"s Gulf St Lawrence",1990,"predator.lag07",4.725072811
+"s Gulf St Lawrence",1991,"predator.lag07",6.309847403
+"s Gulf St Lawrence",1992,"predator.lag07",10.063247822
+"s Gulf St Lawrence",1993,"predator.lag07",13.49395748
+"s Gulf St Lawrence",1994,"predator.lag07",7.300118179
+"s Gulf St Lawrence",1995,"predator.lag07",10.328265489
+"s Gulf St Lawrence",1996,"predator.lag07",7.106372335
+"s Gulf St Lawrence",1997,"predator.lag07",7.591020886
+"s Gulf St Lawrence",1998,"predator.lag07",8.089962245
+"s Gulf St Lawrence",1999,"predator.lag07",5.60144151
+"s Gulf St Lawrence",2000,"predator.lag07",3.824391063
+"s Gulf St Lawrence",2001,"predator.lag07",3.716135338
+"s Gulf St Lawrence",2002,"predator.lag07",2.168474469
+"s Gulf St Lawrence",2003,"predator.lag07",2.979294051
+"s Gulf St Lawrence",2004,"predator.lag07",2.853908784
+"s Gulf St Lawrence",2005,"predator.lag07",3.426484005
+"s Gulf St Lawrence",2006,"predator.lag07",3.022792355
+"s Gulf St Lawrence",2007,"predator.lag07",4.647619618
+"s New England",1982,"predator.lag07",5.51
+"s New England",1983,"predator.lag07",6.27
+"s New England",1984,"predator.lag07",4.581
+"s New England",1985,"predator.lag07",3.211
+"s New England",1986,"predator.lag07",4.059
+"s New England",1987,"predator.lag07",3.436
+"s New England",1988,"predator.lag07",4.221
+"s New England",1989,"predator.lag07",7.777
+"s New England",1990,"predator.lag07",2.874
+"s New England",1991,"predator.lag07",3.764
+"s New England",1992,"predator.lag07",2.327
+"s New England",1993,"predator.lag07",1.56
+"s New England",1994,"predator.lag07",2.087
+"s New England",1995,"predator.lag07",1.632
+"s New England",1996,"predator.lag07",2.88
+"s New England",1997,"predator.lag07",4.533
+"s New England",1998,"predator.lag07",1.732
+"s New England",1999,"predator.lag07",1.704
+"s New England",2000,"predator.lag07",1.137
+"s New England",2001,"predator.lag07",4.551
+"s New England",2002,"predator.lag07",1.56
+"s New England",2003,"predator.lag07",2.125
+"s New England",2004,"predator.lag07",2.561
+"s New England",2005,"predator.lag07",2.937
+"s New England",2006,"predator.lag07",4.07
+"s New England",2007,"predator.lag07",1.63
+"Connecticut",1999,"environment.lag08",14.8
+"Connecticut",2000,"environment.lag08",13.95
+"Connecticut",2001,"environment.lag08",13.55
+"Connecticut",2002,"environment.lag08",12.6
+"Connecticut",2003,"environment.lag08",14.275
+"Connecticut",2004,"environment.lag08",13.64
+"Connecticut",2005,"environment.lag08",13.84
+"Connecticut",2006,"environment.lag08",15.1
+"Connecticut",2007,"environment.lag08",14
+"Georges Bank",1982,"environment.lag08",11.484311
+"Georges Bank",1983,"environment.lag08",10.176811
+"Georges Bank",1984,"environment.lag08",10.865144
+"Georges Bank",1985,"environment.lag08",9.834311
+"Georges Bank",1986,"environment.lag08",8.157464
+"Georges Bank",1987,"environment.lag08",9.389311
+"Georges Bank",1988,"environment.lag08",10.155144
+"Georges Bank",1989,"environment.lag08",10.329311
+"Georges Bank",1990,"environment.lag08",10.836811
+"Georges Bank",1991,"environment.lag08",9.290978
+"Georges Bank",1992,"environment.lag08",10.490144
+"Georges Bank",1993,"environment.lag08",9.495144
+"Georges Bank",1994,"environment.lag08",9.381811
+"Georges Bank",1995,"environment.lag08",8.630144
+"Georges Bank",1996,"environment.lag08",10.423478
+"Georges Bank",1997,"environment.lag08",7.115144
+"Georges Bank",1998,"environment.lag08",8.407644
+"Georges Bank",1999,"environment.lag08",8.746809
+"Georges Bank",2000,"environment.lag08",8.967644
+"Georges Bank",2001,"environment.lag08",9.295978
+"Georges Bank",2002,"environment.lag08",9.632638
+"Georges Bank",2003,"environment.lag08",9.626811
+"Georges Bank",2004,"environment.lag08",8.440144
+"Georges Bank",2005,"environment.lag08",9.433453
+"Georges Bank",2006,"environment.lag08",7.905978
+"Georges Bank",2007,"environment.lag08",10.317644
+"Gulf of Maine",1982,"environment.lag08",8.342871
+"Gulf of Maine",1983,"environment.lag08",8.114819
+"Gulf of Maine",1984,"environment.lag08",8.845366
+"Gulf of Maine",1985,"environment.lag08",8.027866
+"Gulf of Maine",1986,"environment.lag08",7.869533
+"Gulf of Maine",1987,"environment.lag08",8.2737
+"Gulf of Maine",1988,"environment.lag08",8.6937
+"Gulf of Maine",1989,"environment.lag08",8.2612
+"Gulf of Maine",1990,"environment.lag08",8.482866
+"Gulf of Maine",1991,"environment.lag08",8.362033
+"Gulf of Maine",1992,"environment.lag08",8.527033
+"Gulf of Maine",1993,"environment.lag08",8.737033
+"Gulf of Maine",1994,"environment.lag08",8.773922
+"Gulf of Maine",1995,"environment.lag08",7.602033
+"Gulf of Maine",1996,"environment.lag08",7.667033
+"Gulf of Maine",1997,"environment.lag08",8.185366
+"Gulf of Maine",1998,"environment.lag08",8.174533
+"Gulf of Maine",1999,"environment.lag08",8.672033
+"Gulf of Maine",2000,"environment.lag08",7.2337
+"Gulf of Maine",2001,"environment.lag08",7.649533
+"Gulf of Maine",2002,"environment.lag08",8.395366
+"Gulf of Maine",2003,"environment.lag08",8.194533
+"Gulf of Maine",2004,"environment.lag08",7.4112
+"Gulf of Maine",2005,"environment.lag08",7.789577
+"Gulf of Maine",2006,"environment.lag08",7.602866
+"Gulf of Maine",2007,"environment.lag08",8.3937
+"Massachusetts",1986,"environment.lag08",10.4407265
+"Massachusetts",1987,"environment.lag08",11.4883025
+"Massachusetts",1988,"environment.lag08",11.5989155
+"Massachusetts",1989,"environment.lag08",11.1605945
+"Massachusetts",1990,"environment.lag08",11.5091355
+"Massachusetts",1991,"environment.lag08",11.740564
+"Massachusetts",1992,"environment.lag08",11.6660485
+"Massachusetts",1993,"environment.lag08",12.3088235
+"Massachusetts",1994,"environment.lag08",12.181402
+"Massachusetts",1995,"environment.lag08",10.7552505
+"Massachusetts",1996,"environment.lag08",11.275286
+"Massachusetts",1997,"environment.lag08",12.0072485
+"Massachusetts",1998,"environment.lag08",11.9066305
+"Massachusetts",1999,"environment.lag08",12.3728215
+"Massachusetts",2000,"environment.lag08",10.913906
+"Massachusetts",2001,"environment.lag08",11.383308
+"Massachusetts",2002,"environment.lag08",11.6318325
+"Massachusetts",2003,"environment.lag08",12.235662
+"Massachusetts",2004,"environment.lag08",10.3761845
+"Massachusetts",2005,"environment.lag08",11.754993
+"Massachusetts",2006,"environment.lag08",11.2965185
+"Massachusetts",2007,"environment.lag08",12.4864145
+"Newfoundland",1984,"environment.lag08",5.336708
+"Newfoundland",1985,"environment.lag08",4.844041
+"Newfoundland",1986,"environment.lag08",5.237725
+"Newfoundland",1987,"environment.lag08",5.103717
+"Newfoundland",1988,"environment.lag08",5.11285
+"Newfoundland",1989,"environment.lag08",7.026265
+"Newfoundland",1990,"environment.lag08",5.239827
+"Newfoundland",1991,"environment.lag08",6.504437
+"Newfoundland",1992,"environment.lag08",5.555592
+"Newfoundland",1993,"environment.lag08",4.731395
+"Newfoundland",1994,"environment.lag08",4.985387
+"Newfoundland",1995,"environment.lag08",5.046112
+"Nova Scotia",1978,"environment.lag08",6.646836
+"Nova Scotia",1979,"environment.lag08",6.623952
+"Nova Scotia",1980,"environment.lag08",6.149647
+"Nova Scotia",1981,"environment.lag08",6.437556
+"Nova Scotia",1982,"environment.lag08",6.509758
+"Nova Scotia",1983,"environment.lag08",5.976427
+"Nova Scotia",1984,"environment.lag08",6.857277
+"Nova Scotia",1985,"environment.lag08",6.955699
+"Nova Scotia",1986,"environment.lag08",6.391447
+"Nova Scotia",1987,"environment.lag08",6.967084
+"Nova Scotia",1988,"environment.lag08",6.537208
+"Nova Scotia",1989,"environment.lag08",7.274185
+"Nova Scotia",1990,"environment.lag08",7.10381
+"Nova Scotia",1991,"environment.lag08",7.659046
+"Nova Scotia",1992,"environment.lag08",7.045913
+"Nova Scotia",1993,"environment.lag08",5.947796
+"Nova Scotia",1994,"environment.lag08",6.609073
+"Nova Scotia",1995,"environment.lag08",6.4315
+"Nova Scotia",1996,"environment.lag08",6.523669
+"Nova Scotia",1997,"environment.lag08",6.526049
+"Nova Scotia",1998,"environment.lag08",6.811836
+"Nova Scotia",1999,"environment.lag08",6.471909
+"Nova Scotia",2000,"environment.lag08",5.825668
+"Nova Scotia",2001,"environment.lag08",5.954566
+"Nova Scotia",2002,"environment.lag08",6.328824
+"Nova Scotia",2003,"environment.lag08",6.260352
+"Rhode Island",1987,"environment.lag08",13.507145
+"Rhode Island",1988,"environment.lag08",19.45874
+"Rhode Island",1989,"environment.lag08",13.7516765
+"Rhode Island",1990,"environment.lag08",11.969886
+"Rhode Island",1991,"environment.lag08",13.1374375
+"Rhode Island",1992,"environment.lag08",12.9518955
+"Rhode Island",1993,"environment.lag08",12.6852455
+"Rhode Island",1994,"environment.lag08",12.452229
+"Rhode Island",1995,"environment.lag08",12.257245
+"Rhode Island",1996,"environment.lag08",13.7465495
+"Rhode Island",1997,"environment.lag08",11.7203565
+"Rhode Island",1998,"environment.lag08",12.7785485
+"Rhode Island",1999,"environment.lag08",13.710896
+"Rhode Island",2000,"environment.lag08",12.25371
+"Rhode Island",2001,"environment.lag08",18.816455
+"Rhode Island",2002,"environment.lag08",11.85857
+"Rhode Island",2003,"environment.lag08",13.0166655
+"Rhode Island",2004,"environment.lag08",11.588692
+"Rhode Island",2005,"environment.lag08",13.06643
+"Rhode Island",2006,"environment.lag08",13.303933
+"s Gulf St Lawrence",1984,"environment.lag08",8.372911
+"s Gulf St Lawrence",1985,"environment.lag08",8.327696
+"s Gulf St Lawrence",1986,"environment.lag08",6.944267
+"s Gulf St Lawrence",1987,"environment.lag08",8.204254
+"s Gulf St Lawrence",1988,"environment.lag08",9.158224
+"s Gulf St Lawrence",1989,"environment.lag08",7.915236
+"s Gulf St Lawrence",1990,"environment.lag08",8.245982
+"s Gulf St Lawrence",1991,"environment.lag08",8.503666
+"s Gulf St Lawrence",1992,"environment.lag08",8.336845
+"s Gulf St Lawrence",1993,"environment.lag08",8.106199
+"s Gulf St Lawrence",1994,"environment.lag08",8.84023
+"s Gulf St Lawrence",1995,"environment.lag08",7.465728
+"s Gulf St Lawrence",1996,"environment.lag08",8.515455
+"s Gulf St Lawrence",1997,"environment.lag08",8.900337
+"s Gulf St Lawrence",1998,"environment.lag08",8.124107
+"s Gulf St Lawrence",1999,"environment.lag08",9.175531
+"s Gulf St Lawrence",2000,"environment.lag08",6.909842
+"s Gulf St Lawrence",2001,"environment.lag08",7.209249
+"s Gulf St Lawrence",2002,"environment.lag08",7.742686
+"s Gulf St Lawrence",2003,"environment.lag08",7.895619
+"s Gulf St Lawrence",2004,"environment.lag08",8.376033
+"s Gulf St Lawrence",2005,"environment.lag08",6.121188
+"s Gulf St Lawrence",2006,"environment.lag08",8.471569
+"s Gulf St Lawrence",2007,"environment.lag08",7.523642
+"s New England",1982,"environment.lag08",16.657752
+"s New England",1983,"environment.lag08",15.659175
+"s New England",1984,"environment.lag08",15.257379
+"s New England",1985,"environment.lag08",14.760695
+"s New England",1986,"environment.lag08",13.01192
+"s New England",1987,"environment.lag08",14.702905
+"s New England",1988,"environment.lag08",14.504131
+"s New England",1989,"environment.lag08",14.059989
+"s New England",1990,"environment.lag08",14.535405
+"s New England",1991,"environment.lag08",15.119095
+"s New England",1992,"environment.lag08",14.805064
+"s New England",1993,"environment.lag08",15.880614
+"s New England",1994,"environment.lag08",15.588882
+"s New England",1995,"environment.lag08",13.908468
+"s New England",1996,"environment.lag08",14.883539
+"s New England",1997,"environment.lag08",15.829131
+"s New England",1998,"environment.lag08",15.638728
+"s New England",1999,"environment.lag08",16.07361
+"s New England",2000,"environment.lag08",14.594112
+"s New England",2001,"environment.lag08",15.117083
+"s New England",2002,"environment.lag08",14.868299
+"s New England",2003,"environment.lag08",16.276791
+"s New England",2004,"environment.lag08",13.341169
+"s New England",2005,"environment.lag08",15.720409
+"s New England",2006,"environment.lag08",14.990171
+"s New England",2007,"environment.lag08",16.579129
+"Connecticut",1999,"predator.lag08",1.89
+"Connecticut",2000,"predator.lag08",1.94
+"Connecticut",2001,"predator.lag08",1.7
+"Connecticut",2002,"predator.lag08",1.27
+"Connecticut",2003,"predator.lag08",1.23
+"Connecticut",2004,"predator.lag08",1.96
+"Connecticut",2005,"predator.lag08",1.86
+"Connecticut",2006,"predator.lag08",2.12
+"Connecticut",2007,"predator.lag08",2.44
+"Georges Bank",1982,"predator.lag08",22.8517
+"Georges Bank",1983,"predator.lag08",54.0505
+"Georges Bank",1984,"predator.lag08",22.3087
+"Georges Bank",1985,"predator.lag08",40.7983
+"Georges Bank",1986,"predator.lag08",35.5865
+"Georges Bank",1987,"predator.lag08",32.2854
+"Georges Bank",1988,"predator.lag08",31.5494
+"Georges Bank",1989,"predator.lag08",25.0786
+"Georges Bank",1990,"predator.lag08",13.5581
+"Georges Bank",1991,"predator.lag08",12.1441
+"Georges Bank",1992,"predator.lag08",11.611
+"Georges Bank",1993,"predator.lag08",9.311
+"Georges Bank",1994,"predator.lag08",22.4801
+"Georges Bank",1995,"predator.lag08",25.2334
+"Georges Bank",1996,"predator.lag08",16.5651
+"Georges Bank",1997,"predator.lag08",39.3308
+"Georges Bank",1998,"predator.lag08",34.655
+"Georges Bank",1999,"predator.lag08",17.5613
+"Georges Bank",2000,"predator.lag08",35.0175
+"Georges Bank",2001,"predator.lag08",20.1191
+"Georges Bank",2002,"predator.lag08",25.1198
+"Georges Bank",2003,"predator.lag08",30.4133
+"Georges Bank",2004,"predator.lag08",28.0619
+"Georges Bank",2005,"predator.lag08",32.8292
+"Georges Bank",2006,"predator.lag08",59.7722
+"Georges Bank",2007,"predator.lag08",20.6887
+"Gulf of Maine",1982,"predator.lag08",7.0118
+"Gulf of Maine",1983,"predator.lag08",7.6894
+"Gulf of Maine",1984,"predator.lag08",6.7021
+"Gulf of Maine",1985,"predator.lag08",7.5902
+"Gulf of Maine",1986,"predator.lag08",12.8537
+"Gulf of Maine",1987,"predator.lag08",7.9895
+"Gulf of Maine",1988,"predator.lag08",13.7137
+"Gulf of Maine",1989,"predator.lag08",11.137
+"Gulf of Maine",1990,"predator.lag08",10.7307
+"Gulf of Maine",1991,"predator.lag08",10.827
+"Gulf of Maine",1992,"predator.lag08",10.5018
+"Gulf of Maine",1993,"predator.lag08",10.3804
+"Gulf of Maine",1994,"predator.lag08",7.3211
+"Gulf of Maine",1995,"predator.lag08",6.3766
+"Gulf of Maine",1996,"predator.lag08",10.7453
+"Gulf of Maine",1997,"predator.lag08",11.8778
+"Gulf of Maine",1998,"predator.lag08",9.3519
+"Gulf of Maine",1999,"predator.lag08",9.7547
+"Gulf of Maine",2000,"predator.lag08",10.2263
+"Gulf of Maine",2001,"predator.lag08",11.0249
+"Gulf of Maine",2002,"predator.lag08",10.2708
+"Gulf of Maine",2003,"predator.lag08",12.7775
+"Gulf of Maine",2004,"predator.lag08",11.2634
+"Gulf of Maine",2005,"predator.lag08",8.6199
+"Gulf of Maine",2006,"predator.lag08",6.1142
+"Gulf of Maine",2007,"predator.lag08",10.4616
+"Massachusetts",1986,"predator.lag08",122.111927
+"Massachusetts",1987,"predator.lag08",81.8724235
+"Massachusetts",1988,"predator.lag08",69.8980036
+"Massachusetts",1989,"predator.lag08",77.51781415
+"Massachusetts",1990,"predator.lag08",56.35925115
+"Massachusetts",1991,"predator.lag08",72.57587475
+"Massachusetts",1992,"predator.lag08",66.7448305
+"Massachusetts",1993,"predator.lag08",46.64070835
+"Massachusetts",1994,"predator.lag08",44.8586293
+"Massachusetts",1995,"predator.lag08",187.9539191
+"Massachusetts",1996,"predator.lag08",43.32072285
+"Massachusetts",1997,"predator.lag08",52.8431886
+"Massachusetts",1998,"predator.lag08",58.1374457
+"Massachusetts",1999,"predator.lag08",40.1957049
+"Massachusetts",2000,"predator.lag08",70.54648525
+"Massachusetts",2001,"predator.lag08",133.56071275
+"Massachusetts",2002,"predator.lag08",81.4810195
+"Massachusetts",2003,"predator.lag08",102.417707
+"Massachusetts",2004,"predator.lag08",65.48795065
+"Massachusetts",2005,"predator.lag08",51.30427265
+"Massachusetts",2006,"predator.lag08",64.2211719
+"Massachusetts",2007,"predator.lag08",130.37565885
+"Newfoundland",1984,"predator.lag08",134.491
+"Newfoundland",1985,"predator.lag08",59.886
+"Newfoundland",1986,"predator.lag08",44.2
+"Newfoundland",1987,"predator.lag08",40.299
+"Newfoundland",1988,"predator.lag08",64.909
+"Newfoundland",1989,"predator.lag08",91.29
+"Newfoundland",1990,"predator.lag08",56.975
+"Newfoundland",1991,"predator.lag08",115.128
+"Newfoundland",1992,"predator.lag08",39.769
+"Newfoundland",1993,"predator.lag08",87.318
+"Newfoundland",1994,"predator.lag08",34.239
+"Newfoundland",1995,"predator.lag08",53.42
+"Nova Scotia",1978,"predator.lag08",38.712787479
+"Nova Scotia",1979,"predator.lag08",32.753901718
+"Nova Scotia",1980,"predator.lag08",30.065774902
+"Nova Scotia",1981,"predator.lag08",39.38430372
+"Nova Scotia",1982,"predator.lag08",34.872221013
+"Nova Scotia",1983,"predator.lag08",40.457599808
+"Nova Scotia",1984,"predator.lag08",31.148038587
+"Nova Scotia",1985,"predator.lag08",40.481227919
+"Nova Scotia",1986,"predator.lag08",37.861166381
+"Nova Scotia",1987,"predator.lag08",41.05553565
+"Nova Scotia",1988,"predator.lag08",35.981734647
+"Nova Scotia",1989,"predator.lag08",52.304163335
+"Nova Scotia",1990,"predator.lag08",40.862787527
+"Nova Scotia",1991,"predator.lag08",42.595437487
+"Nova Scotia",1992,"predator.lag08",42.25914985
+"Nova Scotia",1993,"predator.lag08",45.422934613
+"Nova Scotia",1994,"predator.lag08",31.150374633
+"Nova Scotia",1995,"predator.lag08",32.788339516
+"Nova Scotia",1996,"predator.lag08",38.302713025
+"Nova Scotia",1997,"predator.lag08",28.326616448
+"Nova Scotia",1998,"predator.lag08",25.274136743
+"Nova Scotia",1999,"predator.lag08",22.341086836
+"Nova Scotia",2000,"predator.lag08",21.935841284
+"Nova Scotia",2001,"predator.lag08",15.209094736
+"Nova Scotia",2002,"predator.lag08",12.884499333
+"Nova Scotia",2003,"predator.lag08",14.163560859
+"Rhode Island",1987,"predator.lag08",2.444046844
+"Rhode Island",1988,"predator.lag08",2.043108974
+"Rhode Island",1989,"predator.lag08",5.3118221335
+"Rhode Island",1990,"predator.lag08",6.016464982
+"Rhode Island",1991,"predator.lag08",5.104080365
+"Rhode Island",1992,"predator.lag08",4.811748798
+"Rhode Island",1993,"predator.lag08",6.663040902
+"Rhode Island",1994,"predator.lag08",3.008309292
+"Rhode Island",1995,"predator.lag08",1.736048266
+"Rhode Island",1996,"predator.lag08",1.1669435215
+"Rhode Island",1997,"predator.lag08",1.904761905
+"Rhode Island",1998,"predator.lag08",5.583333333
+"Rhode Island",1999,"predator.lag08",1.1815183365
+"Rhode Island",2000,"predator.lag08",0.754761905
+"Rhode Island",2001,"predator.lag08",0.7161890395
+"Rhode Island",2002,"predator.lag08",0.482142857
+"Rhode Island",2003,"predator.lag08",1.547619048
+"Rhode Island",2004,"predator.lag08",2.503246753
+"Rhode Island",2005,"predator.lag08",0.2976190475
+"Rhode Island",2006,"predator.lag08",1.486353078
+"s Gulf St Lawrence",1984,"predator.lag08",5.356015356
+"s Gulf St Lawrence",1985,"predator.lag08",5.61952756
+"s Gulf St Lawrence",1986,"predator.lag08",9.107732005
+"s Gulf St Lawrence",1987,"predator.lag08",9.545923468
+"s Gulf St Lawrence",1988,"predator.lag08",10.025051403
+"s Gulf St Lawrence",1989,"predator.lag08",15.50166098
+"s Gulf St Lawrence",1990,"predator.lag08",6.211165946
+"s Gulf St Lawrence",1991,"predator.lag08",4.725072811
+"s Gulf St Lawrence",1992,"predator.lag08",6.309847403
+"s Gulf St Lawrence",1993,"predator.lag08",10.063247822
+"s Gulf St Lawrence",1994,"predator.lag08",13.49395748
+"s Gulf St Lawrence",1995,"predator.lag08",7.300118179
+"s Gulf St Lawrence",1996,"predator.lag08",10.328265489
+"s Gulf St Lawrence",1997,"predator.lag08",7.106372335
+"s Gulf St Lawrence",1998,"predator.lag08",7.591020886
+"s Gulf St Lawrence",1999,"predator.lag08",8.089962245
+"s Gulf St Lawrence",2000,"predator.lag08",5.60144151
+"s Gulf St Lawrence",2001,"predator.lag08",3.824391063
+"s Gulf St Lawrence",2002,"predator.lag08",3.716135338
+"s Gulf St Lawrence",2003,"predator.lag08",2.168474469
+"s Gulf St Lawrence",2004,"predator.lag08",2.979294051
+"s Gulf St Lawrence",2005,"predator.lag08",2.853908784
+"s Gulf St Lawrence",2006,"predator.lag08",3.426484005
+"s Gulf St Lawrence",2007,"predator.lag08",3.022792355
+"s New England",1982,"predator.lag08",1.925
+"s New England",1983,"predator.lag08",5.51
+"s New England",1984,"predator.lag08",6.27
+"s New England",1985,"predator.lag08",4.581
+"s New England",1986,"predator.lag08",3.211
+"s New England",1987,"predator.lag08",4.059
+"s New England",1988,"predator.lag08",3.436
+"s New England",1989,"predator.lag08",4.221
+"s New England",1990,"predator.lag08",7.777
+"s New England",1991,"predator.lag08",2.874
+"s New England",1992,"predator.lag08",3.764
+"s New England",1993,"predator.lag08",2.327
+"s New England",1994,"predator.lag08",1.56
+"s New England",1995,"predator.lag08",2.087
+"s New England",1996,"predator.lag08",1.632
+"s New England",1997,"predator.lag08",2.88
+"s New England",1998,"predator.lag08",4.533
+"s New England",1999,"predator.lag08",1.732
+"s New England",2000,"predator.lag08",1.704
+"s New England",2001,"predator.lag08",1.137
+"s New England",2002,"predator.lag08",4.551
+"s New England",2003,"predator.lag08",1.56
+"s New England",2004,"predator.lag08",2.125
+"s New England",2005,"predator.lag08",2.561
+"s New England",2006,"predator.lag08",2.937
+"s New England",2007,"predator.lag08",4.07

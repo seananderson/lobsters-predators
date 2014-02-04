@@ -25,6 +25,8 @@ source("plot.time.series.R")
 source("shape.data.for.meta.analysis.R")
 
 # conduct the meta-analysis calculations:
+rma.type <- "RE" # one of RE (random effect), FE (fixed effect), or
+# MV (rma.mv with a specified variance structure)
 source("meta.analytic.models.R")
 
 # make exploratory plots (and create prediction data):

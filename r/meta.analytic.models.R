@@ -23,16 +23,19 @@ d.ri.env.pred <- ddply(d.env.pred, c("region"), function(x){
 })
 
 d.rma <- dlply(d.ri, c("variable", "lag"), function(x) {
-               m <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", method = "EB", slab = x$region)
-list(model = m, variable = unique(x$variable))
+  m <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", method = "EB", 
+    slab = x$region)
+  list(model = m, variable = unique(x$variable))
 }) 
 
-d.rma.env.pred <- rma.uni(ri = ri, ni = ni, data = d.ri.env.pred, measure = "ZCOR", method = "REML", slab = d.ri.env.pred$region)
+d.rma.env.pred <- rma.uni(ri = ri, ni = ni, data = d.ri.env.pred, 
+  measure = "ZCOR", method = "REML", slab = d.ri.env.pred$region)
 
 
 get_pred_env_rma_out <- function(x) {
   blups <- blup.rma.uni(x, transf = transf.ztor)
-  out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, pi.ub = blups$pi.ub)
+  out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, 
+    pi.ub = blups$pi.ub)
   avg <- predict(x, transf = transf.ztor)
   out.df$ma.pred <- avg$pred
   out.df$ma.ci.lb <- avg$ci.lb
@@ -51,7 +54,8 @@ d.ri.cis <- adply(d.ri, 1, function(x) {
 
 out <- ldply(d.rma, function(x){
       blups <- blup.rma.uni(x$model, transf = transf.ztor)
-      out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, pi.ub = blups$pi.ub)
+      out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, 
+        pi.ub = blups$pi.ub)
       avg <- predict(x$model, transf = transf.ztor)
       out.df$ma.pred <- avg$pred
       out.df$ma.ci.lb <- avg$ci.lb
@@ -62,7 +66,8 @@ out <- ldply(d.rma, function(x){
 })
 
 # meta analytic averages:
-out.ma <- ddply(out, c("lag", "variable"), summarize, ma.pred = ma.pred[1], ma.ci.lb = ma.ci.lb[1], ma.ci.ub = ma.ci.ub[1])
+out.ma <- ddply(out, c("lag", "variable"), summarize, ma.pred = ma.pred[1], 
+  ma.ci.lb = ma.ci.lb[1], ma.ci.ub = ma.ci.ub[1])
 
 # now let's see about a polynomial relationship for mean.temp as a
 # moderator:
@@ -76,31 +81,70 @@ d.ri <- transform(d.ri, mean.temp.sq = mean.temp^2)
  # AIC(m)
  # AIC(m2)
 
+region_group_df <- data.frame(region = c("Connecticut", "Georges Bank", 
+  "Gulf of Maine", "Massachusetts", "Newfoundland", "Nova Scotia", 
+  "Rhode Island", "s Gulf St Lawrence", "s New England"), 
+  region.group = c(1, 2, 3, 1, 4, 5, 1, 6, 1), stringsAsFactors = FALSE)
+
+d.ri$region.group <- NULL
+d.ri <- plyr::join(d.ri, region_group_df)
+
+if(!exists(rma.type)) rma.type <- "RE"
+if(!rma.type %in% c("RE", "FE", "MV")) {
+  warning("rma.type must be one of RE, FE, or MV. Defaulting to RE.")
+  rma.type <- "RE"
+}
+
 d.rma.mods <- dlply(d.ri, c("variable", "lag"), function(x) {
-    mods <- as.matrix(x[,c("mean.temp", "mean.temp.sq")])
-               m <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", method = "REML", slab = x$region, mods = mods)
-list(model = m, variable = unique(x$variable))
+  mods <- as.matrix(x[,c("mean.temp", "mean.temp.sq")])
+  m.re <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", 
+    method = "REML", slab = x$region, mods = mods)  
+  temp <- escalc(ri = ri, ni = ni, data = x, measure = "ZCOR")
+  
+  m.fe <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", 
+    method = "FE", slab = x$region, mods = mods) 
+  
+#   m.mv0 <- rma.mv(yi = yi, V = vi, data = temp, method = "REML", 
+#     slab = x$region, mods = mods)
+#   
+#   m.mv1 <- rma.mv(yi = yi, V = vi, data = temp, method = "REML", 
+#     slab = x$region, mods = mods, random = ~ 1 | region)
+  
+  m.mv <- rma.mv(yi = yi, V = vi, data = temp, method = "REML", 
+    slab = x$region, mods = mods, random = ~ region | region.group,
+    struct = "CS") # Compound symmetry variance structure with SNE grouped
+  
+  if(rma.type == "RE") return(list(model = m.re, variable = unique(x$variable)))
+  if(rma.type == "FE") return(list(model = m.fe, variable = unique(x$variable)))
+  if(rma.type == "MV") return(list(model = m.mv, variable = unique(x$variable)))
 }) 
 
 out.mods <- ldply(d.rma.mods, function(x){
-      blups <- blup.rma.uni(x$model, transf = transf.ztor)
-      out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, pi.ub = blups$pi.ub)
-      avg <- predict(x$model, transf = transf.ztor)
-      out.df$ma.pred <- avg$pred
-      out.df$ma.pred.ci.lb <- avg$ci.lb
-      out.df$ma.pred.ci.ub <- avg$ci.ub
-      out.df$region <- x$model$slab
-      out.df$variable <- x$variable
-      out.df$b.int <- x$model$b[1]
-      out.df$b.ci.l.int <- x$model$ci.lb[1]
-      out.df$b.ci.u.int <- x$model$ci.ub[1]
-      out.df$b.mean.temp <- x$model$b[2]
-      out.df$b.ci.l.mean.temp <- x$model$ci.lb[2]
-      out.df$b.ci.u.mean.temp <- x$model$ci.ub[2]
-      out.df$b.mean.temp.sq <- x$model$b[3]
-      out.df$b.ci.l.mean.temp.sq <- x$model$ci.lb[3]
-      out.df$b.ci.u.mean.temp.sq <- x$model$ci.ub[3]
-      out.df
+  if(rma.type != "MV") {
+    blups <- blup.rma.uni(x$model, transf = transf.ztor)
+    out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, 
+      pi.ub = blups$pi.ub)
+  } else {
+    # fake data... this doesn't get used anywhere that's important now:
+    out.df <- data.frame(pred = rep(0, 9), pi.l = rep(-0.1, 9), 
+      pi.ub = rep(0.1, 9))    
+  }
+  avg <- predict(x$model, transf = transf.ztor)
+  out.df$ma.pred <- avg$pred
+  out.df$ma.pred.ci.lb <- avg$ci.lb
+  out.df$ma.pred.ci.ub <- avg$ci.ub
+  out.df$region <- x$model$slab
+  out.df$variable <- x$variable
+  out.df$b.int <- x$model$b[1]
+  out.df$b.ci.l.int <- x$model$ci.lb[1]
+  out.df$b.ci.u.int <- x$model$ci.ub[1]
+  out.df$b.mean.temp <- x$model$b[2]
+  out.df$b.ci.l.mean.temp <- x$model$ci.lb[2]
+  out.df$b.ci.u.mean.temp <- x$model$ci.ub[2]
+  out.df$b.mean.temp.sq <- x$model$b[3]
+  out.df$b.ci.l.mean.temp.sq <- x$model$ci.lb[3]
+  out.df$b.ci.u.mean.temp.sq <- x$model$ci.ub[3]
+  out.df
 })
 
 # by lag and variable:                    
@@ -110,7 +154,8 @@ out.mods.ma <- out.mods.ma[!duplicated(out.mods.ma),]
 temps <- seq(4, 16, length.out = 50)
 #curve_lag3 <- data.frame(temps= temps, ri_pred = z2r(temps * x$b.mean.temp + temps^2 * x$b.mean.temp.sq + x$b.int))
 curves <- ddply(out.mods.ma, c("lag", "variable"), function(x) {
-  data.frame(temps= temps, ri_pred = z2r(temps * x$b.mean.temp + temps^2 * x$b.mean.temp.sq + x$b.int)) 
+  data.frame(temps= temps, ri_pred = z2r(temps * x$b.mean.temp + 
+      temps^2 * x$b.mean.temp.sq + x$b.int)) 
 })
 
 out.mods <- join(out.mods, region.temp)

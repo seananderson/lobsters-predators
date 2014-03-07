@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2012
-# Last modified: Aug 26, 2013
+# Last modified: Mar 06, 2014
 # Purpose:       Steps for meta-analysis-style
 # lobster-predators-temperature-NAOI paper.
 
@@ -11,14 +11,13 @@ library(plyr)
 library(metafor)
 #library(nlme)
 
-setwd("r")
 # regions to import; these names must match the names on the tabs in
 # the spreadsheet
 regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts", "Rhode Island", "Connecticut", "s Gulf St Lawrence", "Nova Scotia", "Newfoundland")
 source("make.lagged.data.R")
 
 # plot the raw time series for publication:
-source("plot.time.series.R")   
+source("plot.time.series.R")
 
 # reshape the data for use in the meta-analysis
 # this combines the temperature, nao, predator, and prey time series
@@ -37,6 +36,9 @@ source("meta.analytic.curves.plot.R")
 
 # make effort correlation plots:
 source("effort.cor.plots.r")
+
+# check the residuals for spatial patterns:
+source("check.spatial.autocorr.R")
 
 # supplementary plot of correlations by predator:
 source("calc.individual.predator.corr.R")

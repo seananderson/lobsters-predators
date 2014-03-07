@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2013
-# Last modified: Apr 01, 2013
+# Last modified: Mar 06, 2014
 # Purpose:       conduct the meta-analysis
 
 source("Autocorr.Pyper.r")
@@ -23,18 +23,18 @@ d.ri.env.pred <- ddply(d.env.pred, c("region"), function(x){
 })
 
 d.rma <- dlply(d.ri, c("variable", "lag"), function(x) {
-  m <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", method = "EB", 
+  m <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", method = "EB",
     slab = x$region)
   list(model = m, variable = unique(x$variable))
-}) 
+})
 
-d.rma.env.pred <- rma.uni(ri = ri, ni = ni, data = d.ri.env.pred, 
+d.rma.env.pred <- rma.uni(ri = ri, ni = ni, data = d.ri.env.pred,
   measure = "ZCOR", method = "REML", slab = d.ri.env.pred$region)
 
 
 get_pred_env_rma_out <- function(x) {
   blups <- blup.rma.uni(x, transf = transf.ztor)
-  out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, 
+  out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb,
     pi.ub = blups$pi.ub)
   avg <- predict(x, transf = transf.ztor)
   out.df$ma.pred <- avg$pred
@@ -54,7 +54,7 @@ d.ri.cis <- adply(d.ri, 1, function(x) {
 
 out <- ldply(d.rma, function(x){
       blups <- blup.rma.uni(x$model, transf = transf.ztor)
-      out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, 
+      out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb,
         pi.ub = blups$pi.ub)
       avg <- predict(x$model, transf = transf.ztor)
       out.df$ma.pred <- avg$pred
@@ -66,7 +66,7 @@ out <- ldply(d.rma, function(x){
 })
 
 # meta analytic averages:
-out.ma <- ddply(out, c("lag", "variable"), summarize, ma.pred = ma.pred[1], 
+out.ma <- ddply(out, c("lag", "variable"), summarize, ma.pred = ma.pred[1],
   ma.ci.lb = ma.ci.lb[1], ma.ci.ub = ma.ci.ub[1])
 
 # now let's see about a polynomial relationship for mean.temp as a
@@ -81,9 +81,9 @@ d.ri <- transform(d.ri, mean.temp.sq = mean.temp^2)
  # AIC(m)
  # AIC(m2)
 
-region_group_df <- data.frame(region = c("Connecticut", "Georges Bank", 
-  "Gulf of Maine", "Massachusetts", "Newfoundland", "Nova Scotia", 
-  "Rhode Island", "s Gulf St Lawrence", "s New England"), 
+region_group_df <- data.frame(region = c("Connecticut", "Georges Bank",
+  "Gulf of Maine", "Massachusetts", "Newfoundland", "Nova Scotia",
+  "Rhode Island", "s Gulf St Lawrence", "s New England"),
   region.group = c(1, 2, 3, 1, 4, 5, 1, 6, 1), stringsAsFactors = FALSE)
 
 d.ri$region.group <- NULL
@@ -97,45 +97,45 @@ if(!rma.type %in% c("RE", "FE", "MV", "RB")) {
 
 d.rma.mods <- dlply(d.ri, c("variable", "lag"), function(x) {
   mods <- as.matrix(x[,c("mean.temp", "mean.temp.sq")])
-  m.re <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", 
-    method = "REML", slab = x$region, mods = mods)  
+  m.re <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR",
+    method = "REML", slab = x$region, mods = mods)
   temp <- escalc(ri = ri, ni = ni, data = x, measure = "ZCOR")
-  
-  m.fe <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR", 
-    method = "FE", slab = x$region, mods = mods) 
-  
-#   m.mv0 <- rma.mv(yi = yi, V = vi, data = temp, method = "REML", 
+
+  m.fe <- rma.uni(ri = ri, ni = ni, data = x, measure = "ZCOR",
+    method = "FE", slab = x$region, mods = mods)
+
+#   m.mv0 <- rma.mv(yi = yi, V = vi, data = temp, method = "REML",
 #     slab = x$region, mods = mods)
-#   
-#   m.mv1 <- rma.mv(yi = yi, V = vi, data = temp, method = "REML", 
+#
+#   m.mv1 <- rma.mv(yi = yi, V = vi, data = temp, method = "REML",
 #     slab = x$region, mods = mods, random = ~ 1 | region)
-  
-  m.mv <- rma.mv(yi = yi, V = vi, data = temp, method = "REML", 
+
+  m.mv <- rma.mv(yi = yi, V = vi, data = temp, method = "REML",
     slab = x$region, mods = mods, random = ~ region | region.group,
     struct = "CS") # Compound symmetry variance structure with SNE grouped
-  
-  require(robustmeta)
-  m.rb <- rrma(yi ~ mean.temp + mean.temp.sq, study_id = region.group,
-    var_eff_size = vi, rho = 0.3, data = temp)
-  m.rb$input_data <- merge(m.rb$knput_data, 
-    temp[,c("region", "yi")], by.x = "effect_size", by.y = "yi")
-  
+
+  #require(robustmeta)
+  #m.rb <- rrma(yi ~ mean.temp + mean.temp.sq, study_id = region.group,
+    #var_eff_size = vi, rho = 0.3, data = temp)
+  #m.rb$input_data <- merge(m.rb$knput_data,
+    #temp[,c("region", "yi")], by.x = "effect_size", by.y = "yi")
+
   if(rma.type == "RE") return(list(model = m.re, variable = unique(x$variable)))
   if(rma.type == "FE") return(list(model = m.fe, variable = unique(x$variable)))
   if(rma.type == "MV") return(list(model = m.mv, variable = unique(x$variable)))
   if(rma.type == "RB") return(list(model = m.rb, variable = unique(x$variable)))
-}) 
+})
 
 out.mods <- ldply(d.rma.mods, function(x){
   if(rma.type %in% c("FE", "RE")) {
     blups <- blup.rma.uni(x$model, transf = transf.ztor)
-    out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb, 
+    out.df <- data.frame(pred = blups$pred, pi.lb = blups$pi.lb,
       pi.ub = blups$pi.ub)
-  } 
+  }
   if(rma.type %in% c("RE", "FE", "RB")) {
     # fake data... this doesn't get used anywhere that's important now:
-    out.df <- data.frame(pred = rep(0, 9), pi.l = rep(-0.1, 9), 
-      pi.ub = rep(0.1, 9))    
+    out.df <- data.frame(pred = rep(0, 9), pi.l = rep(-0.1, 9),
+      pi.ub = rep(0.1, 9))
   }
   if(rma.type != "RB") {
   avg <- predict(x$model, transf = transf.ztor)
@@ -159,7 +159,7 @@ out.mods <- ldply(d.rma.mods, function(x){
   out.df$ma.pred <- transf.ztor(avg$fit)
   out.df$ma.pred.ci.lb <- transf.ztor(avg$lwr)
   out.df$ma.pred.ci.up <- transf.ztor(avg$upr)
-    
+
   out.df$region <- x$model$input_data$region
     out.df$variable <- x$variable
     out.df$b.int <- x$model$est$estimate[1]
@@ -175,15 +175,15 @@ out.mods <- ldply(d.rma.mods, function(x){
   out.df
 })
 
-# by lag and variable:                    
+# by lag and variable:
 out.mods.ma <- out.mods[,-c(2, 3, 4, 5, 6, 7,8)] # just stuff that doesn't vary within a given model
 out.mods.ma <- out.mods.ma[!duplicated(out.mods.ma),]
 
 temps <- seq(4, 16, length.out = 50)
 #curve_lag3 <- data.frame(temps= temps, ri_pred = z2r(temps * x$b.mean.temp + temps^2 * x$b.mean.temp.sq + x$b.int))
 curves <- ddply(out.mods.ma, c("lag", "variable"), function(x) {
-  data.frame(temps= temps, ri_pred = z2r(temps * x$b.mean.temp + 
-      temps^2 * x$b.mean.temp.sq + x$b.int)) 
+  data.frame(temps= temps, ri_pred = z2r(temps * x$b.mean.temp +
+      temps^2 * x$b.mean.temp.sq + x$b.int))
 })
 
 out.mods <- join(out.mods, region.temp)

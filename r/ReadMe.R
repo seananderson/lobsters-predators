@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2012
-# Last modified: May 05, 2014
+# Last modified: May 06, 2014
 # Purpose:       Steps for meta-analysis-style
 # lobster-predators-temperature-NAOI paper.
 
@@ -14,7 +14,11 @@ library(metafor)
 # regions to import; these names must match the names on the tabs in
 # the spreadsheet
 regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts", "Rhode Island", "Connecticut", "s Gulf St Lawrence", "Nova Scotia", "Newfoundland")
+#regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts", "Rhode Island", "Connecticut")
 source("make.lagged.data.R")
+
+# make effort lagged data:
+source("effort.correlations.r")
 
 # plot the raw time series for publication:
 source("plot.time.series.R")

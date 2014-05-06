@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2012
-# Last modified: Mar 06, 2014
+# Last modified: May 05, 2014
 # Purpose:       Steps for meta-analysis-style
 # lobster-predators-temperature-NAOI paper.
 
@@ -24,7 +24,7 @@ source("plot.time.series.R")
 source("shape.data.for.meta.analysis.R")
 
 # conduct the meta-analysis calculations:
-rma.type <- "RE" # one of RE (random effect), FE (fixed effect), or
+rma.type <- "FE" # one of RE (random effect), FE (fixed effect), or
 # MV (rma.mv with a specified variance structure)
 source("meta.analytic.models.R")
 

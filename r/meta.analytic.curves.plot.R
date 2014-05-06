@@ -7,7 +7,7 @@
 x <- subset(curve_predictions, variable == "predator" & lag == "3")
 x.pts <- subset(pt.dat, variable == "predator" & lag == "3")
 
-panel_func <- function(x, the.pt.dat, xlim = c(3.3, 16.8), add.axis2 = 1:8, add.axis2.bottom = 9, add.axis1 = c(9, 18, 27), print.lag = c(19:27), add.sig.star = c(3, 4, 5, 6, 14, 15, 16, 17,18)) {
+panel_func <- function(x, the.pt.dat, xlim = c(3.3, 16.8), add.axis2 = 1:8, add.axis2.bottom = 9, add.axis1 = c(9, 18, 27), print.lag = c(19:27), add.sig.star = c(3, 4, 5, 6, 12, 14, 15, 16, 17,18)) {
   current_lag <- x$lag[1]
   current_variable <- x$variable[1]
   axis.cols <- "grey40"

@@ -15,5 +15,5 @@ mtext(expression(Mean~temperature~(degree*C)), side = 1, outer = TRUE, line = 2.
 mtext("Effort", side = 3, outer = TRUE, adj = 0.5, cex = 0.8, col = "grey30", line = 0.3)
 par(xpd = NA)
 legend(x = 1.5, y = -2.0, legend = rev(levels(pt.dat.effort$region))[1:5], col = rev(region.cols)[1:5], lty = 1, bty = "n", pch = 20, text.col = "grey30")
-legend(x = 10.5, y = -2.0, legend = rev(levels(pt.dat.effort$region))[6:9], col = rev(region.cols)[6:9], lty = 1, pch = 20, bty = "n", text.col = "grey30")
+legend(x = 10.5, y = -2.0, legend = rev(levels(pt.dat.effort$region))[6:length(unique(d$region))], col = rev(region.cols)[6:length(unique(d$region))], lty = 1, pch = 20, bty = "n", text.col = "grey30")
 dev.off()

@@ -1,0 +1,4 @@
+See the screenshot file. Run on 2013-08-26 by Sean from this URL:
+http://bluefin2.dfo-mpo.gc.ca/climqry/index-e.html
+
+Note, that I also ticked "complete profile" before submitting the query.

@@ -26,7 +26,7 @@ par(mar = c(0, 3, 0, 0))
 par(oma = c(4.5,1,2,3))
 par(cex = 0.7)
 par(mgp = c(1.6, .4, 0))
-par(tck = -0.035)
+par(tck = 0.035)
 i <<- 1
 
 hom.dat.to.plot.1960 <- subset(hom.dat.to.plot, year >=1960)
@@ -36,18 +36,18 @@ d_ply(hom.dat.to.plot.1960, c("ordered.type", "ordered.region"), function(x) {
       par(xpd = NA)
 current.units <- unique(x$units)[1]
 if(current.units %in% c("deg C", "Deg C", "C | ", "mean C", "C")) current.units <- expression(degree*C)
-if(unique(x$type) == "environment") 
-  ylim <- c(min(x$combined.value)*0.9, max(x$combined.value)*1.1) 
+if(unique(x$type) == "environment")
+  ylim <- c(min(x$combined.value)*0.9, max(x$combined.value)*1.1)
 else
   ylim <- c(0, max(x$combined.value) * 1.1)
-  
+
   with(x, plot(year, combined.value, xlim = c(1960, 2010), axes = FALSE, ylab= current.units, ylim = ylim, xlab = "", lwd = 0.9, type = "l", yaxs = "i"))
 if(unique(x$type == "prey")) {
   par(new = TRUE)
   with(x, plot(year, effort.value, xlim = c(1960, 2010), axes = FALSE, ylab= "", xlab = "", lwd = 0.9, type = "l", lty = 2, ylim = c(0, max(effort.value, na.rm = TRUE))))
   max.traps <- subset(x, effort.value == max(effort.value, na.rm = TRUE))
   max.traps <- max.traps[nrow(max.traps), ]
-  text(max.traps$year, max.traps$effort.value * 0.98,round(max.traps$effort.value/1000, 0), col = "grey40", pos = 4) 
+  text(max.traps$year, max.traps$effort.value * 0.98,round(max.traps$effort.value/1000, 0), col = "grey40", pos = 4)
   par(new = FALSE)
 }
   box(col = "darkgrey")

@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2013
-# Last modified: Jul 20, 2013
+# Last modified: May 05, 2014
 # Purpose:       plot of prediction curves
 
 
@@ -54,7 +54,7 @@ pt.dat <- transform(d.ri.cis, region = reorder(region, -mean.temp))
 
 pdf("../fig/meta_analytic_curves.pdf", width = 5.5, height = 8.5)
 i <<- 1
-par(mfcol = c(9, 3), mar = c(0,0,0,0), oma = c(10, 4, 2, 2), cex = 0.7, tck = -0.05, mgp = c(3, 0.6, 0))
+par(mfcol = c(9, 3), mar = c(0,0,0,0), oma = c(10, 4, 2, 2), cex = 0.7, tck = 0.05, mgp = c(3, 0.3, 0))
 d_ply(dp, c("var_order", "lag"), function(x) panel_func(x, the.pt.dat = pt.dat))
 mtext("Correlation", side = 2, outer = TRUE, line = 2.7, cex = 0.8, col = "grey30")
 mtext(expression(Mean~temperature~(degree*C)), side = 1, outer = TRUE, line = 2.7, cex = 0.8, col = "grey30")

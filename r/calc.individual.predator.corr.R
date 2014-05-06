@@ -172,7 +172,7 @@ even <- seq(2, 12, 2)
 pdf("../fig/ind.predators.corrs.pdf", width = 5.5, height = 3.5)
 par(mfcol = c(length(preds), length(regions)))
 par(mar = c(0,0,0,0), cex = 0.6, oma = c(3, 8, 4, 4))
-par(tck = -0.1, mgp = c(3, 0.4, 0))
+par(tck = 0.1, mgp = c(3, 0.05, 0))
 for(i in 1:length(regions)){
   for(j in 1:length(preds)){
     x <- subset(cor.long, region == regions.df$region[i] & common.predator.variable == preds[j])
@@ -184,14 +184,14 @@ for(i in 1:length(regions)){
 
 ## scaled by size:
       #rect(k, 0, k+1, x$prop.scaled[1]^0.25, border = FALSE, col =
-        #x$col[k+1])          
+        #x$col[k+1])
 
 ## scaled by size and centered:
       height <- 1 - x$prop.scaled[1]^0.25
 # background:
       rect(0, 0, 10, 1, col = "#00000002", border = NA)
       rect(k, 0+height/2, k+1, 1-height/2, border = FALSE, col =
-        x$col[k+1])          
+        x$col[k+1])
       ## add significance stars:
 
       if(!is.na(x$pvalue[k+1]))
@@ -235,7 +235,7 @@ gg_color_hue <- function(n) {
   hcl(h=hues, l=57.5, c=100)[1:n]
 }
 
-p <- ggplot(hom.dat.pred, aes(year, pred.value.scaled.one, colour = common.predator.variable, linetype = common.predator.variable)) + facet_wrap(~region.temp.order) + geom_line() + theme_bw() + xlab("Year") + ylab("Scaled predator abundance or biomass") +  
+p <- ggplot(hom.dat.pred, aes(year, pred.value.scaled.one, colour = common.predator.variable, linetype = common.predator.variable)) + facet_wrap(~region.temp.order) + geom_line() + theme_bw() + xlab("Year") + ylab("Scaled predator abundance or biomass") +
 # scale_colour_discrete(name = "Predator") + scale_linetype_manual(values = c(rep(c(1, 2), 6), 1))
 scale_linetype_manual(values = c(rep(c(1, 2), 6), 1), name = "Predator") +
 # scale_color_manual(values = c(brewer.pal(7, "Set3"), brewer.pal(6, "Set3")))

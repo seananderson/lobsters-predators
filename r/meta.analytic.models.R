@@ -1,11 +1,11 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2013
-# Last modified: Mar 06, 2014
+# Last modified: May 06, 2014
 # Purpose:       conduct the meta-analysis
 
 source("Autocorr.Pyper.r")
 
-d.ri <- ddply(d, c("region", "variable", "lag"), function(x){
+d.ri <- ddply(d , c("region", "variable", "lag"), function(x){
               ri= with(x, cor(prey_val, com_val))
               vp = var(x$prey_val)
               vc = var(x$com_val)
@@ -134,8 +134,7 @@ out.mods <- ldply(d.rma.mods, function(x){
   }
   if(rma.type %in% c("RE", "FE", "RB")) {
     # fake data... this doesn't get used anywhere that's important now:
-    out.df <- data.frame(pred = rep(0, 9), pi.l = rep(-0.1, 9),
-      pi.ub = rep(0.1, 9))
+    out.df <- data.frame(pred = rep(0, length(unique(d$region))), pi.l = rep(-0.1, length(unique(d$region))), pi.ub = rep(0.1, length(unique(d$region))))
   }
   if(rma.type != "RB") {
   avg <- predict(x$model, transf = transf.ztor)

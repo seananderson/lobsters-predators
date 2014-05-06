@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2013
-# Last modified: Mar 06, 2014
+# Last modified: May 06, 2014
 # Purpose:       meta-analysis plots - all of them
 
 p <-  ggplot(d.ri, aes(ni.raw, ni, colour = region)) + geom_point() + facet_grid(~variable)
@@ -40,7 +40,7 @@ dev.off()
 
 library(gplots)
 cols <- rich.colors(length(unique(out.mods$region)))
-names(cols) <- 0:8
+names(cols) <- 0:(length(unique(out.mods$region))-1)
 #p <- ggplot(curves, aes(temps, ri_pred, colour= as.factor(lag))) + geom_line(aes(group = lag)) + facet_wrap(~variable) + geom_hline(yintercept = 0, lty = 2) + ylab("Correlation") + xlab("Mean temperature") + scale_colour_manual(values = cols)
 #ggsave("../fig/curves_predicted_temp_temp_squared_rich.pdf", width = 10, height = 6)
 

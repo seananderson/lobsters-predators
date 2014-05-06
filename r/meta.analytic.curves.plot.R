@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2013
-# Last modified: May 05, 2014
+# Last modified: May 06, 2014
 # Purpose:       plot of prediction curves
 
 
@@ -42,7 +42,7 @@ gg_color_hue <- function(n) {
   hues = seq(8, 318, length=n+1)
   hcl(h=hues, l=57.5, c=100)[1:n]
 }
-region.cols <- gg_color_hue(9)
+region.cols <- gg_color_hue(length(unique(d$region)))
 
 dp <- subset(curve_predictions, variable %in% c("predator", "nao", "temperature"))
 dp <- dp[order(dp$lag, dp$variable), ]

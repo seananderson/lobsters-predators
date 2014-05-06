@@ -3,3 +3,8 @@
 .RData
 
 *.pdf
+*.aux
+*.log
+*.Rapp.history
+
+r/map-colour-temperature-data.RData

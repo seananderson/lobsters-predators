@@ -2,6 +2,10 @@
 
 # ggplot(q, aes(mean.temp, ri)) + geom_pointrange(aes(ymin = pi.lb, ymax = pi.ub)) +geom_hline(yintercept = 0, lty = 2) + facet_wrap(~lag)
 
+# to re-run with only US effort series, you will probably also want to subset
+# for those above 7.5 for predictions:
+#dp.effort <- subset(curve_predictions, variable == "effort" & mean.temp > 7.5)
+
 dp.effort <- subset(curve_predictions, variable == "effort")
 dp.effort <- dp.effort[order(dp.effort$lag, dp.effort$variable), ]
 pt.dat.effort <- transform(d.ri.cis, region = reorder(region, -mean.temp))

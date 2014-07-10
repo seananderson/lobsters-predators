@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2012
-# Last modified: May 06, 2014
+# Last modified: May 15, 2014
 # Purpose:       Steps for meta-analysis-style
 # lobster-predators-temperature-NAOI paper.
 

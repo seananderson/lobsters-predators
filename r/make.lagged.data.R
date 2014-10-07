@@ -28,8 +28,8 @@ hom.indices.combined <- combined.lob.data(dat = hom.indices, type = "lob.indices
 hom.indices.combined <- subset(hom.indices.combined, year > 1)
 write.csv(hom.dat.combined, file = "../data/hom.dat.combined.csv",
   row.names = FALSE)
-write.csv(hom.indices.combined, file = "../data/hom.indices.combined.csv",
-  row.names = FALSE)
+#write.csv(hom.indices.combined, file = "../data/hom.indices.combined.csv",
+  #row.names = FALSE)
 
 use.NAO.vec <- c(TRUE, FALSE)
 for(i in 1:2) {

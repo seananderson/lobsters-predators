@@ -1,21 +1,25 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2012
-# Last modified: May 15, 2014
-# Purpose:       Steps for meta-analysis-style
-# lobster-predators-temperature-NAOI paper.
+# Last modified: Oct 06, 2014
+# Purpose:       Lobster-predators-temperature-NAOI paper
 
-rm(list = ls())
 library(ggplot2)
 library(reshape)
 library(plyr)
 library(metafor)
-#library(nlme)
 
-# regions to import; these names must match the names on the tabs in
-# the spreadsheet
+# regions to import; these names must match the file names of the raw
+# data .csv files:
 regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts", "Rhode Island", "Connecticut", "s Gulf St Lawrence", "Nova Scotia", "Newfoundland")
-#regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts", "Rhode Island", "Connecticut")
-source("make.lagged.data.R")
+# alternative version:
+# regions <- c("Gulf of Maine", "s New England", "Georges Bank",
+#   "Massachusetts", "Rhode Island", "Connecticut")
+
+# The part of the analysis that reads and combines the raw data has been
+# commented out because we don't have permission to share the raw data.
+# Instead, begin with the analysis below that starts from the processed
+# data.
+# source("make.lagged.data.R")
 
 # make effort lagged data:
 source("effort.correlations.r")
@@ -35,7 +39,7 @@ source("meta.analytic.models.R")
 # make exploratory plots (and create prediction data):
 source("exploratory.plots.R")
 
-# the main rainbow quadratic correlation lag plot:
+# the main quadratic correlation lag plot:
 source("meta.analytic.curves.plot.R")
 
 # make effort correlation plots:

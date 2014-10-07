@@ -1,5 +1,7 @@
 #' Examine effort-lobster lagged correlations
 
+source("scale.dat.R")
+
 ef <- read.csv("hom.dat.combined.csv")
 
 ef <- subset(ef, type %in% c("prey", "effort"))[,c("year", "combined.value", "type", "region")]
@@ -14,7 +16,7 @@ ef <- ddply(ef, "region", transform,
   lagneg3 = c(effort[4:(length(effort))], rep(NA, 3)),
   lagneg2 = c(effort[3:(length(effort))], rep(NA, 2)),
   lagneg1 = c(effort[2:(length(effort))], rep(NA, 1)),
-  lag0 = c(rep(NA, 0), effort[1:(length(effort))]),  
+  lag0 = c(rep(NA, 0), effort[1:(length(effort))]),
   lag1 = c(rep(NA, 1), effort[1:(length(effort)-1)]),
   lag2 = c(rep(NA, 2), effort[1:(length(effort)-2)]),
   lag3 = c(rep(NA, 3), effort[1:(length(effort)-3)])

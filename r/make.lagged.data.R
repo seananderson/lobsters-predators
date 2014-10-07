@@ -1,13 +1,13 @@
 # ====================================================================
 # Created by:    Sean Anderson, sean@seananderson.ca
 # Created:       Dec 26, 2012
-# Last modified: Apr 01, 2013
+# Last modified: Oct 06, 2014
 # Purpose:       create lagged data with both NAO and temperature ...
 # ignore effort
 # ====================================================================
 
 # source necessary functions:
-source("import.hom.data.R") 
+source("import.hom.data.R")
 source("read.hom.data.R")
 source("combine.lob.data.2.R")
 source("scale.dat.R")
@@ -24,6 +24,12 @@ hom.indices <- read.hom.dat(save.file.name = "hom.indices", include.row.name = "
 # also writes out a .csv file of the combined data
 hom.dat.combined <- combined.lob.data(dat = hom.dat, type = "lob.pred.climate", save.file.name = "hom.dat.combined", equally.weight.indices = EQUALLY.WEIGHT.INDICES)
 hom.indices.combined <- combined.lob.data(dat = hom.indices, type = "lob.indices", save.file.name = "hom.indices.combined")
+
+hom.indices.combined <- subset(hom.indices.combined, year > 1)
+write.csv(hom.dat.combined, file = "../data/hom.dat.combined.csv",
+  row.names = FALSE)
+write.csv(hom.indices.combined, file = "../data/hom.indices.combined.csv",
+  row.names = FALSE)
 
 use.NAO.vec <- c(TRUE, FALSE)
 for(i in 1:2) {

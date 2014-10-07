@@ -22,3 +22,5 @@ fig/optimal-curves-simple.ai
 fig/optimal-curves-simple.pdf
 fig/quadratic-meta-regressions.csv
 
+
+*.RData

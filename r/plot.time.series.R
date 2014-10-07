@@ -19,6 +19,7 @@ n <- length(unique(hom.dat.to.plot$region))
 hom.dat.combined.effort <- subset(hom.dat.combined, type == "effort")[,c("region", "year", "combined.value")]
 names(hom.dat.combined.effort)[3] <- "effort.value"
 hom.dat.to.plot <- merge(hom.dat.to.plot, hom.dat.combined.effort, all.x = TRUE)
+#write.csv(hom.dat.to.plot, file = "../data/lobster-dat.csv")
 
 pdf("../fig/hom-time-series-effort.pdf", width = 7, height =10.5)
 par(mfcol = c(n, 3))

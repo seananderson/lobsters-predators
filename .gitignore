@@ -8,3 +8,12 @@
 *.Rapp.history
 
 r/map-colour-temperature-data.RData
+data/Connecticut.csv
+data/Georges Bank.csv
+data/Gulf of Maine.csv
+data/Massachusetts.csv
+data/Newfoundland.csv
+data/Nova Scotia.csv
+data/Rhode Island.csv
+data/s Gulf St Lawrence.csv
+data/s New England.csv

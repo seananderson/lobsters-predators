@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2012
-# Last modified: Oct 06, 2014
+# Last modified: Oct 10, 2014
 # Purpose:       Lobster-predators-temperature-NAOI paper
 
 library(ggplot2)
@@ -10,7 +10,9 @@ library(metafor)
 
 # regions to import; these names must match the file names of the raw
 # data .csv files:
-regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts", "Rhode Island", "Connecticut", "s Gulf St Lawrence", "Nova Scotia", "Newfoundland")
+regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts",
+  "Rhode Island", "Connecticut", "s Gulf St Lawrence", "Nova Scotia",
+  "Newfoundland")
 # alternative version:
 # regions <- c("Gulf of Maine", "s New England", "Georges Bank",
 #   "Massachusetts", "Rhode Island", "Connecticut")

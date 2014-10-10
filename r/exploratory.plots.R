@@ -1,6 +1,6 @@
 # Created by:    Sean C. Anderson
 # Created:       Feb 20, 2013
-# Last modified: May 06, 2014
+# Last modified: Oct 10, 2014
 # Purpose:       meta-analysis plots - all of them
 
 p <-  ggplot(d.ri, aes(ni.raw, ni, colour = region)) + geom_point() + facet_grid(~variable)
@@ -78,7 +78,7 @@ ggsave("../fig/prediction_predation_quadratics_raw_ris_facet.pdf", width = 10, h
 p <- ggplot(d.ri.cis, aes(lag, ri, pch = variable, colour = variable )) + geom_pointrange(aes(ymin = pi.lb, ymax = pi.ub), position = position_dodge(width = 0.6)) + facet_wrap(~region_temperature_ordered) + geom_hline(yintercept = 0, lty = 1, col = "#00000030") + theme_bw() + xlab("Lag") + ylab("Correlation")
 ggsave("../fig/non_BLUPS.pdf", width = 10, height = 6)
 
-p <- ggplot(out.mods, aes(lag, pred, pch = variable, colour = variable )) + geom_pointrange(aes(ymin = pi.lb, ymax = pi.ub), position = position_dodge(width = 0.5)) + facet_wrap(~region_temperature_ordered) + geom_hline(yintercept = 0, lty = 1, col = "#00000030") + theme_bw() + xlab("Lag") + ylab("Correlation")
+p <- ggplot(out.mods, aes(lag, pred, pch = variable, colour = variable )) + geom_point(position = position_dodge(width = 0.5)) + facet_wrap(~region_temperature_ordered) + geom_hline(yintercept = 0, lty = 1, col = "#00000030") + theme_bw() + xlab("Lag") + ylab("Correlation")
 ggsave("../fig/BLUPS_mods_temp_temp_sqaured.pdf", width = 10, height = 6)
 
 library(gplots)

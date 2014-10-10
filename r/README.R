@@ -22,17 +22,12 @@ regions <- c("Gulf of Maine", "s New England", "Georges Bank", "Massachusetts",
 # Instead, begin with the analysis below that starts from the processed
 # data.
 # source("make.lagged.data.R")
-# instead:
-hom.dat.combined <- read.csv("../data/hom.dat.combined.csv",
-  stringsAsFactors = FALSE)
-#hom.indices.combined <- read.csv("../data/hom.indices.combined.csv",
-  #stringsAsFactors = FALSE)
 
 # make effort lagged data:
-source("effort.correlations.r")
+# source("effort.correlations.r")
 
 # plot the raw time series for publication:
-source("plot.time.series.R")
+# source("plot.time.series.R")
 
 # reshape the data for use in the meta-analysis
 # this combines the temperature, nao, predator, and prey time series

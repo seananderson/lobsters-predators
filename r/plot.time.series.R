@@ -33,27 +33,67 @@ i <<- 1
 hom.dat.to.plot.1960 <- subset(hom.dat.to.plot, year >=1960)
 
 d_ply(hom.dat.to.plot.1960, c("ordered.type", "ordered.region"), function(x) {
-      #browser()
-      par(xpd = NA)
-current.units <- unique(x$units)[1]
-if(current.units %in% c("deg C", "Deg C", "C | ", "mean C", "C")) current.units <- expression(degree*C)
-if(unique(x$type) == "environment")
-  ylim <- c(min(x$combined.value)*0.9, max(x$combined.value)*1.1)
-else
-  ylim <- c(0, max(x$combined.value) * 1.1)
+  par(xpd = NA)
+  current.units <- unique(x$units)[1]
 
-  with(x, plot(year, combined.value, xlim = c(1960, 2010), axes = FALSE, ylab= current.units, ylim = ylim, xlab = "", lwd = 0.9, type = "l", yaxs = "i"))
-if(unique(x$type == "prey")) {
-  par(new = TRUE)
-  with(x, plot(year, effort.value, xlim = c(1960, 2010), axes = FALSE, ylab= "", xlab = "", lwd = 0.9, type = "l", lty = 2, ylim = c(0, max(effort.value, na.rm = TRUE))))
-  max.traps <- subset(x, effort.value == max(effort.value, na.rm = TRUE))
-  max.traps <- max.traps[nrow(max.traps), ]
-  text(max.traps$year, max.traps$effort.value * 0.98,round(max.traps$effort.value/1000, 0), col = "grey40", pos = 4)
-  par(new = FALSE)
+cv <- x$combined.value
+cu <- current.units
+data_type <- x$data.type[1]
+if(data_type == "landings") {
+  data_type <- "Landings"
 }
+if(data_type == "trawlsurvey") {
+  data_type <- "Trawl survey"
+}
+if(data_type == "stockassessment") {
+  data_type <- "Stock assessment"
+}
+if(cu == "Million" | cu == "Millions") {
+  cv <- cv / 1e6
+  cu <- "Million"
+}
+if(cu == "t") {
+  cu <- "1000 t"
+  cv <- cv / 1000
+}
+  if(cu %in% c("deg C", "Deg C", "C | ", "mean C", "C")) cu <- expression(degree*C)
+
+  if(unique(x$type) == "environment")
+    ylim <- c(min(cv)*0.9, max(cv)*1.1)
+  else
+    ylim <- c(0, max(cv) * 1.20)
+
+  with(x, plot(year, cv, xlim = c(1960, 2010), axes = FALSE, ylab= cu, ylim = ylim, xlab = "", lwd = 0.9, type = "l", yaxs = "i"))
+  at <- axTicks(side = 2)
+  at <- at[seq(1, length(at), 2)]
+  if(max(at) > 0.95*ylim[2]) at <- at[-length(at)]
+  axis(2, at = at, col = "darkgrey", col.axis = "grey30", las = 2)
+  if(unique(x$type == "prey")) {
+    par(new = TRUE)
+    with(x, plot(year, effort.value, xlim = c(1960, 2010), axes = FALSE, ylab= "", xlab = "", lwd = 0.9, type = "l", lty = 2, ylim = c(0, max(effort.value, na.rm = TRUE) * 1.1)))
+    max.traps <- subset(x, effort.value == max(effort.value, na.rm = TRUE))
+    max.traps <- max.traps[nrow(max.traps), ]
+    text.y <- max.traps$effort.value * 0.98
+    text.x <- max.traps$year
+    if(i == 2) {
+      text.y <- text.y * 1.09
+      text.x <- text.x -10
+    }
+    if(i == 3) {
+      text.y <- text.y * 1.05
+    }
+    if(i == 4) {
+      text.y <- text.y * 1.08
+      text.x <- text.x -6
+    }
+    if(i == 5) {
+      text.y <- text.y * 1.08
+    }
+    text(text.x, text.y,round(max.traps$effort.value/1000, 0), col = "grey40", pos = 4)
+    par(new = FALSE)
+  }
   box(col = "darkgrey")
-  axis(2, col = "darkgrey", col.axis = "grey30")
-  text(par("usr")[1], par("usr")[4] - 0.1 * (par("usr")[4] - par("usr")[3]), unique(x$data.type), col = "grey30", pos = 4)
+  text(par("usr")[1], par("usr")[4] - 0.1 * (par("usr")[4] - par("usr")[3]), data_type, col = "grey30", pos = 4)
   if(i %in% c(n, n*2, n*3)) axis(1, col = "darkgrey", col.axis = "grey30", cex = 0.8)
   if(i == n*2+1) mtext("Temperature", side = 3, line = .5, col = "grey30", cex = 0.8)
   if(i == n+1) mtext("Predators", side = 3, line = .5, col = "grey30", cex = 0.8)
